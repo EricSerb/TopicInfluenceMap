@@ -1,0 +1,409 @@
+*Vertices 146
+52 "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning" 132
+80 "H-Map: A Dimension Reduction Mapping for Approximate Retrieval of Multi-dimensional Data" 1
+117 "A Sufficient Condition for Polynomial Distribution-dependent Learnability" 13
+54 "Probabilistic Independence Networks for Hidden Markov Probability Models" 408
+76 "Beyond Independent Components: Trees and Clusters" 21
+60 "Sequential Prediction of Individual Sequences Under General Loss Functions" 44
+34 "Efficient Cost Measures for Motion Compensation at Low Bit Rates (Extended Abstract)" 9
+78 "Forward Models: Supervised Learning with a Distal Teacher" 118
+22 "The Strength of Weak Learnability" 337
+93 "Object Recognition with Gradient-Based Learning" 805
+82 "Blind Source Separation and Deconvolution: the Dynamic Component Analysis Algorithm" 52
+105 "Estimating the Support of a High-Dimensional Distribution" 59
+70 "Memory-based neural networks for robot learning" 50
+51 "The Utility of Knowledge in Inductive Learning" 118
+125 "Constructing free-energy approximations and generalized belief propagation algorithms" 28
+89 "The Genomics of a Signaling Pathway: A KDD Cup Challenge Task" 3
+5 "Learning Evaluation Functions to Improve Optimization by Local Search" 31
+43 "Greedy Algorithms for Classification -- Consistency, Convergence Rates, and Adaptivity" 26
+135 "Sequential Monte Carlo Methods to Train Neural Network Models" 16
+99 "Improvements to Platt's SMO Algorithm for SVM Classifier Design" 22
+40 "An Introduction to MCMC for Machine Learning" 95
+141 "A Fast, Compact Approximation of the Exponential Function" 4
+103 "The Hierarchical Hidden Markov Model: Analysis and Applications" 861
+48 "The Computer-Aided Discovery of Scientific Knowledge" 17
+75 "Kernel Independent Component Analysis" 47
+88 "On the Application of ROC Analysis to Predict Classification Performance Under Varying Class Distributions" 27
+81 "Incorporating Biological Knowledge into Evaluation of Causal Regulatory Hypotheses" 1
+126 "Adaptive Mixtures of Probabilistic Transducers" 7
+122 "Spike-Timing-Dependent Hebbian Plasticity as Temporal Difference Learning" 46
+138 "Tree-based reparameterization framework for analysis of sum-product and related algorithms" 28
+91 "Bounds on Error Expectation for Support Vector Machines" 14
+115 "Enlarging the Margins in Perceptron Decision Trees" 26
+20 "Prediction Games and Arcing Algorithms" 19
+124 "Correctness of Local Probability Propagation in Graphical Models with Loops" 859
+77 "Polyhedral mixture of linear experts for many-to-one mapping inversion and multiple controllers" 12
+127 "The Power of Amnesia: Learning Probabilistic Automata with Variable Memory Length" 872
+14 "A Bayesian Committee Machine" 39
+119 "Shadow targets: A novel algorithm for topographic projections by radial basis functions" 5
+36 "Multi-relational data mining: the current frontiers" 8
+32 "Applying Inductive Logic Programming to Predicting Gene Function" 8
+29 "Approximate Statistical Test For Comparing Supervised Classification Learning Algorithms" 152
+33 "Explicit Bit Minimization for Motion-Compensated Video Coding" 10
+41 "Robust Full Bayesian Learning for Radial Basis Networks" 6
+133 "Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity" 7
+37 "Scalability and efficiency in multi-relational data mining" 69
+90 "The Subspace Information Criterion for Infinite Dimensional Hypothesis Spaces" 40
+144 "A Response to Webb and Ting's On the Application of ROC Analysis to Predict Classification Performance Under Varying Class Distributions" 5
+104 "Trading Variance Reduction with Unbiasedness: The Regularized Subspace Information Criterion for Robust Model Selection in Kernel Regression" 21
+114 "Learning Dynamic Bayesian Networks" 49
+96 "Complexity Issues in Natural Gradient Descent Method for Training Multi-Layer Perceptrons" 9
+101 "LeRec: a NN/HMM hybrid for on-line handwriting recognition" 22
+143 "PAC Learning Intersections of Halfspaces with Membership Queries" 18
+140 "A unifying framework for invariant pattern recognition" 1
+62 "Feature Extraction by Non-Parametric Mutual Information Maximization" 34
+16 "Training nu-Support Vector Classifiers: Theory and Algorithms" 31
+46 "Efficient agnostic learning of neural networks with bounded fan-in" 36
+118 "Feed-Forward Neural Networks and Topographic Mappings for Exploratory Data Analysis" 26
+55 "Belief networks, hidden Markov models, and Markov random fields: A unifying view" 4
+94 "Energy-Based Models for Sparse Overcomplete Representations" 37
+2 "Factor Analysis Using Delta-Rule Wake-Sleep Learning" 40
+4 "Policy Search using Paired Comparisons" 15
+107 "The Convergence of TD(lambda) for General lambda" 25
+28 "Variational Learning for Switching State-Space Models" 41
+7 "A survey of kernels for structured data" 75
+145 "On the Uniqueness of Loopy Belief Propagation Fixed Points" 3
+56 "On the Rate of Convergence of Regularized Boosting Classifiers" 34
+131 "Mixtures of Probabilistic Principal Component Analysers" 136
+123 "Efficient Induction of Logic Programs" 4
+110 "Learning Continuous Probability Distributions with Symmetric Diffusion Networks" 6
+26 "Sparse Bayesian Learning and the Relevance Vector Machine" 86
+100 "A Decision-Theoretic Extension of Stochastic Complexity and Its Applications to Learning" 31
+44 "Gaussian Processes for Classification: Mean-Field Algorithms" 20
+121 "Rademacher penalties and structural risk minimization" 12
+12 "Inductive Learning in Deductive Databases" 2
+24 "Sequential greedy approximation for certain convex optimization problems" 9
+79 "Approximate Retrieval of High-Dimensional Data by Spatial Indexing" 1
+136 "Providing Database-like Access to the Web Using Queries Based on Textual Similarity" 0
+8 "Learning Team Strategies: Soccer Case Studies" 33
+137 "Leave-One-Out Bounds for Kernel Methods" 4
+35 "Dynamic Model of Visual Recognition Predicts Neural Response Properties in the Visual Cortex" 64
+3 "Recurrent Sampling Models for the Helmholtz Machine" 41
+116 "Robust Regression with Asymmetric Heavy-Tail Noise Distributions" 4
+49 "Toward Drawing an Atlas of Hypothesis Classes: Approximating a Hypothesis via Another Hypothesis Model" 1
+21 "Linear Programming Boosting via Column Generation" 31
+139 "An Approximate Analytical Approach to Resampling Averages" 7
+120 "Warmr: a data mining tool for chemical data" 14
+106 "Associative Reinforcement Learning: A Generate and Test Algorithm" 6
+84 "Formulations of Support Vector Machines: A Note from an Optimization Point of View" 8
+98 "A Note on the Decomposition Methods for Support Vector Regression" 10
+42 "Generalization Error Bounds for Bayesian Mixture Algorithms" 26
+27 "A Unifying Review of Linear Gaussian Models" 471
+142 "On the Performance of Kernel Classes" 4
+95 "Learning with Mixtures of Trees" 58
+6 "Kernels and Distances for Structured Data" 29
+10 "Online Learning of Linear Classifiers" 6
+71 "Associative Reinforcement Learning: Functions in k-DNF" 13
+63 "Laplacian Eigenmaps for Dimensionality Reduction and Data Representation" 50
+72 "On a Kernel-Based Method for Pattern Recognition, Regression, Approximation, and Operator Inversion" 19
+66 "Prospects and challenges for multi-relational data mining" 25
+92 "Bias/Variance Decompositions for Likelihood-Based Estimators" 17
+128 "Efficient Read-Restricted Monotone CNF/DNF Dualization by Learning with Membership Queries" 41
+17 "New Support Vector Algorithms" 68
+18 "Using Machine Learning to Design and Interpret Gene-Expression Microarrays" 16
+108 "TD(lambda) Converges with Probability 1" 12
+67 "Relational Learning with Statistical Predicate Invention: Better Models for Hypertext" 32
+9 "Shifting Inductive Bias with Success-Story Algorithm, Adaptive Levin Search, and Incremental Self-Improvement" 51
+13 "Background Knowledge and Declarative Bias in Inductive Concept Learning" 1
+0 "Biochemical Knowledge Discovery Using Inductive Logic Programming" 27
+134 "Context-sensitive Learning Methods for Text Categorization" 3
+19 "Biological applications of multi-relational data mining" 39
+53 "Using Expectation-Maximization for Reinforcement Learning" 3
+61 "Potential-Based Algorithms in On-Line Prediction and Game Theory" 23
+57 "On the Dual Formulation of Regularized Linear Systems with Convex Risks" 13
+130 "Sparseness of Support Vector Machines" 13
+15 "Computation with Infinite Neural Networks" 6
+73 "Worst-Case Bounds for the Logarithmic Loss of Predictors" 15
+59 "Gene Selection for Cancer Classification using Support Vector Machines" 104
+83 "An Extensive Empirical Study of Feature Selection Metrics for Text Classification" 30
+109 "A Learning Theorem for Networks at Detailed Stochastic Equilibrium" 806
+97 "Fast Curvature Matrix-Vector Products for Second-Order Gradient Descent" 10
+69 "Constructive Incremental Learning from Only Local Information" 51
+86 "Attractor Dynamics in Feedforward Neural Networks" 23
+64 "Active EM to reduce noise in activity recognition" 15
+65 "Selective Sampling Using the Query by Committee Algorithm" 93
+74 "Finding the Most Interesting Patterns in a Database Quickly by Using Sequential Sampling" 19
+113 "Bottom-Up Relational Learning of Pattern Matching Rules for Information Extraction" 40
+47 "Multi-relational data mining: an introduction" 32
+50 "Quantifying Prior Determination Knowledge Using the PAC Learning Model" 10
+25 "PAC-Bayesian Generalisation Error Bounds for Gaussian Process Classification" 33
+39 "A Few Notes on Statistical Learning Theory" 6
+68 "Structural Risk Minimization Over Data-Dependent Hierarchies" 82
+30 "Automatically Exploring Hypotheses About Fault Prediction: A Comparative Study of Inductive Logic Programming Methods" 16
+1 "An Empirical Study of the Use of Relevance Information in Inductive Logic Programming" 20
+23 "Some Results on Weakly Accurate Base Learners for Boosting Regression and Classification" 14
+38 "Improving the sample complexity using global data" 9
+111 "Extracting Context-Sensitive Models in Inductive Logic Programming" 19
+31 "BoosTexter: A Boosting-based System for Text Categorization" 157
+87 "Adjusted Probability Naive Bayesian Induction" 15
+45 "Covering Number Bounds of Certain Regularized Linear Function Classes" 30
+85 "Training Products of Experts by Minimizing Contrastive Divergence" 41
+129 "Complexity Theoretic Hardness Results for Query Learning" 38
+112 "Use of the Zero-Norm with Linear Models and Kernel Methods" 20
+58 "Nonlinear Component Analysis as a Kernel Eigenvalue Problem" 287
+11 "Tracking the Best Linear Predictor" 42
+132 "Learning Relations from Noisy Examples: An Empirical Comparison of LINUS and FOIL" 1
+102 "Design of a neural network character recognizer for a touch terminal" 37
+*Edges 261
+0 1 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 15 1
+16 17 1
+18 19 1
+20 21 1
+22 23 1
+24 20 1
+25 26 1
+27 28 1
+29 30 1
+31 32 1
+33 34 1
+35 3 1
+36 37 1
+38 39 1
+40 41 1
+21 20 1
+42 43 1
+1 0 1
+25 44 1
+45 46 1
+36 47 1
+48 49 1
+50 51 1
+52 53 1
+51 50 1
+54 55 1
+56 38 1
+57 45 1
+58 59 1
+60 61 1
+58 62 1
+58 63 1
+64 65 1
+19 66 1
+19 67 1
+42 68 1
+69 70 1
+43 22 1
+52 71 1
+58 17 1
+17 72 1
+73 60 1
+74 37 1
+44 25 1
+54 27 1
+75 76 1
+77 78 1
+79 80 1
+19 81 1
+82 27 1
+83 59 1
+16 84 1
+85 86 1
+52 9 1
+87 88 1
+89 19 1
+53 52 1
+59 83 1
+90 91 1
+92 90 1
+93 22 1
+68 45 1
+85 94 1
+95 54 1
+68 21 1
+96 97 1
+30 29 1
+98 99 1
+90 100 1
+78 86 1
+101 102 1
+93 101 1
+78 35 1
+100 73 1
+19 103 1
+17 104 1
+11 60 1
+68 105 1
+71 106 1
+12 51 1
+107 108 1
+17 16 1
+55 54 1
+109 110 1
+86 78 1
+36 19 1
+85 92 1
+70 69 1
+25 68 1
+66 36 1
+111 1 1
+26 112 1
+97 96 1
+113 19 1
+90 104 1
+68 25 1
+37 74 1
+114 54 1
+110 109 1
+39 38 1
+65 64 1
+29 115 1
+116 116 1
+117 68 1
+25 25 1
+3 78 1
+52 78 1
+118 119 1
+17 58 1
+72 17 1
+7 6 1
+32 120 1
+19 113 1
+121 68 1
+34 33 1
+119 118 1
+90 17 1
+91 90 1
+54 114 1
+106 71 1
+104 90 1
+71 52 1
+35 122 1
+56 22 1
+12 123 1
+24 43 1
+124 125 1
+94 85 1
+11 10 1
+3 35 1
+126 127 1
+26 25 1
+128 129 1
+130 17 1
+17 130 1
+37 36 1
+81 19 1
+1 111 1
+131 27 1
+12 132 1
+68 121 1
+63 58 1
+105 68 1
+73 100 1
+133 134 1
+42 57 1
+54 28 1
+115 29 1
+9 8 1
+135 40 1
+120 32 1
+52 3 1
+61 60 1
+17 90 1
+122 35 1
+30 51 1
+45 68 1
+42 45 1
+49 48 1
+62 58 1
+136 133 1
+41 40 1
+21 68 1
+5 4 1
+57 137 1
+135 41 1
+23 22 1
+125 138 1
+38 56 1
+127 103 1
+127 126 1
+44 139 1
+104 17 1
+129 128 1
+19 18 1
+140 72 1
+28 54 1
+59 58 1
+46 45 1
+99 98 1
+9 52 1
+40 135 1
+54 95 1
+80 79 1
+54 124 1
+103 19 1
+22 43 1
+35 78 1
+19 89 1
+97 141 1
+125 124 1
+43 42 1
+15 14 1
+102 101 1
+32 31 1
+37 66 1
+47 36 1
+19 36 1
+84 16 1
+124 54 1
+22 93 1
+90 92 1
+42 25 1
+141 97 1
+138 124 1
+137 57 1
+78 3 1
+57 42 1
+38 142 1
+66 19 1
+139 44 1
+103 127 1
+78 77 1
+27 82 1
+66 37 1
+101 93 1
+78 52 1
+20 24 1
+27 54 1
+25 42 1
+55 124 1
+112 26 1
+27 131 1
+124 55 1
+100 90 1
+129 143 1
+60 73 1
+108 107 1
+72 140 1
+124 138 1
+28 27 1
+144 88 1
+60 11 1
+92 85 1
+43 24 1
+36 66 1
+125 145 1
+68 117 1
+145 125 1
+68 42 1
+22 56 1
+113 7 1
+76 75 1
+67 19 1
+142 38 1
+41 135 1
+51 30 1
+86 85 1
+45 42 1
+3 2 1
+45 57 1
+138 125 1
+143 129 1
+3 52 1

@@ -1,0 +1,207 @@
+*Vertices 93
+35 "An Analysis of Web Documents Retrieved and Viewed" 9
+14 "On the Update of Term Weights in Dynamic Information Retrieval Systems" 0
+27 "A Probabilistic Framework for Vague Queries and Imprecise Information in Databases" 7
+65 "Index Organization for Multimedia Database Systems" 0
+85 "Retrieval of Complex Objects Using a Four-Valued Logic" 1
+63 "Retrieving Spoken Documents by Combining Multiple Index Sources" 1
+82 "Method Combination For Document Filtering" 1
+11 "Compression of a Set of Correlated Bitmaps" 2
+80 "A Probabilistic Relational Model for the Integration of IR and Databases" 1
+60 "A Loosely-Coupled Integration of a Text Retrieval System and an Object-Oriented Database System" 7
+20 "Inverted Files Versus Signature Files for Text Indexing" 0
+57 "Retrieving Records from a Gigabyte of Text on a Mini-Computer Using Statistical Ranking" 3
+75 "Object-Oriented and Database Concepts for the Design of Networked Information Retrieval Systems" 1
+25 "ECLAIR: An Extensible Class Library for Information Retrieval" 5
+67 "Applying Informetric Characteristics of Databases to IR System File Design, Part I: Informetric Models" 2
+29 "Integrating Structured Data and Text: A Relational Approach" 3
+18 "Probabilistic Datalog - A Logic For Powerful Retrieval Methods" 4
+16 "Efficiency of Nested Relational Document Database Systems" 3
+15 "An Efficient Indexing Technique for Full Text Databases" 15
+89 "Review - Visualization of Retrieved Documents using a Presentation Server" 0
+19 "A Comparison of Text Retrieval Models" 3
+50 "Evaluation of an Inference Network-Based Retrieval Model" 6
+12 "Multiprocessor Document Allocation: A Genetic Algorithm Approach" 0
+48 "Multiprocessor Algorithms for Relational-Database Operators on Hypercube Systems" 28
+28 "Self-Indexing Inverted Files for Fast Text Retrieval" 5
+77 "Inference Networks for Document Retrieval" 2
+62 "Using Words and Phonetic Strings for Efficient Information Retrieval from Imperfectly Transcribed Spoken Documents" 0
+24 "Models for Integrated Information Retrieval and Database Systems" 0
+30 "Effect of Multiple Query Representations on Information Retrieval System Performance" 2
+76 "Probabilistic Document Indexing from Relevance Feedback Data" 1
+0 "Combining Multiple Evidence from Different Relevant Feedback Networks" 0
+4 "HySpirit - A Probabilistic Inference Engine for Hypermedia Retrieval in Large Databases" 0
+21 "Adding Compression to a Full-text Retrieval System" 2
+78 "The SMART Information Retrieval System after 30 years - Panel" 1
+53 "Effective Retrieval with Distributed Collections" 1
+45 "Report on the first Twente Data Management Workshop on XML Databases and Information Retrieval" 15
+52 "The Perils of Interpreting Recall and Precision Values" 5
+70 "Improved Retrieval Effectiveness Through Impact Transformation" 9
+84 "Dissemination of Collection Wide Information in a Distributed Information Retrieval System" 2
+26 "Economical Inversion of Large Text Files" 13
+56 "Modelling Hypermedia Retrieval in Datalog" 1
+23 "Partitioned Posting Files: A Parallel Inverted File Structure for Information Retrieval" 4
+38 "Integration of Probabilistic Fact and Text Retrieval" 3
+86 "Perceptual Speed, Learning and Information Retrieval Performance" 1
+68 "Integrating a Dynamic Lexicon with a Dynamic Full-Text Retrieval System" 1
+32 "A Systematic Approach to Compressing a Full-Text Retrieval System" 2
+47 "Site and Query Scheduling Policies in Multicomputer Database Systems" 1
+87 "Overview of the First Text REtrieval Conference" 3
+40 "Latent Semantic Indexing (LSI) and TREC-2" 1
+71 "Real Life Information Retrieval: A Study of User Queries on the Web" 78
+72 "Design of an Integrated Information Retrieval/Database Management System" 2
+7 "Parameterised Compression for Sparse Bitmaps" 7
+51 "Effectiveness of Weighted Searching in an Operational IR Environment" 8
+49 "Retrieval of Complex Objects" 2
+58 "Overview of the First Text REtrieval Conference (TREC-1)" 5
+73 "Fast Evaluation of Structured Queries for Information Retrieval" 2
+61 "TINTIN: A System for Retrieval in Text Tables" 0
+31 "A Probabilistic Relational Algebra for the Integration of Information Retrieval and Database Systems" 3
+44 "Fast and Quasi-Natural Language Search for Gigabits of Chinese Texts" 1
+46 "Report on the INEX 2003 workshop" 3
+17 "Fast Ranking in Limited Space" 2
+3 "Supporting Full-Text Information Retrieval with a Persistent Object Store" 2
+5 "Probabilistic Reasoning for Large Scale Databases" 1
+66 "Combining Multiple Evidence from Different Properties of Weighting Schemes" 2
+54 "Overview of the Third Text REtrieval Conference (TREC-3)" 2
+10 "Searching Large Lexicons for Partially Specified Terms using Compressed Inverted Files" 3
+83 "SPIDER: A Multiuser Information Retrieval System for Semistructured and Dynamic Data" 6
+74 "Applying Informetric Characteristics of Databases to IR System File Design, Part II: Simulation Comparisons" 2
+6 "Indexing Nucleotide Databases for Fast Query Evaluation" 0
+39 "Automatic Discovery of Language Models for Text Databases" 2
+59 "Integrating INQUERY with an RDBMS to Support Text Retrieval" 1
+88 "A New Character-based Indexing Organization using Frequency Data for Japanese Documents" 1
+13 "Document Allocation In Multiprocessor Information Retrieval Systems" 1
+41 "Searching Distributed Collections with Inference Networks" 12
+8 "Multiple Search Engines in Database Merging" 1
+90 "Visualization of Retrieved Documents using a Presentation Server" 1
+42 "Optimizations for Dynamic Inverted Index Maintenance" 5
+69 "Document and Passage Retrieval Based on Hidden Markov Models" 1
+9 "Interactive Document Retrieval Using TOPIC (A report on the TREC-3 experiment)" 1
+37 "The System Architecture and the Transaction Concept of the SPIDER Information Retrieval System" 0
+55 "Combining the Evidence of Multiple Query Representations for Information Retrieval" 2
+34 "From E-Sex to E-Commerce: Web Search Changes" 40
+79 "Compression of Indexes with Full Positional Information in Very Large Text Databases" 2
+91 "On the Allocation of Documents in Multiprocessor Information Retrieval Systems" 2
+1 "A Probabilistic Learning Approach for Document Indexing" 1
+2 "Fast Incremental Indexing for Full-Text Information Retrieval" 5
+81 "A Comparison of Indexing Techniques for Japanese Text Retrieval" 1
+43 "Effective  Efficient Document Ranking without using a Large Lexicon" 0
+36 "An analysis of multimedia searching on AltaVista" 16
+92 "Some Simple Effective Approximations to the 2-Poisson Model for Probabilistic Weighted Retrieval" 3
+33 "The INQUERY Retrieval System" 9
+64 "The First Text REtrieval Conference (TREC-1), Rockville, MD, USA, 4-6 November 1992" 1
+22 "Efficient Retrieval of Partial Documents" 1
+*Edges 112
+0 1 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 2 1
+15 11 1
+15 16 1
+17 15 1
+4 18 1
+2 19 1
+20 21 1
+17 22 1
+12 23 1
+24 25 1
+20 26 1
+24 27 1
+15 26 1
+20 28 1
+12 29 1
+6 26 1
+0 30 1
+4 31 1
+6 10 1
+10 32 1
+2 33 1
+34 35 1
+36 34 1
+37 38 1
+39 40 1
+39 41 1
+14 15 1
+34 36 1
+14 42 1
+43 44 1
+45 46 1
+2 15 1
+47 48 1
+49 50 1
+51 52 1
+2 50 1
+39 53 1
+14 54 1
+8 55 1
+24 56 1
+52 51 1
+4 28 1
+6 28 1
+17 57 1
+17 58 1
+3 33 1
+59 33 1
+37 60 1
+61 33 1
+62 63 1
+8 64 1
+65 28 1
+20 57 1
+0 66 1
+2 67 1
+8 30 1
+14 68 1
+10 26 1
+37 69 1
+70 71 1
+3 67 1
+3 72 1
+43 73 1
+3 74 1
+8 41 1
+49 27 1
+24 75 1
+27 76 1
+61 77 1
+61 78 1
+20 79 1
+59 80 1
+43 81 1
+43 17 1
+20 15 1
+8 82 1
+15 7 1
+37 83 1
+2 42 1
+14 84 1
+37 27 1
+0 50 1
+24 31 1
+2 74 1
+43 83 1
+4 85 1
+3 15 1
+10 7 1
+3 50 1
+10 15 1
+24 86 1
+24 18 1
+37 25 1
+71 70 1
+35 34 1
+24 38 1
+0 55 1
+0 87 1
+4 33 1
+14 83 1
+43 88 1
+89 90 1
+47 91 1
+46 45 1
+43 92 1

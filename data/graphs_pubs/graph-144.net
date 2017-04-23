@@ -1,0 +1,289 @@
+*Vertices 140
+112 "The OO-Binary Relationship Model: A Truly Object Oriented Conceptual Model" 4
+54 "Web Application Models Are More Than Conceptual Models" 0
+114 "Automatic Resource Compilation by Analyzing Hyperlink Structure and Associated Text" 4
+97 "Category Translation: Learning to Understand Information on the Internet" 1
+120 "A Fomalization of the Binary Object-Role Model based on Logic" 1
+38 "Ordering and Selecting Production Rules for Constraint Maintenance: Complexity and Heuristic Solution" 3
+59 "Synchronizing a Database to Improve Freshness" 1
+17 "A Web-Based Intelligent Tutoring System for Computer Programming" 17
+63 "HPP: HTML Macro-Preprocessing to Support Dynamic Document Caching" 47
+39 "Building Light-Weight Wrappers for Legacy Web Data-Sources Using W4F" 0
+109 "Context and Page Analysis for Improved Web Search" 69
+31 "How to build a WebFountain: An architecture for very large-scale text analytics" 10
+94 "Unified Integration of Explicit Knowledge and Learning by Example in Recurrent Networks" 1
+138 "Web Content Delivery to Heterogeneous Mobile Platforms" 0
+4 "Discovery of Web Communities from Positive and Negative Examples" 2
+34 "Self-Organization and Identification of Web Communities" 54
+47 "Random Sampling Techniques for Space Efficient Online Computation of Order Statistics of Large Datasets" 1
+115 "Efficient Crawling Through URL Ordering" 3
+32 "The WebCAT Framework - Automatic Generation of Meta-Data for Web Resources" 21
+104 "A Tiered System for Serving Differentiated Content" 14
+117 "An Interactive Classification of Web Documents by Self-Organizing Maps and Search Engines" 0
+137 "Design Reuse in Hypermedia Applications Development" 2
+84 "Applications of Linear Algebra in Information Retrieval and Hypertext Analysis" 1
+92 "An object-oriented data model formalised through hypergraphs" 1
+6 "Finding Replicated Web Collections" 0
+0 "An Evolutionary Approach to Mining Robust Multi-Resolution Web Profiles and Context Sensitive URL Associations" 6
+88 "On Axiomatizing Probabilistic Conditional Independencies in Bayesian Networks" 6
+75 "Engineering Web Applications for Reuse" 19
+85 "Improved Algorithms for Topic Distillation in a Hyperlinked Environment" 5
+118 "A SOM-Based Information Organizer for Text and Video Data" 1
+111 "A Logic Framework for a Semantics of Object-Oriented Data Modeling" 3
+72 "A Conceptual Model and a Tool Environment for Developing More Scalable, Dynamic, and Customizable Web Applications" 11
+41 "Adaptive Web Sites: Automatically Synthesizing Web Pages" 1
+135 "Observation Consistent Integration of Views of Object Life-Cycles" 2
+99 "Extracting Large-Scale Knowledge Bases from the Web" 2
+26 "Scalable Update Propagation in Epidemic Replicated Databases" 2
+89 "Knowledge Navigation on Visualizing Complementary Documents" 4
+90 "Combination Retrieval for Creating Knowledge from Sparse Document Collection" 5
+67 "Finding Related Pages Using the Link Structure of the WWW" 17
+52 "Distributions of Surfers' Paths Through the World Wide Web: Empirical Characterizations" 20
+33 "Mirror, Mirror on the Web: A Study of Host Pairs with Replicated Content" 1
+62 "Improving Fault Tolerance and Supporting Partial Writes in Structured Coterie Protocols for Replicated Objects" 4
+61 "Efficient Support for Partial Write Operations in Replicated Databases" 0
+8 "The World-Wide Web: Quagmire or Gold Mine?" 1
+51 "Constraint Enforcement Through Production Rules: Putting Active Databases at Work" 3
+127 "The Object-Oriented Hypermedia Design Model" 5
+44 "Extracting Patterns and Relations from the World Wide Web" 3
+95 "Magic Factoring of Closure Programs" 0
+125 "XML-GL: A Graphical Language for Querying and Restructuring XML Documents" 1
+1 "Extracting Web User Profiles Using Relational Competitive Fuzzy Clustering" 18
+23 "Scalable Feature Selection, Classification and Signature Generation for Organizing Large Text Databases into Hierarchical Topic Taxonomies" 2
+74 "Mining Web Site?s Clusters from Link Topology and Site Hierarchy" 15
+68 "Topic Continuity for Web Document Categorization and Ranking" 1
+82 "The Additivity Problem for Functional Dependencies in Incomplete Relations" 1
+5 "Machine Discovery Based on the Co-occurrence of References in a Search Engine" 4
+13 "Trawling the Web for Emerging Cyber-Communities" 2
+101 "Systematic Hypermedia Application Design with OOHDM" 2
+48 "Approximate Medians and other Quantiles in One Pass and with Limited Memory" 7
+11 "An Average Linear Time Algorithm For Web Usage Mining" 11
+3 "A Fully Precise Null Extended Nested Relational Algebra" 1
+121 "Constructing Deterministic Finite-State Automata in Recurrent Neural Networks" 1
+60 "Focused Crawling: A New Approach to Topic-Specific Web Resource Discovery" 3
+130 "XML: Current Developments and Future Challenges for the Database Community" 0
+9 "Moving Up the Information Food Chain: Deploying Softbots on the World Wide Web" 1
+55 "An Object-Oriented Model for Designing the Humam-Computer Interface Of Hypermedia Applications" 1
+21 "Mining Sequential Patterns: Generalizations and Performance Improvements" 8
+53 "Using Markov Chains for Link Prediction in Adaptive Web Sites" 18
+7 "Life, Death, and Lawfulness on the Electronic Frontier" 1
+37 "Predictive Algorithms for Browser Support of Habitual User Activities on the Web" 7
+66 "A Fine Grained Heuristic to Capture Web Navigation Patterns" 17
+136 "The Web as a Graph: Measurements, Models, and Methods" 1
+15 "Scalable Versioning in Distributed Databases with Commuting Updates" 1
+105 "System Design Issues for Internet Middleware Services: Deductions from a Large Client Trace" 159
+79 "A Graph-Based Data Model and its Ramifications" 1
+110 "Computing the Entropy of User Navigation in the Web" 4
+119 "Automatic Rule Generation for Constraint Enforcement in Active Databases" 3
+16 "Web-based Support Systems (WSS): A Report of the WIC Canada Research Centre" 8
+123 "Database Mining in the Architecture of a Semantic Preprocessor for State Aware Query Optimization" 2
+20 "A Road Map to More Effective Web Personalization: Integrating Domain Knowledge with Web Usage Mining" 19
+96 "Factoring Augmented Regular Chain Programs" 2
+128 "A Unified Framework for Supporting Dynamic Schema Evolution in Object Databases" 0
+122 "An Empirical Performance Study of the Ingres Search Accelerator for a Large Property Management Database System" 0
+24 "Feature Subset Selection in Text-Learning" 1
+131 "On Modularity for Conceptual Data Models and the Consequences for Subtyping, Inheritance  Overriding" 1
+36 "Automatic Generation of Production Rules for Integrity Maintenance" 17
+139 "WebComposition: An Object-Oriented Support System for the Web Engineering Lifecycle" 1
+22 "Fast Algorithms for Mining Association Rules in Large Databases" 101
+87 "Tools and Approaches for Developing Data-Intensive Web Applications: A Survey" 1
+113 "Addendum to 'Automatic Generation of Production Rules for Integrity Maintenance" 0
+14 "Asynchronous Version Advancement in a Distributed Three-Version Database" 0
+12 "Mining the Web for Acronyms Using the Duality of Patterns and Relations" 0
+25 "Issues in Web Content Replication" 0
+42 "Data-Driven, One-To-One Web Site Generation for Data-Intensive Applications" 3
+50 "Web-Based Information Retrieval Support Systems: Building Research Tools for Scientists in the New Information Age" 21
+124 "Optimising Web Queries Using Document Type Definitions" 0
+58 "ACES: An efficient admission control scheme for QoS-aware web servers" 5
+28 "DNS Dispatching Algorithms with State Estimators for Scalable Web-Server Clusters" 7
+134 "View Integration of Object Life-Cycles in Object-Oriented Design" 0
+108 "Improvement of Precision and Recall for Information Retrieval in a Narrow Domain: Reuse of Concepts by Formal Concept Analysis" 11
+80 "A Nested-Graph Model for the Representation and Manipulation of Complex Objects" 4
+73 "The Nested Relation Type Model: An Application of Domain Theory to Databases" 2
+116 "The Intelligent Electronic Shopping System Based on Bayesian Customer Modeling" 2
+2 "Semantics for Null Extended Nested Relations" 3
+77 "Performance Limitations of the Java Core Libraries" 18
+91 "Beyond Document Similarity: Understanding Value-Based Search and Browsing Technologies" 35
+106 "Mining Quantitative Association Rules in Large Relational Tables" 28
+57 "Analysis and Characterization of Large-Scale Web Server Access Patterns and Performance" 58
+107 "An Object Oriented Approach to Web-Based Applications Design" 2
+102 "Implementing Interior Point Linear Programming Methods in the Optimization Subroutine Library" 5
+29 "Designing Well-Structured Websites: Lessons to Be Learned from Database Schema Methodology" 0
+129 "Dealing with Version Pertinence to Design an Efficient Schema Evolution Framework" 1
+100 "The Connectivity Server: Fast Access to Linkage Information on the Web" 2
+56 "Exploiting Webspace Organization for Accelerating Web Prefetching" 5
+18 "Performance Evaluation of a Hybrid Run-Time Management Policy for Data Intensive Web Sites" 24
+40 "Web Ecology: Recycling HTML Pages as XML Documents Using W4F" 2
+43 "Design Principles for Data-Intensive Web Sites" 16
+70 "Word-based Compression Methods for Large Text Documents" 2
+71 "A Fault-Tolerant Commit Protocol for Replicated Databases" 1
+10 "Web Usage Mining: Discovery and Applications of Usage Patterns from Web Data" 129
+126 "WSDM: A User Centered Design Method for Web Sites" 1
+45 "The SGF Metadata Framework and Its Support for Social Awareness on the World Wide Web" 38
+30 "HDM - A Model-Based Approach to Hypertext Application Design" 7
+19 "Improving Web Server Performance by Caching Dynamic Data" 93
+46 "A Non-Obtrusive User Interface for Increasing Social Awareness on the World Wide Web" 29
+76 "Web Design Frameworks: An Approach to Improve Reuse in Web Applications" 13
+65 "A Digital Photography Framework Enabling Affective Awareness in Home Communication" 33
+64 "Study of Piggyback Cache Validation for Proxy Caches in the World Wide Web" 67
+81 "Database Design for Incomplete Relations" 1
+103 "Implementing the Simplex Method for the Optimization Subroutine Library" 8
+49 "Digital Libraries and Autonomous Citation Indexing" 134
+133 "Shadow targets: A novel algorithm for topographic projections by radial basis functions" 5
+83 "Computational Aspects of Resilient Data Extraction from Semistructured Sources" 0
+35 "A Structured Approach for the Definition of the Semantics of Active Databases" 10
+98 "A Web Caching Primer" 17
+78 "Mercator: A Scalable, Extensible Web Crawler" 28
+27 "Dynamic Load Balancing on Web-Server Systems" 61
+69 "Word-Based Compression Methods and Indexing for Text Retrieval Systems" 0
+132 "Feed-Forward Neural Networks and Topographic Mappings for Exploratory Data Analysis" 26
+86 "A Review of Repairing Techniques for Integrity Maintenance" 17
+93 "Rule Revision With Recurrent Neural Networks" 0
+*Edges 147
+0 1 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 15 1
+16 17 1
+18 19 1
+10 20 1
+21 22 1
+23 24 1
+25 26 1
+27 28 1
+29 30 1
+31 32 1
+6 33 1
+34 4 1
+35 36 1
+10 37 1
+38 36 1
+39 40 1
+6 41 1
+42 43 1
+12 44 1
+45 46 1
+47 48 1
+49 50 1
+51 38 1
+52 53 1
+54 55 1
+52 56 1
+57 58 1
+59 60 1
+61 62 1
+63 57 1
+64 57 1
+65 46 1
+66 10 1
+38 38 1
+67 68 1
+69 70 1
+71 62 1
+57 19 1
+32 31 1
+72 30 1
+2 73 1
+20 10 1
+42 72 1
+10 74 1
+75 76 1
+16 50 1
+77 78 1
+4 34 1
+79 80 1
+81 82 1
+12 60 1
+83 40 1
+84 85 1
+38 86 1
+43 87 1
+88 16 1
+89 90 1
+36 86 1
+68 67 1
+91 44 1
+79 92 1
+93 94 1
+46 45 1
+16 88 1
+95 96 1
+64 64 1
+58 57 1
+66 11 1
+56 52 1
+8 97 1
+98 63 1
+76 75 1
+99 100 1
+29 101 1
+50 16 1
+54 101 1
+102 103 1
+57 63 1
+104 27 1
+105 57 1
+106 22 1
+54 107 1
+74 10 1
+19 18 1
+108 109 1
+50 17 1
+11 110 1
+5 4 1
+10 66 1
+28 27 1
+50 49 1
+111 112 1
+113 36 1
+99 114 1
+38 51 1
+1 0 1
+59 115 1
+11 66 1
+17 116 1
+117 118 1
+36 119 1
+17 16 1
+27 104 1
+53 52 1
+29 120 1
+11 10 1
+93 121 1
+57 64 1
+19 57 1
+99 22 1
+17 50 1
+116 17 1
+99 85 1
+50 50 1
+36 51 1
+122 123 1
+103 102 1
+124 125 1
+29 126 1
+109 108 1
+63 98 1
+29 127 1
+128 129 1
+130 42 1
+131 112 1
+132 133 1
+43 72 1
+37 10 1
+134 135 1
+78 77 1
+99 136 1
+54 137 1
+51 119 1
+110 11 1
+46 65 1
+72 127 1
+138 139 1
+133 132 1
+57 105 1
+90 89 1

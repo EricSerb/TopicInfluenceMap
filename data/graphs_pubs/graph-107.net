@@ -1,0 +1,262 @@
+*Vertices 111
+31 "Using Interval Timed Coloured Petri Nets to Calculate Performance Bounds" 6
+109 "Roles: A Methodology for Representing Multifaceted Objects" 7
+102 "Using Formal Methods to Construct a Software Component Library" 1
+22 "Algorithms for Asynchronous Parallel Processing of Object-Oriented Databases" 1
+47 "Generating a Process Model from a Process Audit Log" 5
+83 "Evaluation of Generic Process Design Patterns: An Experimental Study" 3
+48 "Process Mining: Discovering Direct Successors in Process Logs" 11
+70 "Algebraic Change Propagation for Semijoin and Outerjoin Queries" 12
+37 "Model-Driven Trust Negotiation for Web Services" 13
+52 "Characterization of Database Access Pattern for Analytic Prediction of Buffer Hit Probability" 1
+89 "Integrating Priority with Share in the Priority-Based Weighted Fair Queuing Scheduler for Real-Time Networks" 5
+107 "A Unified Framework for Supporting Dynamic Schema Evolution in Object Databases" 0
+60 "A Configurable Approach for Object Sharing Among Multidatabase Systems" 0
+39 "Performance Analysis of Affinity Clustering on Transaction Processing Coupling Architecture" 0
+32 "Interval Timed Coloured Petri Nets and their Analysis" 34
+16 "The Design and Implementation of K: A High-Level Knowledge-Base Programming Language of OSAM*.KBMS" 1
+103 "Unraveling the Web Services Web: An Introduction to SOAP, WSDL, and UDDI" 25
+59 "Analysis of the Generalized Clock Buffer Replacement Scheme for Database Transaction Processing" 7
+40 "Performance Analysis of Coherency Control Policies through Lock Retention" 6
+54 "Web Service Composition Languages: Old Wine in New Bottles?" 11
+14 "A Simple Analysis of the LRU Buffer Policy and Its Relationship to Buffer Warm-Up Transient" 4
+57 "**DIR**-XML2 - Unambiguous access to XML-based business documents in B2B e-commerce" 4
+6 "Facilitating the Rapid Development and Scalable Orchestration of Composite Web Services" 30
+24 "Association Algebra: A Mathematical Foundation for Object-Oriented Databases" 7
+73 "ADEPTflex-Supporting Dynamic Changes of Workflows Without Losing Control" 5
+13 "Parallel Handling of Integrity Constraints on Fragmented Relations" 5
+15 "Analytical Modeling of a Hierarchical Buffer for a Data Sharing Environment" 8
+19 "Several Structures for Protecting the Routes of Mobile Agents Dispatched in Parallel" 11
+68 "Implementing a General Real-Time Scheduling Framework in the RED-Linux Real-Time Kernel" 34
+110 "Concurrency Control and Recovery in Transactional Process Management" 0
+21 "Processes Driving the Networked Economy" 23
+72 "Object-Oriented Design of a Flexible Workflow Management System" 0
+86 "From Inter-organizational Workflows to Process Execution: Generating BPEL from WS-CDL" 15
+88 "The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment" 12
+10 "Evaluation of Correctness Criteria for Dynamic Workflow Changes" 8
+90 "Mining Process Models from Workflow Logs" 1
+108 "Dealing with Version Pertinence to Design an Efficient Schema Evolution Framework" 1
+66 "Automated Service Composition Using Heuristic Search" 8
+95 "CapBasED-AMS - A Framework for Capability-Based and Event-Driven Activity Management System" 1
+0 "Automatic Deployment of Application-Specific Metadata and Code in MOCHA" 1
+105 "Discovering Social Networks from Event Logs" 20
+30 "Conceptual Model of Web Service Reputation" 13
+71 "A Framework for Supporting Data Integration Using the Materialized and Virtual Approaches" 18
+84 "Service Agents and Virtual Enterprises: A Survey" 12
+25 "OSAM*KBMS: An Object-Oriented Knowledge Base Management System for Supporting Advanced Applications" 5
+49 "Buffer Analysis for a Data Sharing Environment with Skewed Data Access" 3
+101 "A Formal Approach to Reusing More General Components" 1
+87 "Integrity Control in Relational Database Systems - An Overview" 4
+44 "Building A Robust Workflow Management System With Persistent Queues and Stored Procedures" 0
+18 "Dispatching Multiple Mobile Agents in Parallel for Visiting E-Shops" 12
+29 "IEEE Internet Computing: Spotlight - Unraveling the Web Services Web: An Introduction to SOAP, WSDL, and UDDI" 11
+27 "Formalizing Service Interactions" 14
+35 "Building Internet Marketplaces on the Basis of Mobile Agents for Parallel Processing" 17
+50 "The Distributed Interoperable Object Model and Its Application to Large-scale Interoperable Database Systems" 3
+77 "Managing Business Processes an an Information Resource" 23
+26 "Service Interaction Patterns" 2
+3 "Large Multidatabases: Beyond Federation and Global Schema Integration" 16
+9 "An Extended Query Reformulation Technique Using Materialized Views" 1
+51 "Guest Editors' Introduction to the Special Issue on Heterogeneous Databases" 7
+81 "An Extensible Knowledge Base Management System for Supporting Rule-based Interoperability among Heterogeneous Systems" 1
+69 "Building Flexible Real-Time Systems Using the Flex Language" 28
+34 "An Approximate Analysis of the LRU and FIFO Buffer Replacement Schemes" 12
+11 "Using the pi-Calculus for Formalizing Workflow Patterns" 19
+2 "A Scalable Architecture for Autonomous Heterogeneous Database Interactions" 4
+92 "Handling Temporal Grouping and Pattern-Matching Queries in a Temporal Object Model" 1
+36 "Verification of Forbidden Behavior in EPCs" 13
+76 "A Framework for Designing Materialized Views in Data Warehousing Environment" 2
+104 "Mining Social Networks: Uncovering Interaction Patterns in Business Processes" 4
+43 "On Dealing with Structural Conflicts between Process Type and Instance Changes" 5
+100 "Reusing Analogous Components" 0
+53 "Performance Modelling and Comparisons of Global Shared Buffer Management Policies in a Cluster Environment" 2
+58 "An Association Algebra For Processing Object-Oriented Databases" 11
+55 "Workflow Verification: Finding Control-Flow Errors Using Petri-Net-Based Techniques" 23
+42 "The design and implementation of real-time schedulers in RED-linux" 31
+38 "Ontological Approach for Information Discovery in Internet Databases" 26
+82 "NCL: A Common Language for Achieving Rule-Based Interoperability Among Heterogeneous Systems" 1
+64 "Challenges in Business Process Management: Verification of Business Processing Using Petri Nets" 11
+4 "The Web Service Modeling Framework WSMF" 44
+106 "Knowledge-Based Schema Analysis in a Multi-Database" 1
+85 "Transforming UMM Business Collaboration Models to BPEL" 4
+74 "Mining Workflow Recovery from Event Based Logs" 20
+20 "The Application of Petri Nets to Workflow Management" 174
+62 "Performance Evaluation of Integrity Control in a Parallel Main-Memory Database System" 3
+80 "Supporting Business Transactions Via Partial Backward Recovery In Workflow Management Systems" 6
+33 "Effect of System Dynamics on Coupling Architectures for Transaction Processing" 2
+12 "Combining Theory and Practice in Integrity Control: A Declarative Approach to the Specification of a Transaction Modification Subsystem" 6
+23 "An Object Flow Computer for Database Applications: Design and Performance Evaluation" 1
+61 "Determining Schema Interdependencies in Object-Oriented Multidatabase Systems" 2
+28 "Business Process Management: A Survey" 20
+63 "Inter-operability of Workflow Applications: Local Criteria for Global Soundness" 17
+79 "Issues in the Design of Multi-Server File Systems to Cope with Load Skew" 1
+98 "A Rule-based Language for Deductive Object-Oriented Databases" 7
+56 "Modeling Business Collaborations in Context" 7
+45 "Transaktionsunterstutzung fur Workflows" 1
+75 "Algorithms for Materialized View Design in Data Warehousing Environment" 9
+5 "A Conceptual Architecture for Semantic Web Enabled Web Services" 23
+94 "CapBasED-AMS: A Capability-based and Event-driven Activity Management System" 0
+65 "Flexible Composition of Enterprise Web Services" 4
+1 "MOCHA: A Self-Extensible Database Middleware System for Distributed Data Sources" 2
+93 "Tackling the Challenges of Materialized View Design in Data Warehousing Environment" 1
+41 "An optimal pinwheel scheduler using the single-number reduction technique" 7
+67 "Characterization of Database Access Skew in a Transaction Processing Environment" 2
+97 "Flexible Support of Team Processes by Adaptive Workflow Systems" 4
+17 "An Extensible Kernel Object Management System" 6
+99 "Recovery Analysis of Data Sharing Systems under Deferred Dirty Page Propagation Policies" 1
+7 "The Self-Serv Environment for Web Services Composition" 30
+8 "Query Reformulation Using Materialized Views in Data Warehousing Environment" 0
+91 "Updates and Application Migration Support in an ODMG Temporal Extension" 1
+78 "An Online Video Placement Policy based on Bandwith to Space Ratio (BSR)" 2
+46 "Database Access Characterization for Buffer Hit Prediction" 3
+96 "Materialized View Evolution Support in Data Warehouse Environment" 0
+*Edges 149
+0 1 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 15 1
+16 17 1
+18 19 1
+20 21 1
+22 23 1
+24 17 1
+25 17 1
+26 27 1
+4 6 1
+28 20 1
+29 30 1
+31 32 1
+33 34 1
+18 35 1
+20 36 1
+36 11 1
+7 37 1
+3 38 1
+39 40 1
+41 42 1
+10 43 1
+44 45 1
+46 15 1
+47 48 1
+49 33 1
+35 18 1
+20 28 1
+30 4 1
+50 51 1
+39 15 1
+42 41 1
+52 53 1
+14 34 1
+29 54 1
+39 34 1
+20 55 1
+56 57 1
+46 34 1
+16 58 1
+52 59 1
+60 61 1
+11 10 1
+12 62 1
+14 59 1
+25 58 1
+37 7 1
+48 47 1
+63 64 1
+65 66 1
+52 67 1
+68 69 1
+70 71 1
+49 46 1
+72 73 1
+36 20 1
+74 20 1
+75 76 1
+72 77 1
+11 27 1
+20 74 1
+66 65 1
+78 79 1
+19 18 1
+57 56 1
+28 27 1
+20 48 1
+44 80 1
+81 82 1
+20 83 1
+39 49 1
+25 24 1
+7 84 1
+52 34 1
+11 36 1
+7 6 1
+85 86 1
+12 87 1
+33 88 1
+81 25 1
+58 24 1
+38 3 1
+6 4 1
+1 0 1
+89 42 1
+27 28 1
+14 40 1
+90 77 1
+43 10 1
+91 92 1
+84 7 1
+4 30 1
+75 93 1
+42 89 1
+14 67 1
+48 20 1
+94 95 1
+96 75 1
+10 97 1
+24 98 1
+52 49 1
+46 88 1
+83 20 1
+16 25 1
+32 31 1
+54 29 1
+49 40 1
+5 4 1
+39 99 1
+100 101 1
+100 102 1
+97 10 1
+81 16 1
+88 34 1
+58 98 1
+54 103 1
+49 88 1
+104 105 1
+84 103 1
+61 106 1
+69 68 1
+103 54 1
+30 29 1
+64 63 1
+68 42 1
+41 68 1
+55 20 1
+107 108 1
+33 15 1
+14 88 1
+27 11 1
+105 104 1
+103 84 1
+61 109 1
+16 98 1
+40 88 1
+42 68 1
+27 26 1
+110 80 1
+68 41 1
+46 59 1
+86 85 1
+21 20 1

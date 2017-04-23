@@ -1,0 +1,5594 @@
+*Vertices 1416
+317 "MIL Primitives for Querying a Fragmented World" 0
+84 "Deriving Production Rules for Constraint Maintainance" 76
+199 "Working Together in Harmony - An Implementation of the CORBA Object Query Service and Its Evaluation" 1
+122 "A Cost Model For Nearest Neighbor Search in High-Dimensional Data Space" 30
+252 "Extending Existing Dependency Theory to Temporal Databases" 3
+486 "Performance Analysis of Parallel Hash Join Algorithms on a Distributed Shared Memory Machine: Implementation and Evaluation on HP Exemplar SPP 1600" 0
+38 "Query Evaluation Techniques for Large Databases" 97
+1019 "Coupling Production Systems and Database Systems: A Homogeneous Approach" 4
+1192 "A Distributed Deadlock Detection and Resolution Algorithm Based on A Hybrid Wait-for Graph and Probe Generation Scheme" 0
+31 "Research Directions in Knowledge Discovery" 20
+1291 "Metadata Propagation in Large, Multi-Layer Database Systems" 1
+548 "ACTA: A Framework for Specifying and Reasoning about Transaction Structure and Behavior" 24
+1072 "A la carte: An Extensible Framework for the Tailorable Construction of Heterogeneous Object Stores" 2
+354 "Effect of System Dynamics on Coupling Architectures for Transaction Processing" 2
+585 "Efficient Incremental Garbage Collection for Client-Server Object Database Systems" 7
+1020 "System M: A Transaction Processing Testbed for Memory Resident Data" 10
+965 "Extensible/Rule Based Query Rewrite Optimization in Starburst" 41
+674 "Providing High Availability in Very Large Worklflow Management Systems" 6
+157 "Event Specification in an Active Object-Oriented Database" 32
+180 "Caching and Database Scaling in Distributed Shard-Nothing Information Retrieval Systems" 4
+467 "Principles and Realization Strategies of Multilevel Transaction Management" 35
+373 "Copy-Based versus Edit-Based Version Management Schemes for Structured Documents" 0
+321 "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise" 27
+1262 "Remote Load-Sensitive Caching for Multi-Server Database Systems" 1
+1387 "Efficient Processing of Proximity Queries for Large Databases" 1
+298 "Client-Server Caching Revisited" 14
+139 "Augmented Inherited Multi-Index Structure for Maintenaince of Materialized Path Query Views" 1
+136 "The Starburst Rule System: Language Design, Implementation, and Applications" 5
+632 "Conservative Timestamp Revisited for Materialized View Maintenance in a Data Warehouse" 9
+711 "Language Features for Interoperability of Databases with Schematic Discrepancies" 28
+606 "Integration of Heterogeneous Data Repositories by Using Object-Oriented Views" 8
+697 "Optimization of Constrained Frequent Set Queries with 2-variable Constraints" 4
+262 "On Parallel Execution of Multiple Pipelined Hash Joins" 7
+836 "SVP: A Model Capturing Sets, Lists, Streams, and Parallelism" 11
+1324 "Workflow Automation: Applications, Technology, and Research (Tutorial)" 2
+1304 "Temporal Extensions to a Uniform Behavioral Object Model" 5
+1358 "MIMSY: A System for Analyzing Time Series Data in the Stock Market Domain" 1
+1131 "SEQUOIA 2000: A Reflection of the First Three Years" 1
+1004 "A Theory of Translation From Relational Queries to Hierarchical Queries" 3
+871 "The Case for Enhanced Abstract Data Types" 12
+1295 "Evaluation of Remote Backup Algorithms for Transaction Processing Systems" 3
+315 "The MRE Wrapper Approach: Enabling Incremental View Maintenance of Data Warehouses Defined on Multi-Relation Information Sources" 0
+1136 "Storage management for persistent complex objects" 6
+1390 "Using Signature Techniques for Information Filtering in Wireless and Mobile Environments" 1
+1397 "A Glossary of Temporal Database Concepts" 75
+1386 "An Evaluation of Alternative Disk Scheduling Techniques in Support of Variable Bit Rate Continuous Media" 0
+449 "Query Optimization in the Presence of Foreign Functions" 23
+1391 "Modeling Heterogeneous Systems as an Active Object Space" 4
+1404 "The Architecture of the Dali Main-Memory Storage Manager" 6
+580 "An Axiom System for Database Transactions" 7
+1107 "Query Optimization in DB2 Parallel Edition" 1
+1311 "Experiences in DBMS Implementation Using an Object-Oriented Persistent Programming Language and a Database Toolkit" 1
+918 "Lessons from Wall Street: Case Studies in Configuration, Tuning, and Distribution (Tutorial)" 2
+1264 "An Object-Oriented Database Application for HyTime Document Storage" 3
+104 "The TV-Tree: An Index Structure for High-Dimensional Data" 34
+1303 "Parallel and Distributed Processing of Rules by Data Reduction" 1
+700 "Performance Comparison of Three Modern DBMS Architectures" 6
+1121 "Safe referential integrity and null constraint structures in relational databases" 3
+165 "Semantic Issues in Multidatabase Systems - Preface by the Special Issue Editor" 9
+1242 "Data Access Interoperability in the IBM Database Family" 0
+331 "Practical Selectivity Estimation through Adaptive Sampling" 46
+1062 "Snowball: Scalable Storage on Networks of Workstations with Balanced Load" 5
+285 "Efficient Evaluation of the Valid-Time Natural Join" 6
+1382 "Optimizing Active Database Transactions: A New Perspective" 2
+1058 "Tutorial Database Mining" 0
+620 "Transactions in the Client-Server EOS Object Store" 1
+813 "Optimizing Loops in Database Programming Languages" 7
+1179 "Flora: A Functional-Style Language for Object and relational Algebra" 1
+868 "Minipage Locking Support for Object-Oriented Page-Server DBMS" 3
+310 "The hB-Tree: A Multiattribute Indexing Method with Good Guaranteed Performance" 47
+710 "Density Biased Sampling: An Improved Method for Data Mining and Clustering" 0
+1182 "Query Languages for Relational Multidatabases" 6
+1050 "Unilateral Commit: A New Paradigm for Reliable Distributed Transaction Processing" 6
+511 "Maintaining Consistency in a Stratified Production System Program" 5
+1255 "Index Nesting - An Efficient Approach to Indexing in Object-Oriented Databases" 3
+318 "The Index Suggestion Problem for Object Database Applications" 0
+846 "Database Architecture Optimized for the New Bottleneck: Memory Access" 1
+102 "Heuristic and Randomized Optimization for the Join Ordering Problem" 3
+371 "The Performance of Three Database Storage Structures for Managing Large Objects" 9
+1278 "Implementation and Evaluation of Parallel Query Processing Algorithms and Data Partitioning Heuristics in Object-Oriented Databases" 1
+1243 "On Marrying Relations and Objects: Relation-Centric and Object-Centric Perspectives" 0
+985 "Optimizing Regular Path Expressions Using Graph Schemas" 16
+764 "Finding Generalized Projected Clusters In High Dimensional Spaces" 0
+1003 "Processing Hierarchical Queries in Heterogeneous Environment" 0
+395 "An Overview of Query Optimization in Relational Systems" 2
+939 "Mining Optimized Support Rules for Numeric Attributes" 0
+345 "The TSIMMIS Project: Integration of Heterogeneous Information Sources" 39
+99 "Temporal and Real-Time Databases: A Survey" 13
+351 "Data Mining and Database Systems: Where is the Intersection?" 4
+681 "Parallel Database Systems: The Future of Database Processing or a Passing Fad?" 74
+228 "Indexing OODB Instances based on Access Proximity" 1
+858 "Data Model and Query Evaluation in Global Information Systems" 21
+436 "Concurrent File Reorganization for Record Clustering: A Performance Study" 7
+848 "Structured Workflow Management with Lotus Notes Release 4" 12
+1271 "pCube: Update-Efficient Online Aggregation with Progressive Feedback and Error Bounds" 1
+1174 "Performance Analysis of a Dual Striping Strategy for Replicated Disk Arrays" 1
+341 "An Object-Oriented DBMS War Story: Developing a Genome Mapping Database in C++" 9
+519 "A Survey of Parallel Execution Strategies for Transitive Closure and Logic Programs" 61
+882 "Architecture of an Open Object-Oriented Database Management System" 42
+417 "Measuring the Complexity of Join Enumeration in Query Optimization" 34
+855 "Towards an Effective Calculus for Object Query Languages" 10
+594 "Recent Work on Distributed Commit Protocolls, and Recoverable Messaging and Queuing" 4
+233 "Resource Scheduling in Enhanced Pay-Per-View Continuous Media Databases" 2
+1109 "Run-time Detection of Non-Terminating Active Rule Systems" 7
+24 "Supporting Data Mining of Large Databases by Visual Feedback Queries" 6
+466 "Semantics-Based Multilevel Transaction Management in Federated Systems" 5
+883 "From Semistructured Data to XML: Migrating the Lore Data Model and Query Language" 6
+646 "High Speed On-line Backup When Using Logical Log Operations" 0
+155 "Review - Querying Multiple Features of Groups in Relational Databases" 0
+1293 "Performance Analysis of Dynamic Finite Versioning for Concurrency Transaction and Query Processing" 2
+469 "Approximate Queries and Representations for Large Data Sequences" 3
+380 "Dealing with Slow-Evolving Fact: A Case Study on Inventory Data Warehousing" 0
+921 "Deriving Incremental Production Rules for Deductive Data" 8
+101 "Complex Aggregation at Multiple Granularities" 7
+536 "Scaling Heterogeneous Databases and the Design of Disco" 25
+13 "WVTDB - A Semantic Content-Based Video Database System on the World Wide Web" 3
+16 "IBM's Relational DBMS Products: Features and Technologies" 11
+1213 "B-tree Page Size When Caching is Considered" 8
+229 "H-trees: A Dynamic Associative Search Index for OODB" 13
+571 "Relative Prefix Sums: An Efficient Approach for Querying Dynamic OLAP Data Cubes" 6
+936 "Influence Sets Based on Reverse Nearest Neighbor Queries" 0
+313 "On the Effectiveness of Optimization Search Strategies for Parallel Execution Spaces" 18
+1039 "Batch Query Processing in Shared-Nothing Multiprocessors" 0
+524 "Constraint-Based Query Evaluation in Deductive Databases" 1
+913 "Review - Ripple Joins for Online Aggregation" 0
+1368 "Context-Specific Synchronization for Atomic Data Types" 2
+951 "The Design and Implementation of a Parallel Join Algorithm for Nested Relations on Shared-Memory Multiprocessors" 3
+864 "Tolerating Bounded Inconsistency for Increasing Concurrency in Database Systems" 5
+653 "Towards a Richer Web Object Model" 12
+1339 "Scalable Processing of Read-Only Transactions in Broadcast Push" 1
+886 "On Indexing Line Segments" 4
+1216 "Review - Of Objects and Databases: A Decade of Turmoil" 0
+249 "DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases" 32
+350 "Mediators in the Architecture of Future Information Systems" 658
+385 "An Efficient Algorithm for Mining Association Rules in Large Databases" 38
+1396 "A Syntactic Stratification Condition Using Constraints" 1
+1034 "Research Issues in Active Database Systems: Report from the Closing Panel at RIDE-ADS '94" 7
+1257 "Aggregation and Relevance in Deductive Databases" 7
+902 "Research Issues in Clinical Data Warehousing" 1
+426 "Dynamic Finite Versioning: An Effective Versioning Approach to Concurrent Transaction and Query Processing" 3
+518 "Toward network data independence" 33
+1118 "Grow and Post Index Trees: Roles, Techniques and Future Potential" 6
+384 "Quantifiable Data Mining Using Ratio Rules" 0
+154 "The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles" 178
+694 "Data Integration in the Large: The Challenge of Reuse" 1
+230 "Using Segmented Right-Deep Trees for the Execution of Pipelined Hash Joins" 19
+445 "Data Access for the Masses through OLE DB" 19
+43 "Temporal Association Algebra: A Mathematical Foundation for Processing Object-Oriented Temporal Databases" 1
+128 "Improving the Query Performance of High-Dimensional Index Structures by Bulk-Load Operations" 4
+555 "Efficient Access Methods in Deductive and Object-Oriented Databases" 8
+739 "Federated Databases and Systems: Part II - A Tutorial on Their Resource Consolidation" 1
+1379 "A Novel Index Supporting High Volume Data Warehouse Insertion" 1
+219 "Approximate Query Processing Using Wavelets" 0
+955 "Invited Project Review: Industrial-strength parallel query optimization: issues and lessons" 4
+164 "Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach" 8
+1140 "Research and Development Issues for Large-Scale Multimedia Information Systems" 2
+1246 "Type Consistency of Queries in an Object-Oriented Database System" 2
+1082 "Playout Management - An Integrated Service of a Multimedia Database Management System" 2
+1326 "Alternatives in Complex Object Representation: A Performance Perspective" 2
+948 "Schema Mapping as Query Discovery" 0
+26 "LH*RS: A High-Availability Scalable Distributed Data Structure using Reed Solomon Codes" 0
+1384 "Join Processing and Optimization in Temporal Relational Databases" 3
+1300 "Review - Semantic Compression and Pattern Extraction with Fascicles" 0
+1059 "An Access Structure for Generalized Transitive Closure Queries" 4
+667 "Alternative Correctness Criteria for Concurrent Execution of Transactions in Multilevel Secure Databases" 1
+1369 "Using Partial Information to Update Materialized Views" 4
+52 "Set-Oriented Production Rules in Relational Database Systems" 67
+475 "Centralized versus Distributed Index Schemes in OODBMS - A Performance Analysis" 0
+1069 "Garbage Collection in Object-Oriented Databases Using Transactional Cyclic Reference Counting" 0
+869 "Parallel Query Processing in Shared Disk Database Systems" 2
+226 "An Execution Model for Distributed Database Transactions and Its Implementation in VPL" 4
+564 "Tradeoffs in Processing Complex Join Queries via Hashing in Multiprocessor Database Machines" 35
+1147 "Meta-Data Support for Data Transformations Using Microsoft Repository" 0
+982 "Integrating Constraint Management and Concurrency Control in Distributed Databases" 0
+712 "GraphLog: a Visual Formalism for Real Life Recursion" 29
+616 "On B-Tree Indices for Skewed Distributions" 11
+363 "Outerjoin Simplification and Reordering for Query Optimization" 4
+496 "Review - Query Evaluation Techniques for Large Databases" 0
+898 "Adaptable Pointer Swizzling Strategies in Object Bases" 7
+450 "Using Tickets to Enforce the Serializability of Multidatabase Transactions" 11
+396 "Cost-Based Optimization for Magic: Algebra and Implementation" 13
+617 "On the Ubiquity of Information Services and the Absence of Guaranteed Service Quality" 0
+1231 "Visual Feedback in Querying Large Databases" 14
+1143 "Constraint-Based Rule Mining in Large, Dense Databases" 1
+103 "A Polynomial Time Algorithm for Optimizing Join Queries" 7
+1245 "Developing Tightly-Coupled Data Mining Applications on a Relational Database System" 7
+1102 "Distributed RAID - A New Multiple Copy Algorithm" 4
+320 "STING: A Statistical Information Grid Approach to Spatial Data Mining" 9
+15 "Hierarchical Prefix Cubes for Range-Sum Queries" 4
+1389 "Database Research: Lead, Follow, or Get Out of the Way? - Panel Abstract" 1
+1406 "Less Optimism About Optimistic Concurrency Control" 3
+453 "Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals" 23
+239 "Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates" 14
+602 "Bulk-Loading Techniques for Object Databases and an Application to Relational Data" 1
+106 "To Form a More Perfect Union (Intersection, Difference)" 0
+1328 "Object Storage Management Architectures" 2
+322 "Resource Scheduling for Composite Multimedia Objects" 0
+328 "On Serializability of Multidatabase Transactions Through Forced Local Conflicts" 25
+195 "Balancing Push and Pull for Data Broadcast" 8
+866 "How to Extend a Conventional Optimizer to Handle One- and Two-Sided Outerjoin" 6
+1032 "Index Concurrency Control in Firm Real-Time Database Systems" 1
+1315 "A Performance Analysis of Alternative Multi-Attribute Declustering Strategies" 9
+679 "The LHAM Log-Structured History Data Access Method" 0
+1113 "Index Structures for Selective Dissemination of Information Under the Boolean Model" 8
+724 "Building an Integrated Active OODBMS: Requirements, Architecture, and Design Decisions" 8
+428 "Locking without Blocking: Making Lock Based Concurrent Data Structure Algorithms Nonblocking" 0
+442 "A Theory of Global Concurrency Control in Multidatabase Systems" 4
+1290 "First-Class Views: A Key to User-Centered Computing" 12
+1183 "From VLDB to VMLDB (Very MANY Large Data Bases): Dealing with Large-Scale Semantic Heterogenity" 2
+423 "Efficient and Flexible Methods for Transient Versioning of Records to Avoid Locking by Read-Only Transactions" 20
+1088 "Secure Bufering in Firm Real-Time Database Systems" 0
+303 "Extensions to Starburst: Objects, Types, Functions, and Rules" 30
+803 "XML: Current Developments and Future Challenges for the Database Community" 0
+334 "Selectively Materializing Data in Mediators by Analyzing Source Structure, Query Distribution and Maintenance Cost" 0
+302 "Generating Dynamic Content at Database-Backed Web Servers: cgi-bin vs. mod_perl" 12
+1025 "Incremental Updates of Inverted Lists for Text Document Retrieval" 7
+243 "Access Support in Object Bases" 40
+1266 "CCAM: A Connectivity-Clustered Access Method for Aggregate Queries on Transportation Networks: A Summary of Results" 1
+167 "The Active MultiSync Controller of the Cubetree Storage Organization" 0
+1276 "High-Availability LH* Schemes with Mirroring" 1
+1028 "Using the Holy Brick Tree for Spatial Data in General Purpose DBMSs" 2
+60 "Execution Reordering for Tertiary Memory Access" 1
+682 "Active Data/Knowledge Bases Research At the University of Florida" 2
+532 "Design of Active Rule Applications: Issues and Approaches" 3
+608 "Filter Trees for Managing Spatial Data over a Range of Size Granularities" 4
+912 "Independent Quantization: An Index Compression Technique for High-Dimensional Data Spaces" 1
+307 "Combining Theory and Practice in Integrity Control: A Declarative Approach to the Specification of a Transaction Modification Subsystem" 6
+415 "The Design and Implementation of the Ariel Active Database Rule System" 3
+865 "Review - Integrating Mining with Relational Database Systems: Alternatives and Implications" 0
+281 "Nested Queries in Object Bases" 9
+745 "The hBP-tree: A Modified hB-tree Supporting Concurrency, Recovery and Node Consolidation" 8
+658 "Scheduling and Data Replication to Improve Tape Jukebox Performance" 0
+359 "Query Decomposition and View Maintenance for Query Languages for Unstructured Data" 10
+680 "A Multi-Level Transaction Approach to Federated DBMS Transaction Management" 7
+367 "Integration of Spatial Join Algorithms for Processing Multiple Inputs" 5
+1129 "High Performance Support for OO Traversals in Monet" 2
+169 "Client-Based Logging for High Performance Distributed Architectures" 2
+720 "Using Object-Oriented Principles to Optimize Update Propagation to Materialized Views" 3
+1248 "Evolution of Data Modeling for Databases" 4
+1165 "Predictions and Challenges for Database Systems in the Year 2000" 4
+1294 "First Order Normal Form for Relational Databases and Multidatabases" 8
+1385 "A Methodology for Query Reformulation in CIS Using Semantic Knowledge" 5
+614 "Local Disk Caching for Client-Server Database Systems" 10
+257 "Combining Join and Semi-Join Operations for Distributed Query Processing" 4
+1350 "K: A High-Level Knowledge Base Programming Language for Advanced Database Applications" 7
+86 "Adapting Relational Optimization Technology to Deductive and Object-Oriented Declarative Database Languages" 3
+1042 "Dynamic Classification Ontologies for Discovery in Cooperative Federated Databases" 3
+1161 "Tuning of Striping Units in Disk-Array-Based File Systems" 4
+366 "An Asynchronous Avoidance-Based Cache Consistency Algorithm for Client Caching DBMSs" 1
+1362 "A Framework for Schema Updates In An Object-Oriented Database System" 9
+1162 "OLAP Mining: Integration of OLAP with Data Mining" 4
+118 "Finding heuristics for processing selection queries in relational database systems" 1
+994 "Open Issues in Parallel Query Optimization" 17
+1104 "SQLJ-Part 1: SQL Routines Using the Java Programming Language" 0
+1376 "Specification and verification of temporal relationships in transaction modelling" 3
+251 "Chained Declustering: A New Availability Strategy for Multiprocessor Database Machines" 17
+478 "Towards a Unified Theory of Concurrency Control and Recovery" 12
+424 "Database System Issues in Nomadic Computing" 15
+1046 "Suppressing Marginal Cells to Protect Sensitive Information in a Two-Dimensional Statistical Table" 7
+98 "Parallel Database Systems: The Future of High Performance Database Systems" 77
+708 "Principles of Optimally Placing Data in Tertiary Storage Libraries" 5
+811 "Representing Processes in the Extended Entity-Relationship Model" 7
+227 "Interoperability of Multiple Autonomous Databases" 44
+1355 "Dynamic Real-Time Optimistic Concurrency Control" 22
+780 "ParSets for Parallelizing OODBMS Traversals: Implementation and Performance" 3
+372 "An Efficient Database Storage Structure for Large Dynamic Objects" 7
+744 "Parallel Database Systems: Open Problems and New Issues" 20
+1408 "An Overview of Parallel Strategies for Transitive Closure on Algebraic Machines" 1
+1158 "Tuning Time Series Queries in Finance: Case Studies and Recommendations" 0
+440 "Data Warehousing and OLAP for Decision Support (Tutorial)" 4
+1026 "Synthetic Workload Performance Analysis of Incremental Updates" 3
+1033 "Materialized View Maintenance and Integrity Constraint Checking: Trading Space for Time" 21
+787 "Managing Temporal Financial Data in an Extensible Database" 9
+191 "Evaluating Functional Joins Along Nested Reference Sets in Object-Relational and Object-Oriented Databases" 2
+236 "An Evaluation of Non-Equijoin Algorithms" 23
+427 "Parallelism in Relational Data Base Systems: Architectural Issues and Design Approaches" 35
+691 "Post-crash Log Processing for Fuzzy Checkpointing Main Memory Databases" 1
+1139 "Revisiting Commit Processing in Distributed Database Systems" 0
+1115 "Partitioned Data Objects in Distributed Databases" 4
+401 "The Building Blocks for Specifying Communication Behavior of Complex Objects: An Activity-Driven Approach" 2
+804 "Database Reorganization in Parallel Disk Arrays with I/O Service Stealing" 0
+847 "Integrating Light-Weight Workflow Management Systems within Existing Business Environments" 2
+759 "A Conceptual Model and a Tool Environment for Developing More Scalable, Dynamic, and Customizable Web Applications" 11
+325 "ASSET: A System for Supporting Extended Transactions" 13
+707 "Data Access Scheduling in Firm Real-Time Database Systems" 69
+715 "The Microsoft Database Research Group" 4
+45 "Mining Optimized Association Rules with Categorical and Numeric Attributes" 2
+593 "A Transaction Model for Active Distributed Object Systems" 19
+441 "On Incremental Cache Coherency Schemes in Mobile Computing Environments" 0
+1330 "Information Mediation in Cyberspace: Scalable Methods for Declarative Information Networks" 1
+559 "Integrity Constraints in the Information Source Tracking Method" 2
+370 "Optimization of Queries with User-defined Predicates" 19
+1320 "Selection Predicate Indexing for Active Databases Using Interval Skip Lists" 2
+1176 "Implementation of Magic-sets in a Relational Database System" 10
+206 "Using SQL to Build New Aggregates and Extenders for Object- Relational Systems" 0
+510 "On Maintaining Priorities in a Production Rule System" 17
+980 "Constrained Shared Locks for Increased Concurrency in Databases" 1
+779 "Parallelising OODBMS Traversals: A Performance Evaluation" 2
+550 "Representing Extended Entity-Relationship Structures in Relational Databases: A Modular Approach" 20
+1263 "The Performance of Database Replication with Group Multicast" 1
+905 "LH*LH: A scalable High Performance Data Structure for Switched Multicomputers" 1
+714 "Commitment Ordering Based Distributed Concurrency Control for Bridging Single and Multi Version Resources" 1
+338 "Optimizing Large Join Queries in Mediation Systems" 3
+299 "Random Sampling for Histogram Construction: How much is enough?" 13
+1077 "Query Optimization in Object Bases: Exploiting Relational Techniques" 6
+1198 "Adaptive Load Balancing in Disk Arrays" 3
+728 "A Survey of DBMS Research Issues in Supporting Very Large Tables" 5
+398 "Query Processing in DEC Rdb: Major Issues and Future Challenges" 5
+408 "FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets" 21
+754 "A Framework for Statistical Data Mining with Summary Tables" 0
+53 "Universality of Serial Histograms" 19
+97 "A Data Model for Supporting On-Line Analytical Processing" 14
+131 "Dynamic Load Balancing in Hierarchical Parallel Database Systems" 4
+455 "Database Systems: Achievements and Opportunities - The 'Lagunita' Report of the NSF Invitational Workshop on the Future of Database System Research held in Palo Alto, California, February 22-23, 1990" 14
+719 "RP*: A Family of Order Preserving Scalable Distributed Data Structures" 6
+1085 "Data In Your Face': Push Technology in Perspective" 2
+70 "MOCHA: A Self-Extensible Database Middleware System for Distributed Data Sources" 2
+1137 "Efficient Dynamic Programming Algorithms for Ordering Expensive Joins and Selections" 1
+809 "Fast Algorithms for the Unit Cost Editing Distance Between Trees" 3
+815 "Adaptive Parallel Query Execution in DBS3" 2
+783 "The TP-Index: A Dynamic and Efficient Indexing Mechanism for Temporal Databases" 10
+798 "On Effective Multi-Dimensional Indexing for Strings" 0
+1015 "An Analysis Technique for Transitive Closure Algorithms: A Statistical Approach" 2
+841 "Signature-Based Text Retrieval Methods: A Survey" 12
+1317 "Alternative Approaches to Distribute An E-Commerce Document Management System" 0
+259 "Key Range Locking Strategies for Improved Concurrency" 8
+32 "The Starburst Active Database Rule System" 3
+1156 "A Framework for Join Pattern Indexing in Intelligent Database Systems" 0
+458 "A Survey and Critique of Advanced Transaction Models" 6
+150 "Fast Algorithms for Universal Quantification in Large Databases" 2
+1383 "Controlling FD and MVD Inferences in Multilevel Relational Database Systems" 3
+942 "Review - Towards Guaranteed Quality and Dependability of Information Services" 0
+1310 "Bit-Sequences: An Adaptive Cache Invalidation Method in Mobile Client/Server Environments" 1
+433 "Formal Query Languages for Secure Relational Databases" 3
+404 "Using Reconfiguration for Efficient Management of Replicated Data" 0
+413 "Implementation of the CORAL Deductive Database System" 8
+806 "Exotica: A Research Perspective ob Workflow Management Systems" 9
+6 "Meaningful Change Detection in Structured Data" 2
+687 "Query Optimization and Execution Plan Generation in Object-Oriented Data Management Systems" 5
+897 "On Global Query Optimization in Multidatabase Systems" 3
+266 "A Query Language and Optimization Techniques for Unstructured Data" 70
+587 "Integrating Snapshot Isolation into Transactional Federation" 0
+669 "The Impact of Global Clustering on Spatial Database Systems" 3
+1238 "Kaleidoscope: A Cooperative Menu-Guided Query Interface (SQL Version)" 1
+784 "Strict Histories in Object-Based Database Systems" 4
+163 "Performance Analysis of a Load Balancing Hash-Join Algorithm for a Shared Memory Multiprocessor" 8
+1195 "Increasing the Expressiveness of Analytical Performance Models for Replicated Databases" 0
+1064 "Concurrency Control Using Locking with Deferred Blocking" 3
+837 "Hierarchical, Adaptive Cache Consistency in a Page Server OODBMS" 2
+605 "The Fittest Survives: An Adaptive Approach to Query Optimization" 1
+253 "Unifying Temporal Data Models via a Conceptual Model" 12
+717 "Review - XTRACT: A System for Extracting Document Type Descriptors from XML Documents" 0
+552 "The Distributed Interoperable Object Model and Its Application to Large-scale Interoperable Database Systems" 3
+922 "Supporting Statistical Operations in Extensible Databases: A Case Study" 1
+381 "Data Partitioning and Load Balancing in Parallel Disk Systems" 6
+473 "Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data" 1
+1332 "Exploiting Atomic Broadcast in Replicated Databases (Extended Abstract)" 3
+704 "Interaction of Query Evaluation and Buffer Management for Information Retrieval" 0
+250 "Memory Management for Scalable Web Data Servers" 4
+789 "On-Line Warehouse View Maintenance" 10
+291 "Characterization of Database Access Pattern for Analytic Prediction of Buffer Hit Probability" 1
+1251 "SEQUOIA 2000 Metadata Schema for Satellite Images" 4
+872 "Join Queries with External Text Sources: Execution and Optimization Techniques" 8
+535 "B-Trees with Inserts and Deletes: Why Free-at-Empty Is Better Than Merge-at-Half" 5
+161 "Exploratory Mining and Pruning Optimizations of Constrained Association Rules" 16
+956 "Encapsulation of Parallelism and Architecture-Independence in Extensible Database Query Execution" 5
+637 "Multiview: A Methodology for Supporting Multiple Views in Object-Oriented Databases" 25
+732 "Snakes and Sandwiches: Optimal Clustering Strategies for a Data Warehouse" 1
+561 "Towards On-Line Analytical Mining in Large Databases" 3
+1381 "Coordination of Data and Knowledge Base Systems under Distributed Environment" 4
+1208 "WALRUS: A Similarity Retrieval Algorithm for Image Databases" 2
+1194 "Formal Aspects of Concurrency Control in Long-Duration Transaction Systems Using the NT/PV Model" 6
+929 "Research Problems in Data Warehousing" 39
+296 "Concurrency and Recovery for Index Trees" 2
+247 "An Alternative Storage Organization for ROLAP Aggregate Views Based on Cubetrees" 5
+722 "Object Queries over Relational Databases: Language, Implementation, and Applications" 3
+1281 "Server Ranking for Distributed Text Retrieval Systems on the Internet" 2
+889 "Transaction Processing Monitors" 4
+1410 "Efficient Complete Local Tests for Conjunctive Query Constraints with Negation" 0
+465 "Generalized Data Stream Indexing and Temporal Query Processing" 3
+623 "Automatic Deployment of Application-Specific Metadata and Code in MOCHA" 1
+152 "View Maintenance Issues for the Chronicle Data Model" 15
+595 "MedMaker: A Mediation System Based on Declarative Specifications" 17
+860 "A Parallel Algorithm for Record Clustering" 2
+400 "SIFT - a Tool for Wide-Area Information Dissemination" 14
+1223 "Experiences with Building a Federated Transaction Manager based on CORBA OTS" 2
+540 "Online Dynamic Reordering for Interactive Data Processing" 2
+1092 "A Hybrid Index Technique for Power Efficient Data Broadcast" 32
+151 "DynaMat: A Dynamic View Management System for Data Warehouses" 5
+1215 "Performance Comparison of Thrashing Control Policies for Concurrent Mergesorts with Parallel Prefetching" 2
+348 "A Performance Study of Transitive Closure Algorithms" 2
+1196 "Independent Recovery in Large-Scale Distributed Systems" 1
+678 "The Integration of Rule Systems and Database Systems" 20
+294 "Synchronization and Recovery in a Client-Server Storage System" 1
+1053 "Dynamic Generation and Refinement of Concept Hierarchies for Knowledge Discovery in Databases" 5
+894 "ER-R: An Enhanced ER Model with Situation-Action Rules to Capture Application Semantics" 2
+1090 "A Query Translation Scheme for Rapid Implementation of Wrappers" 22
+1335 "Review - WALRUS: A Similarity Retrieval Algorithm for Image Databases" 0
+216 "Seeking the Truth About ad hoc Join Costs" 9
+900 "Prototyping DBS3, a Shared-Memory Parallel Database System" 8
+59 "Efficient and Effective Clustering Methods for Spatial Data Mining" 55
+1359 "Load Control in Scalable Distributed File Structures" 1
+410 "Object-Oriented Databases: Definition and Research Directions" 23
+810 "Parallel Sorting on a Shared-Nothing Architecture using Probabilistic Splitting" 23
+771 "Making Views Self-Maintainable for Data Warehousing" 21
+1399 "Review - Data Mining: An Overview from a Database Perspective" 0
+851 "The Semantics of Relations in 2D Space Using Representative Points: Spatial Indexes" 2
+240 "Asynchronous Version Advancement in a Distributed Three-Version Database" 0
+800 "Efficient Retrieval of Similar Time Sequences Under Time Warping" 2
+927 "Index Configuration in Object-Oriented Databases" 5
+752 "Algebraic Support for Complex Objects with Arrays, Identity, and Inheritance" 36
+80 "Generalized Search Trees for Database Systems" 28
+689 "Distributed Transitive Closure Computations: The Disconnection Set Approach" 12
+178 "Composite Event Specification in Active Databases: Model  Implementation" 30
+628 "A Performance Evaluation of Multi-Level Transaction Management" 4
+1351 "Replicated Indexes for Distributed Data" 2
+751 "Approximate Analysis of Reader and Writer Access to a Shared Resource" 2
+657 "Control of an Extensible Query Optimizer: A Planning-Based Approach" 13
+1319 "NoDoSE - A Tool for Semi-Automatically Extracting Semi-Structured Data from Text Documents" 11
+1132 "Recovery Concepts for Data Sharing Systems" 2
+1089 "Space Optimization in the Bottom-Up Evaluation of Logic Programs" 1
+42 "Evaluation of Main Memory Join Algorithms for Joins with Set Comparison Join Predicates" 3
+235 "On Sort-Merge Algorithm for Band Joins" 0
+544 "Optimal Design of Multiple Hash Tables for Concurrency Control" 0
+50 "Object Exchange Across Heterogeneous Information Sources" 77
+392 "An Interval Classifier for Database Mining Applications" 40
+1214 "Problems Underlying the Use of Referential Integrity in Relational Database Management Systems" 4
+990 "OdeFS: A File System Interface to an Object-Oriented Database" 4
+684 "The DASDBS Project: Objectives, Experiences, and Future Prospects" 29
+7 "Change Detection in Hierarchically Structured Information" 8
+642 "Managing Rule Conflicts in an Active Database" 3
+358 "An Effective Algorithm for Parallelizing Sort Merge in the Presence of Data Skew" 13
+1190 "Transaction Scheduling in Multiclass Real-Time Database Systems" 5
+29 "Online Processing Redux" 2
+1151 "The Case for Controlled Inconsistency in Replicated Data" 26
+603 "OODB Bulk Loading Revisited: The Partitioned-List Approach" 3
+231 "Optimization of Parallel Query Execution Plans in XPRS" 24
+58 "An Effective Hash Based Algorithm for Mining Association Rules" 44
+376 "Left-Deep vs. Bushy Trees: An Analysis of Strategy Spaces and its Implications for Query Optimization" 30
+1402 "Meta Variables and Inheritance in an Object-Oriented Data Model" 1
+1232 "Using Visualization to Support Data Mining of Large Existing Databases" 12
+531 "Compile-Time and Runtime Analysis of Active Behaviors" 4
+462 "Selectivity and Cost Estimation for Joins Based on Random Sampling" 9
+1253 "Transaction Processing in Multilevel Secure Databases with Kernelized Architectures: Challenges and Solutions" 0
+997 "Bottom-Up Computation of Sparse and Iceberg CUBEs" 6
+483 "Data Mining: An Overview from a Database Perspective" 17
+1259 "Database Technology for Decision Support Systems" 11
+701 "Complex Transitive Closure Queries on a Fragmented Graph" 4
+920 "Declustering Spatial Databases on a Multi-Computer Architecture" 2
+278 "Scheduling and Processor Allocation for Parallel Execution of Multi-Join Queries" 17
+176 "Boolean Query Mapping Across Heterogeneous Information Sources" 9
+993 "A Disk-Based Storage Architecture for Movie on Demand Servers" 2
+938 "Performance Characteristics of Protocols With Ordered Shared Locks" 5
+217 "Modeling Skewed Distribution Using Multifractals and the `80-20' Law" 2
+604 "Outer Joins and Filters for Instantiating Objects from Relational Databases Through Views" 7
+64 "An Incremental Access Method for ViewCache: Concept, Algorithms, and Cost Analysis" 31
+688 "Execution Plan Generation for an Object-Oriented Dat Model" 4
+1375 "Independent Updates and Incremental Agreement in Replicated Databases" 2
+879 "Logical and Physical Versioning in Main Memory Databases" 1
+1327 "PEDCAD: A Framework for Performance Evaluation of Object Database Applications" 1
+1279 "Optimizing Storage of Objects on Mass Storage Systems with Robotic Devies" 4
+1233 "Parallel GRACE Hash Join on Shared-Everything Multiprocessor: Implementation and Performance Evaluation on Symmetry S81" 1
+120 "The Hybrid Tree: An Index Structure for High Dimensional Feature Spaces" 3
+1043 "Storage Efficient Replicated Databases" 3
+1395 "Structural Totality and Constraint Stratification" 1
+1083 "Pushing Semantics Inside Recursion: A General Framework for Semantic Optimization of Recursive Queries" 2
+1308 "Review - Mining Association Rules between Sets of Items in Large Databases" 0
+1185 "Database Systems for Efficient Access to Tertiary Memory" 3
+940 "Database Systems - Breaking Out of the Box" 4
+775 "A Compression Technique to Materialize Transitive Closure" 10
+1035 "Optimal Block Size for Set-Valued Attributes" 1
+1415 "Optimizing Equijoin Queries In Distributed Databases Where Relations Are Hash Partitioned" 7
+840 "Review - Evaluating Functional Joins Along Nested Reference Sets in Object-Relational and Object-Oriented Databases" 0
+1373 "Functional Query Optimization over Object-Oriented Views for Data Integration" 2
+312 "Estimating the Selectivity of Spatial Queries Using the `Correlation' Fractal Dimension" 16
+757 "Parallelism in Relational Database Management Systems" 41
+1403 "From Centralized Workflow Specification to Distributed Workflow Execution" 2
+149 "Two Techniques for On-Line Index Modification in Shared Nothing Parallel Databases" 4
+950 "Context-Based Synchronisation: An Approach beyond Semantics for Concurrency Control" 1
+365 "XTRACT: A System for Extracting Document Type Descriptors from XML Documents" 2
+264 "A Study of Three Alternative Workstation-Server Architectures for Object Oriented Database Systems" 46
+17 "Single Table Access Using Multiple Indexes: Optimization, Execution, and Concurrency Control Techniques" 30
+1225 "Supporting Temporal Multimedia Operations in Object-Oriented Database Systems" 1
+1261 "Maintaining Quasi Serializability in Multidatabase Systems" 7
+1186 "Reducing Multidatabase Query Response Time by Tree Balancing" 5
+375 "SPIRIT: Sequential Pattern Mining with Regular Expression Constraints" 2
+1348 "Delegation in ACTA to Control Sharing in Extended Transactions" 2
+369 "Linear Clustering of Objects with Multiple Atributes" 41
+528 "Customizing Transaction Models and Mechanisms in a Programmable Environment Supporting Reliable Workflow Automation" 1
+1357 "Spatial Data Reallocation Based on Multidimensional Range Queries - A Contribution to Data Management for the Earth Sciences" 1
+306 "Combining Indexing Technique with Path Dictionary for Nested Object Queries" 1
+108 "ARIES/IM: An Efficient and High Concurrency Index Management Method Using Write-Ahead Logging" 47
+416 "Spatial Search with Polyhedra" 22
+526 "Integrating Triggers and Declarative Constraints in SQL Database Sytems" 8
+1322 "A Framework for Enforceable Specification of Extended Transaction Models and Transaction Workflows" 4
+107 "Rule Languages and Internal Algebras for Rule-Based Optimizers" 10
+457 "ActivityFlow: Towards Incremental Specification and Flexible Coordination of Workflow Activities" 1
+1260 "Run-Time Management of Data Intensive Web Sites" 1
+72 "Algorithms for Flexible Space Management in Transaction Systems Supporting Fine-Granularity Locking" 6
+1228 "Generalization and a Framework for Query Modification" 2
+255 "Implementing Calendars and Temporal Rules in Next Generation Databases" 10
+335 "Information Translation, Mediation, and Mosaic-Based Browsing in the TSIMMIS System" 5
+856 "Mind Your Vocabulary: Query Mapping Across Heterogeneous Information Sources" 1
+572 "Query Graphs, Implementing Trees, and Freely-Reorderable Outerjoins" 12
+1097 "Scientific Workflow Management by Database Management" 0
+482 "Optimal Histograms for Hierarchical Range Queries" 0
+1055 "Interactive Query and Search in Semistructured Databases" 5
+818 "Performance Evaluation of Extended Storage Architectures for Transaction Processing" 4
+214 "Fault Tolerance Issues in Data Declustering for Parallel Database Systems" 0
+40 "Optimizing Queries with Universal Quantification in Object-Oriented and Object-Relational Databases" 1
+901 "Modeling and Maintaining Multi-View Data Warehouses" 0
+265 "Relational Databases for Querying XML Documents: Limitations and Opportunities" 11
+506 "Sequential Sampling Procedures for Query Size Estimation" 28
+671 "The Double Life of the Transaction Abstraction: Fundamental Principle and Evolving System Concept" 2
+146 "Sampling-Based Estimation of the Number of Distinct Values of an Attribute" 24
+388 "DBIS-Toolkit: Adaptable Middleware for Large Scale Data Delivery" 1
+87 "Reusing Invariants: A New Strategy for Correlated Queries" 3
+1306 "Flexible Constraint Management for Autonomous Distributed Databases" 1
+493 "Query Execution Techniques for Caching Expensive Methods" 14
+1067 "Performance Analysis of Several Algorithms for Processing Joins between Textual Attributes" 0
+35 "Multi-dimensional Resource Scheduling for Parallel Queries" 4
+1275 "Tableau Techniques for Querying Information Sources through Global Schemas" 6
+1150 "Main Memory Oriented Optimization of OO Queries Using Typed Datalog with Foreign Predicates" 9
+1001 "Near-Optimum Storage Models for Nested Relations Based on Workload Information" 1
+1353 "Differential Query Processing in Transaction-Time Databases" 3
+504 "Merging Application-centric and Data-centric Approaches to Support Transaction-oriented Multi-system Workflows" 78
+777 "Distributed Multi-Level Recovery in Main-Memory Databases" 2
+245 "Data Caching Issues in an Information Retrieval System" 38
+140 "Bitmap Index Design and Evaluation" 6
+1175 "Tail Recursion Elimination in Deductive Databases" 0
+471 "Evaluating Top-k Selection Queries" 1
+650 "Text / Relational Database Management Systems: Harmonizing SQL and SGML" 7
+225 "Index Structures for Information Filtering Under the Vector Space Model" 5
+267 "Changing the Rules: Transformations for Rule-Based Optimizers" 2
+750 "Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention Thrashing" 5
+470 "A Temporal Data Model Based on Time Sequences" 7
+906 "Parallel Processing of Spatial Joins Using R-trees" 6
+843 "An Approach to Eliminate Transaction Blocking in Locking Protocols" 2
+1105 "SQLJ Part 0, Now Known as SQL/OLB (Object-Language Bindings)" 2
+970 "The Design, Implementation, and Evaluation of an Object-Based Sharing Mechanism for Federated Database Systems" 3
+1155 "Efficient and Transparent Application Recovery in Client-Server Information Systems" 4
+339 "Capabilities-Based Query Rewriting in Mediator Systems" 12
+1336 "Ordered Sharing a New Lock Primitive for Database Systems" 2
+36 "javax.XXL: A prototype for a Library of Query processing Algorithms" 0
+1272 "A Suite of Database Replication Protocols based on Group Communication Primitives" 3
+1047 "Scalable Distributed Query and Update Service Implementations for XML Document Elements" 0
+829 "Are We Moving Toward an Information SuperHighway or a Tower of Babel? The Challenge of Large-Scale Semantic Heterogeneity" 1
+574 "MLR: A Recovery Method for Multi-level Systems" 12
+463 "Multi-Level Transaction Management for Complex Objects: Implementation, Performance, Parallelism" 9
+1036 "A Keying Method for a Nested Relational Database Management System" 1
+875 "On the Logical Foundations of Schema Integration and Evolution in Heterogeneous Database Systems" 11
+356 "Efficient Filtering of XML Documents for Selective Dissemination of Information" 0
+817 "Determining the Optimal File Size on Tertiary Storage Systems Based on the Distribution of Query Sizes" 1
+223 "Transactional Client-Server Cache Consistency: Alternatives and Performance" 2
+729 "Microsoft Index Tuning Wizard for SQL Server 7.0" 1
+242 "Efficient Scheduling of Page Access in Index-Based Join Processing" 0
+867 "Object-Oriented Features of DB2 Client/Server" 3
+508 "Fine-granularity Locking and Client-Based Logging for Distributed Architectures" 2
+283 "Fast Computation of Sparse Datacubes" 13
+1305 "Modeling Interactive Web Sources for Information Mediation" 0
+447 "Managing Intra-operator Parallelism in Parallel Database Systems" 6
+699 "Handling Data Skew in Multiprocessor Database Computers Using Partition Tuning" 24
+1013 "A Relation Merging Technique for Relational Databases" 2
+275 "Commit processing in distributed real-time database systems" 30
+394 "Sampling-Based Selectivity Estimation for Joins Using Augmented Frequent Value Statistics" 6
+1203 "Object-Oriented Modeling for Hypermedia Systems Using the VODAK Model Language" 7
+484 "A Spanning Tree Transitive Closure Algorithm" 10
+975 "Data-Driven, One-To-One Web Site Generation for Data-Intensive Applications" 3
+391 "RainForest - A Framework for Fast Decision Tree Construction of Large Datasets" 5
+512 "Efficient Main Memory Data Management Using the DBGraph Storage Model" 7
+374 "The Snapshot Index: An I/O-optimal access method for timeslice queries" 10
+987 "The Performance of a Multiversion Access Method" 16
+347 "Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total" 91
+256 "A Graph Theoretical Approach to Determine a Join Reducer Sequence in Distributed Query Processing" 1
+514 "Practical Applications of Triggers and Constraints: Success and Lingering Issues (10-Year Award)" 0
+1094 "Pipelined Query Processing in the DBGraph Storage Model" 1
+660 "On the Equivalence of Recursive and Nonrecursive Datalog Programs" 17
+945 "A Semantics for a Class of Non-Deterministic and Causal Production System Programs" 1
+522 "Classifying Network Architectures for Locating Information Sources" 0
+1071 "Controlling the Search in Bottom-Up Evaluation" 10
+288 "Hierarchical Encoded Path Views for Path Query Processing: An Optimal Model and Its Performance Evaluation" 0
+887 "Using Write Protected Data Structures To Improve Software Fault Tolerance in Highly Available Database Management Systems" 4
+1346 "On Global Transaction Scheduling Criteria in Multidatabase Systems" 1
+743 "Intra-Transaction Parallelism in the Mapping of an Object Model to a Relational Multi-Processor System" 4
+1002 "A Performance Study of Three High Availability Data Replication Strategies" 5
+81 "Safely and Efficiently Updating References During On-line Reorganization" 2
+821 "Interactions Between Query Optimization and Concurrency Control" 5
+624 "The Implementation and Performance Evaluation of the ADMS Query Optimizer: Integrating Query Result Caching and Matching" 18
+305 "Dictionary: A New Access Method for Query Processing in Object-Oriented Databases" 0
+75 "A Break for Workaholics: Energy-Efficient Selective Tuning Mechanisms for Demand-Driven-Based Wireless Environment" 0
+537 "Sibling Clustering of Tree-Based Spatial Indexes for Efficient Spatial Query Processing" 2
+1098 "Range Selectivity Estimation for Continuous Attributes" 2
+485 "Hybrid Transitive Closure Algorithms" 13
+573 "PlugJoin: An easy-to-use Generic Algorithm for Efficiently Processing Equi and Non-Equi Joins" 1
+983 "Using Codewords to Protect Database Data from a Class of Software Errors" 1
+1343 "Conjunctive Query Equivalence of Keyed Relational Schemas" 1
+23 "Fast Algorithms for Mining Association Rules in Large Databases" 101
+211 "Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment" 28
+1144 "A Unified Approach to Concurrency Control and Transaction Recovery (Extended Abstract)" 2
+601 "Constraint-Based Algorithms for Computing Clique Intersection Joins" 1
+293 "Evaluation of Relational Algebras Incorporating the Time Dimension in Databases" 18
+517 "Implementing Crash Recovery in QuickStore: A Performance Study" 3
+340 "Constructing and Maintaining Scientific Database Views in the Framework of the Object-Protocol Model" 4
+220 "Efficient Organization of Large Multidimensional Arrays" 27
+181 "On Applying Hash Filters to Improving the Execution of Multi-Join Queries" 0
+67 "Concurrency and Recovery in Generalized Search Trees" 9
+1345 "Multilevel Secure Rules: Integrating the Multilevel Secure and Active Data Models" 4
+845 "Making B+-Trees Cache Conscious in Main Memory" 0
+1103 "Temporal Object-Oriented Databases: A Critical Comparison" 31
+802 "Multi-Agent Cooperative Transactions for E-Commerce" 0
+725 "Adding Active Functionality to an Object-Oriented Database System - a Layered Approach" 3
+19 "Predicate Migration: Optimizing Queries with Expensive Predicates" 43
+1240 "Mining Deviants in a Time Series Database" 1
+1370 "Optimizing Statistical Queries by Exploiting Orthogonality and Interval Properties of Grouping Relations" 0
+1122 "Second-Order Signature: A Tool for Specifying Data Models, Query Processing, and Optimization" 6
+890 "The Design and Experimental Evaluation of an Information Discovery Mechanism for Networks of Autonomous Database Systems" 3
+1051 "Data Mining for Web Intelligence" 13
+1070 "Using Partial Differencing for Efficient Monitoring of Deferred Complex Rule Conditions" 3
+193 "A View Mechanism for Object-Oriented Databases" 29
+1124 "CMD: A Multidimensional Declustering Method for Parallel Data Systems" 16
+1256 "Data Management for XML: Research Directions" 2
+21 "Spatial indexing in binary decomposition and spatial bounding" 3
+135 "Independent, Open Enterprise Data Integration" 3
+1254 "KMeD: a Knowledge-based Multimedia Medical Distributed Database System" 4
+958 "More optimism about real-time distributed commit processing" 18
+824 "Efficient Channel Allocation Tree Generation for Data Broadcasting in a Mobile Computing Environment" 15
+1269 "Determining Beneficial Semijoins for a Join Sequence in Distributed Query Processing" 1
+1086 "A Log-Structured History Data Access Method (LHAM)" 3
+995 "Review - Providing Better Support for a Class of Decision Support Queries" 0
+130 "Active Database Modeling and Design Tools: Issues, Approache, and Architecture" 2
+923 "Extending Practical Pre-Aggregation in On-Line Analytical Processing" 0
+849 "An Efficient Cost-Driven Index Selection Tool for Microsoft SQL Server" 8
+828 "Self-Adaptive User Profiles for Large-Scale Data Delivery" 1
+592 "From Database Programming to Business Process Programming" 1
+670 "Query-Adaptive Data Space Partitioning using Variable-Size Storage Clusters" 3
+723 "Knowledge Discovery in Large Spatial Databases: Focusing Techniques for Efficient Class Identification" 11
+880 "Synthesis of Extended Transaction Models Using ACTA" 15
+132 "On Optimal Processor Allocation to Support Pipelined Hash Joins" 13
+1133 "Improving Rule Analysis by Means of Triggering and Activation Graphs" 26
+479 "A Flexible and Adaptable Tool Kit Approach for Concurrency Control in Non Standard Database Systems" 0
+1112 "An Access Control Mechanism for Large Scale Data Dissemination Systems" 0
+1037 "Data Intensive Intra-  Internet Applications - Experiences Using Java and CORBA in the World Wide Web" 1
+582 "Buffer Analysis for a Data Sharing Environment with Skewed Data Access" 3
+204 "Query Processing in Tertiary Memory Databases" 15
+530 "Dynamic File Allocation in Disk Arrays" 14
+1073 "Exploiting Logical Structures in Replicated Databases" 4
+727 "Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System" 2
+368 "Analysis of the n-Dimensional Quadtree Decomposition for Arbitrary Hyperectangles" 3
+279 "Performance Analysis of Coherency Control Policies through Lock Retention" 6
+57 "Static Type Checking of Multi-Methods" 7
+1101 "An Efficient Bitmap Encoding Scheme for Selection Queries" 0
+971 "A Semantics for a Class of Stratified Production System Programs" 3
+611 "Temporal Modules: An Approach Toward Federated Temporal Databases" 8
+83 "Behavior of Database Production Rules: Termination, Confluence, and Observable Determinism" 35
+179 "The Postgres Next Generation Database Management System" 43
+1344 "Modular Synchronization in Distributed, Multiversion Databases: Version Control and Concurrency Control" 2
+1199 "Indexing the Edges - A Simple and Yet Efficient Approach to High-Dimensional Indexing" 1
+232 "Integrated Document Caching and Prefetching in Storage Hierarchies Based on Markov-Chain Predictions" 2
+645 "Maintaining Temporal Views over Non-Temporal Information Sources for Data Warehousing" 1
+1352 "Active Database Systems (Abstract)" 2
+1321 "Using Annotations to Support Multiple Kinds of Versioning in an Object-Oriented Database System" 6
+1202 "Object Allocation in Distributed Databases and Mobile Computers" 7
+1057 "Review - Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total" 0
+202 "Incremental Implementation Model for Relational Databases with Transaction Time" 18
+66 "Dynamic Granular Locking Approach to Phantom Protection in R-Trees" 1
+397 "Database Mining: A Performance Perspective" 40
+996 "Mining Process Models from Workflow Logs" 1
+1209 "DATAPLEX: An Access to Heterogeneous Distributed Databases" 8
+1265 "Exploiting Transaction Semantics in Multidatabase Systems" 2
+664 "Functionality and Limitations of Current Workflow Management Systems" 6
+1120 "Energy-Efficient Caching for Wireless Mobile Computing" 4
+430 "The Impact of Data Placement on Memory Management for Multi-Server OODBMS" 2
+1220 "Exotica/FMDC: Handling Disconnected Clients in a Workflow Management System" 1
+1168 "The Interval Skip List: A Data Structure for Finding All Intervals that Overlap a Point" 2
+709 "Optimal Placement of High-Probability Randomly Retrieved Blocks on CLV Optical Discs" 7
+127 "An Overview of Data Warehousing and OLAP Technology" 338
+1287 "Tools and Transformations - Rigorous and Otherwise - for Practical Database Design" 7
+162 "Dynamic and Load-balanced Task-Oriented Datbase Query Processing in Parallel Systems" 6
+241 "Scalable Versioning in Distributed Databases with Commuting Updates" 1
+916 "Dynamic Optimization of Index Scans Restricted by Booleans" 1
+791 "Self-Tuning Technology in Microsoft SQL Server" 0
+662 "Ensuring Transaction Atomicity in Multidatabase Systems" 7
+1065 "Future of Database Systems: Changing Applications and Technological Developments" 0
+613 "A Cost-Model-Based Online Method for Ditributed Caching" 4
+96 "Modelling Large Scale OLAP Scenarios" 12
+1205 "The Breakdown of the Information Model in Multi-Database Systems" 52
+1166 "A One-Pass Space-Efficient Algorithm for Finding Quantiles" 3
+187 "The 3W Model and Algebra for Unified Data Mining" 0
+569 "Value-Based Scheduling in Real-Time Database Systems" 2
+1181 "Review - DynaMat: A Dynamic View Management System for Data Warehouses" 1
+513 "Monet And Its Geographic Extensions: A Novel Approach to High Performance GIS Processing" 7
+258 "Concurrency Control in Hierarchical Multidatabase Systems" 2
+525 "Compilation-Based List Processing in Deductive Databases" 2
+14 "Some Approaches to Index Design for Cude Forests" 0
+1006 "Conjunctive Constraint Mapping for Data Translation" 1
+1116 "Interoperable Query Processing from Object to Relational Schemas Based on a Parameterized Canonical Representation" 1
+344 "Local Dimensionality Reduction: A New Approach to Indexing High Dimensional Spaces" 0
+158 "Ode as an Active Database: Constraints and Triggers" 37
+248 "Enhancing Semistructured Data Mediators with Document Type Definitions" 4
+1289 "On Resource Scheduling of Multi-Join Queries in Parallel Database Systems" 3
+224 "Duplicate Removal in Information System Dissemination" 3
+533 "Disk Read-Write Optimizations and Data Integrity in Transaction Systems Using Write-Ahead Logging" 1
+636 "Statistical Estimators for Aggregate Relational Algebra Queries" 12
+145 "Improved Histograms for Selectivity Estimation of Range Predicates" 46
+1075 "Efficient Maintenance of Rule-Derived Data through Join Pattern Indexing" 1
+311 "Dynamically Optimizing High-Dimensional Index Structures" 0
+153 "Topological Relations in the World of Minimum Bounding Rectangles: A Study with R-trees" 10
+693 "Optimizing Queries with Aggregate Views" 7
+1371 "Efficient Query Processing for a Subset of Linear Recursive Binary Rules" 0
+287 "Low Complexity Aggregation in GraphLog and Datalog" 7
+300 "Efficient Sampling Strategies for Relational Database Operations" 12
+706 "Garbage Collection in Object Oriented Databases Using Transactional Cyclic Reference Counting" 2
+1091 "Efficiently Supporting Ad Hoc Queries in Large Datasets of Time Sequences" 4
+953 "Data Hiding and Security in Object-Oriented Databases" 3
+209 "Temporal Query Processing and Optimization in Multiprocessor Database Machines" 7
+3 "Approximation-Based Similarity Search for 3-D Surface Segments" 17
+1414 "Managing Network Resources for Efficient, Reliable Information Systems" 0
+1188 "Domain-Independent Queries on Databases with External Functions" 1
+854 "GraphDB: Modeling and Querying Graphs in Databases" 5
+48 "Exploring Semantics in Aggregation Hierarchies for Object-Oriented Databases" 4
+412 "LoT: Dynamic Declustering of TSB-Tree Nodes for Parallel Access to Temporal Data" 1
+926 "A Layered Approach to Scientific Data Management at Lawrence Berkeley Laboratory" 2
+1318 "UniSQL/X Unified Relational and Object-Oriented Database System" 3
+976 "Catching the Boat with Strudel: Experiences with a Web-Site Management System" 22
+261 "Performance Tradeoffs for Client-Server Query Processing" 12
+314 "Extending the Search Strategy in a Query Optimizer" 21
+221 "Efficient View Maintenance at Data Warehouses" 11
+1054 "Capturing and Querying Multiple Aspects of Semistructured Data" 0
+896 "A Query Sampling Method of Estimating Local Cost Parameters in a Multidatabase System" 5
+497 "An Algebraic Approach to Rule Analysis in Expert Database Systems" 13
+1022 "Domains and Active Domains: What This Distinction Implies for the Estimation of Projection Sizes in Relational Databases" 0
+1111 "Analysis of Hybrid Concurrency Control Schemes For a High Data Contention Environment" 6
+874 "On Efficiently Implementing SchemaSQL on an SQL Database System" 0
+461 "Large-Sample and Deterministic Confidence Intervals for Online Aggregation" 7
+1413 "Adaptable, Efficient, and Modular Coordination of Distributed Extended Transactions" 2
+621 "Optimizing Queries with Materialized Views" 46
+1282 "An Overview of Repository Technology" 6
+349 "Direct Transitive Closure Algorithms: Design and Performance Evaluation" 20
+71 "Repeating History Beyond ARIES" 0
+966 "Implementing High Level Active Rules on Top of a Relational DBMS" 16
+823 "Signature caching techniques for information filtering in mobile environments" 22
+520 "Query Optimization in a Memory-Resident Domain Relational Calculus Database System" 17
+61 "Query Pre-Execution and Batching in Paradise: A Two-Pronged Approach to the Efficient Processing of Queries on Tape-Resident Raster Images" 8
+147 "Review - The Logical Access Path Schema of a Database" 0
+143 "Cooperative Transaction Hierarchies: A Transaction Model to Support Design Applications" 10
+1267 "Secure Buffering in Firm Real-Time Database Systems" 0
+95 "Integrating Standard Transactions in Firm Real-Time Database Systems" 1
+1313 "Containment of Conjunctive Queries: Beyond Relations as Sets" 5
+111 "ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging" 112
+1356 "Heap-Filter Merge Join: A New Algorithm For Joining Medium-Size Inputs" 2
+541 "Distributed Database Systems: Where Are We Now?" 7
+1029 "Services for a Workflow Management System" 1
+269 "Efficient Spatial Query Processing in Geographic Database Systems" 2
+998 "Design Principles for Data-Intensive Web Sites" 16
+842 "Relations with Relation Names as Arguments: Algebra and Calculus" 10
+788 "How To Roll a Join: Asynchronous Incremental View Maintenance" 1
+117 "Optimizing Queries over Multimedia Repositories" 17
+1152 "Distributed data integration by object-oriented mediator servers" 33
+212 "A Declarative Approach to Active Databases" 1
+736 "Data partitioning for multicomputer datbase systems: a cell-based approach" 3
+969 "Bounded Fixpoints for Complex Objects" 10
+952 "Generating Broadcast Programs that Support Range Queries" 1
+422 "Interleaving a Join Sequence with Semijoins in Distributed Query Processing" 7
+1093 "Automatic Subspace Clustering of High Dimensional Data for Data Mining Applications" 14
+274 "Earliest Deadline Scheduling for Real-Time Database Systems" 77
+418 "Enhanced Abstract Data Types in Object-Relational Databases" 3
+260 "Fundamental Properties of Deterministic and Nondeterministic Extensions of Datalog" 15
+37 "Data Redundancy and Duplicate Detection in Spatial Join Processing" 2
+1367 "Architecture of Future Data Base Systems" 2
+276 "Towards Self-Tuning Data Placement in Parallel Database Systems" 0
+185 "Tutorial on Parallel Database Systems" 0
+644 "A Temporal Knowledge Representation Model OSAM*/T and Its Query Language OQL/T" 12
+822 "Multiclass Query Scheduling in Real-Time Database Systems" 0
+790 "Methodical Restructuring of Complex Workflow Activities" 2
+1374 "Design and Implementation of Advanced Knowledge Processing in the KDMS KRISYS (Demonstration Description)" 1
+1008 "Generalised Hash Teams for Join and Group-by" 0
+609 "Modularization Techniques for Active Rules Design" 7
+1138 "Section Coding: Ein Verfahren zur Ahnlichkeitssuche in CAD-Datenbanken" 2
+431 "A Predicate-based Caching Scheme for Client-Server Database Architectures" 6
+316 "Epidemic Algorithms in Replicated Databases (Extended Abstract)" 4
+1388 "New and Forgotten Dreams in Database Research (Panel)" 0
+578 "Partition Based Spatial-Merge Join" 23
+500 "ARIES-RRH: Restricted Repeating of History in the ARIES Transaction Recovery Method" 17
+184 "Combining Histograms and Parametric Curve Fitting for Feedback-Driven Query Result-size Estimation" 2
+676 "Data Base Design Principles for Striping and Placement of Delay-Sensitive Data on Disks" 1
+1005 "Exploiting the Features of Asymmetry for Query Processing in a Mobile Computing Environment" 0
+1354 "Transaction Management Issues in a Failure-Prone Multidatabase System Environment" 4
+1193 "A Periodic Deadlock Detection and Resolution Algorithm with a New Graph Model for Sequential Transaction Processing" 3
+44 "A Uniform Model for Temporal Object-Oriented Databases" 22
+168 "Cubetree: Organization of and Bulk Updates on the Data Cube" 11
+881 "Architecture of Active Database Systems" 1
+1226 "An Optimistic Commit Protocol for Distributed Transaction Management" 10
+1106 "Optimization of Object-Oriented Recursive Queries using Cost-Controlled Strategies" 5
+379 "Constraint Enforcement Through Production Rules: Putting Active Databases at Work" 3
+634 "Database Research: Achievements and Opportunities Into the 21st Century" 52
+141 "Multi-Table Joins Through Bitmapped Join Indices" 51
+626 "Parallel Database Systems: the case for shared-something" 3
+1197 "Stochastic Performance Guarantees for Mixed Workloads in a Multimedia Information System" 1
+123 "Dual-Buffering Strategies in Object Bases" 9
+364 "Outer Join Optimization in Multidatabase Systems" 8
+175 "STARTS: Stanford Proposal for Internet Meta-Searching (Experience Paper)" 11
+109 "An Execution Model for Limited Ambiguity Rules and Its Application to Derived Data Update" 2
+1411 "Review - The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles" 0
+4 "Pipelining Mechanism to Minimize the Latency Time in Hierarchical Multimedia Storage Managers" 36
+1049 "A Pyramid Data Model for Supporting Content-Based Browsing and Knowledge Discovery" 1
+1250 "BigSur: A System For the Management of Earth Science Data" 5
+125 "PUBLIC: A Decision Tree Classifier that Integrates Building and Pruning" 5
+1218 "A Low-Cost Storage Server for Movie on Demand Databases" 10
+1 "Selectivity Estimation Without the Attribute Value Independence Assumption" 22
+673 "Practical Predicate Placement" 17
+2 "A Multistep Approach for Shape Similarity Search in Image Databases" 0
+786 "Histogram-Based Solutions to Diverse Database Estimation Problems" 7
+362 "ARIES/LHS: A Concurrency Control and Recovery Method Using Write-Ahead Logging for Linear Hashing with Separators" 8
+1342 "Semantic Query Optimization for Tree and Chain Queries" 4
+1316 "Processing Top N and Bottom N Queries" 1
+383 "Advanced Data Processing in KRISYS: Modeling Concepts, Implementation Techniques, and Client/Server Issues" 1
+1392 "Random Sampling from Database Files: A Survey" 3
+444 "Dynamic Memory Allocation for Multiple-Query Workloads" 9
+556 "Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases" 20
+1044 "An Algorithm for Computing the Overlay of k-Dimensional Spaces" 6
+735 "Static Detection of Security Flaws in Object-Oriented Databases" 0
+222 "Deriving Production Rules for Incremental View Maintenance" 72
+172 "Uniform Object Management" 6
+685 "Stochastic Service Guarantees for Continuous Data on Multi-Zone Disks" 2
+1135 "Refined Triggering Graphs: A Logic-Based Approach to Termination Analysis in an Active Object-Oriented Database" 5
+1048 "Transaction Chopping: Algorithms and Performance Studies" 5
+655 "Optimization of Generalized Transitive Closure Queries" 5
+683 "SQL/XNF - Processing Composite Objects as Abstractions over Relational Data" 9
+27 "LH* - A Scalable, Distributed Data Structure" 3
+177 "Algorithms for the Management of Remote Backup Data Bases for Disaster Recovery" 7
+770 "A Rule Engine for Query Transformation in Starburst and IBM DB2 C/S DBMS" 2
+124 "Data Mining and the Web: Past, Present and Future" 0
+1180 "Review - View Indexing in Relational Databases" 0
+930 "Efficient Incremental Evaluation of Queries with Aggregation" 4
+748 "Relaxing Serializability in Multidatabase Systems" 5
+1363 "Transaction Support in Read Optimizied and Write Optimized File Systems" 2
+1123 "From Relations and Nested Relations to Object Models" 1
+352 "Integrating Mining with Relational Database Systems: Alternatives and Implications" 10
+63 "Queries on Change in an Extended Relational Model" 5
+324 "Optimization of Run-time Management of Data Intensive Web-sites" 2
+56 "Polyglot: Extensions to Relational Databases for Sharable Types and Functions in a Multi-Language Environment" 3
+1014 "On the Expected Size of Recursive Datalog Queries" 1
+852 "Constraint-based clustering in large databases" 0
+472 "A Retrieval Technique for Similar Shapes" 40
+654 "The Effectiveness of GlOSS for the Text Database Discovery Problem" 15
+1189 "A Database Perspective on Lotus Domino/Notes" 1
+1361 "A Model-Theoretic Semantics of the Multilevel Relational Model" 1
+1023 "Workflow History Management in Virtual Enterprises Using a Light-Weight Workflow Management System" 2
+737 "A Toolkit for Constraint Management in Heterogeneous Information Systems" 2
+1108 "Tapes Hold Data, Too: Challenges of Tuples on Tertiary Store" 9
+201 "Temporal Specialization and Generalization" 5
+198 "A Query Language for a Web-Site Management System" 109
+76 "Sleepers and Workaholics: Caching Strategies in Mobile Environments" 20
+899 "Persistence in E Revisited - Implementation Experiences" 13
+1227 "Kaleidoscope Data Model for An English-like Query Language" 0
+272 "Data Placement and Buffer Management for Concurrent Mergesorts with Parallel Prefetching" 1
+194 "Performance Measurements of Compressed Bitmap Indices" 0
+753 "A Framework for Feature-Based Indexing for Spatial Databases" 1
+931 "A Performance Study of Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System" 0
+65 "A Performance Evaluation of Pointer-Based Joins" 27
+638 "Hash-Based Join Algorithms for Multiprocessor Computers" 18
+1407 "The INCINERATE Data Model" 1
+1280 "Conceptual Schemas: Multi-faceted Tools for Desktop Scientific Experiment Management" 6
+393 "Balancing Histogram Optimality and Practicality for Query Result Size Estimation" 28
+742 "Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability" 0
+992 "Better Termination Analysis for Active Databases" 26
+1283 "The Committee for Advanced DBMS Function': Third Generation Data Base System Manifesto" 2
+1074 "The Design and Implementation of Seeded Trees: An Efficient Method for Spatial Joins" 0
+1125 "SCAM: A Copy Detection Mechanism for Digital Documents" 5
+421 "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure" 410
+516 "Supporting Fine-grained Data Lineage in a Database Visualization Environment" 4
+652 "Optimal Histograms for Limiting Worst-Case Error Propagation in the Size of Join Results" 15
+1114 "An Efficient and Reliable Reservation Algorithm for Mobile Transactions" 1
+326 "Specification and Management of Extended Transactions in a Programmable Transaction Environment" 14
+419 "Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans" 8
+763 "2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm" 9
+1333 "A Non-Restrictive Concurrency Control for Object Oriented Databases" 4
+1009 "An Adaptive Data Placement Scheme for Parallel Database Computer Systems" 17
+1286 "Search and Ranking Algorithms for Locating Resources on the World Wide Web" 3
+925 "On Indexing Spatial and Temporal Data, Invited Project Review" 1
+844 "Using Delayed Commitment in Locking Protocols for Real-Time Databases" 7
+558 "Performance evaluation of algorithms for transitive closure" 3
+448 "Inferring Function Semantics to Optimize Queries" 1
+1380 "ICICLES: Self-Tuning Samples for Approximate Query Answering" 0
+878 "TOODM - A Temporal Object-Oriented Data Model with Temporal Constraints" 23
+570 "A Performance Study of Alternative Object Faulting and Pointer Swizzling Strategies" 17
+308 "Performance Evaluation of Integrity Control in a Parallel Main-Memory Database System" 3
+329 "Cache Conscious Indexing for Decision-Support in Main Memory" 2
+405 "An Efficient and Fault-Tolerant Solution for Distributed Mutual Exclusion" 5
+1323 "The Value of Merge-Join and Hash-Join in SQL Server" 1
+703 "GlOSS: Text-Source Discovery over the Internet" 1
+1060 "Resilient Logical Structures for Efficient Management of Replicated Data" 0
+503 "Estimation of Query-Result Distribution and its Application in Parallel-Join Load Balancing" 5
+814 "Aggregate Aware Caching for Multi-Dimensional Queries" 0
+641 "Testing Complex Temporal Relationships Involving Multiple Granularities and Its Application to Data Mining" 1
+361 "Making Deductive Databases a Practical Technology: A Step Forward" 23
+456 "CORAL - Control, Relations and Logic" 31
+891 "Optimizations of Bottom-Up Evaluation with Non-Ground Terms (Extended Abstract)" 1
+1360 "Large Object Support in POSTGRES" 1
+69 "A Transparent Object-Oriented Schema Change Approach Using View Evolution" 6
+489 "A Framework for Scalbale Dissemination-Based Systems" 4
+640 "Logical Information Modeling of Web-Accessible Heterogeneous Digital Assets" 3
+1329 "Review - The GMAP: A Versatile Tool for Physical Data Independence" 0
+409 "Research Directions in Object-Oriented Database Systems" 3
+452 "Rule Condition Testing and Action Execution in Ariel" 38
+304 "Evolution of Relational DBMSs Toward Object Support: A Practical Viewpoint" 4
+402 "Organizing Long-Running Activities with Triggers and Transactions" 45
+543 "On Rules, Procedures, Caching and Views in Data Base Systems" 84
+702 "Local Ambiguity and Derived Data Update" 2
+399 "Exploiting Versions for Handling Updates in Broadcast Disks" 0
+850 "Qualitative Representation of Spatial Knowledge in Two-Dimensional Space" 7
+186 "A Multiuser Performance Analysis of Alternative Declustering Strategies" 23
+768 "Efficient Evaluation of Aggregates on Bulk Types" 4
+794 "Referential Integrity Revisited: An Object-Oriented Perspective" 6
+73 "Database Techniques for the World-Wide Web: A Survey" 343
+183 "Approximating Multi-Dimensional Aggregate Range Queries over Real Attributes" 0
+911 "Designing Access Methods for Bitemporal Databases" 5
+208 "On Spatially Partitioned Temporal Join" 1
+730 "AutoAdmin 'What-if' Index Analysis Utility" 4
+1063 "Modeling and Analysis of a Time-Stamp History Based Certification Protocol for Concurrency Control" 2
+1066 "MMVIS: Design and Implementation of a Multimedia Visual Information Seeking Environment" 1
+933 "Schema Equivalence in Heterogeneous Systems: Bridging Theory and Practice (Extended Abstract)" 0
+451 "Extending the Transaction Model to Capture more Meaning" 29
+972 "Analytic Modeling and Comparisons of Striping Strategies for Replicated Disk Arrays" 2
+112 "Coral++: Adding Object-Orientation to a Logic Database Language" 4
+148 "An Adaptive Hash Join Algorithm for Multiuser Environments" 16
+772 "Concurrent File Reorganization: Clustering, Conversion and Maintenance" 1
+941 "The Multicast Policy and Its Relationship to Replicated Data Placement" 8
+649 "Structured Document Storage and Refined Declarative and Navigational Access Mechanisms in HyperStorM" 1
+738 "The Demarcation Protocol: A Technique for Maintaining Linear Arithmetic Constraints in Distributed Database Systems" 11
+1412 "Query Translation Supporting the Migration of Legacy Databases into Cooperative Information Systems" 1
+254 "Discovering Frequent Event Patterns with Multiple Granularities in Time Sequences" 1
+808 "Access Method Concurrency with Recovery" 20
+114 "Applying Hash Filters to Improving the Execution of Bushy Trees" 1
+407 "Distributed Algorithms for Dynamic Replication of Data" 11
+1288 "Memory Management During Run Generation in External Sorting" 1
+959 "Concurrency Control and Recovery in Transactional Process Management" 0
+934 "Schema equivalence in heterogeneous systems: bridging theory and practice" 11
+295 "QuickStore: A High Performance Mapped Object Store" 11
+639 "Semantic Interoperability in Global Information Systems: A Brief Introduction to the Research Area and the Special Section" 24
+1364 "Resolving Data Heterogeneity in Scientific and Statistical Databases" 1
+142 "Failure Handling for Transaction Hierarchies" 2
+557 "Rule Ordering in Bottom-Up Fixpoint Evaluation of Logic Programs" 5
+903 "Object Views: Extending the Vision" 25
+1338 "A Visual Multimedia Query Language for Temporal Analysis of Video Data" 1
+333 "Fast Approximate Answers to Aggregate Queries on a Data Cube" 7
+289 "Transitive Closure Algorithms Based on Graph Traversal" 14
+10 "Prepare and Commit Certification for Decentralized Transaction Management in Rigorous Heterogeneous Multidatabases" 8
+406 "Query Containment for Conjunctive Queries with Regular Expressions" 6
+1249 "The TSIMMIS Approach to Mediation: Data Models and Languages" 9
+989 "Using Path Information for Query Processing in Object-Oriented Database Systems" 2
+213 "Implementing Set-Oriented Production Rules as an Extension to Starburst" 44
+1341 "Workflow Management in the Internet Age (Abstract)" 1
+978 "LH*s: A High-Availability and High-Security Scalable Distributed Data Structure" 1
+598 "CURE: An Efficient Clustering Algorithm for Large Databases" 15
+119 "Efficient Concurrency Control in Multidimensional Access Methods" 0
+675 "Estimating Page Fetches for Index Scans with Finite LRU Buffers" 0
+904 "A Practical and Modular Implementation of Extended Transaction Models" 6
+1052 "Algebraic Identities and Query Optimization in a Parametric Model for Relational Temporal Databases" 0
+988 "Dynamic Query Operator Scheduling for Wide-Area Remote Access" 1
+1378 "Review - A Novel Index Supporting High Volume Data Warehouse Insertion" 0
+1372 "Necessary and Sufficient Conditions to Linearize Double Recursive Programs in Logic Databases" 8
+1130 "Bambi Meets Godzilla: Object Databases for Scientific Computing" 3
+915 "Commit Scope Control in Nested Transactions" 3
+47 "Activity Model: A Declarative Approach for Capturing Communication Behavior in Object-Oriented Databases" 6
+733 "Analysis of the Hilbert Curve for Representing Two-Dimensional Space" 2
+873 "ESQL: An Extended SQL with Object and Deductive Capabilities" 2
+793 "Alert: An Architecture for Transforming a Passive DBMS into an Active DBMS" 14
+1099 "Algorithms for Searching Massive Graphs" 3
+355 "The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment" 12
+1187 "The Valid Model Semantics for Logic Programs" 4
+740 "Tools for View Generation in Object-Oriented Databases" 2
+538 "Intensional Answers to Database Queries" 2
+1297 "Compilation of Logic Programs to Implement Very Large Knowledge Base Systems - A Case Study: Educe*" 2
+967 "Performance of On-Line Index Construction Algorithms" 8
+78 "Mining Quantitative Association Rules in Large Relational Tables" 28
+234 "Visualization Techniques for Mining Large Databases: A Comparison" 2
+629 "Indexing Large Metric Spaces for Similarity Search Queries" 0
+755 "Cooperative Transaction Hierarchies: Transaction Support for Design Applications" 2
+812 "A Transformation-Based Approach to Optimizing Loops in Database Programming Languages" 6
+576 "OFL: A Functional Execution Model for Object Query Languages" 3
+562 "Developing and Accessing Scientific Databases with the Object-Protocol (OPM) Data Management Tools" 0
+686 "``Disk Cooling'' in Parallel Disk Systems" 10
+833 "Building a Hybrid Database Application for Structured Documents" 1
+546 "S3: Similarity Search in CAD Database Systems" 6
+1041 "Semantic Heterogeneity Resolution in Federated Databases by Metadata Implantation and Stepwise Evolution" 0
+643 "An Extended Transaction Environment for Workflows in Distributed Object Computing" 2
+1184 "Multi-Level Transactions and Open Nested Transactions" 5
+79 "Optimization of Dynamic Query Evaluation Plans" 18
+895 "Read Optimized File System Designs: A Performance Evaluation" 1
+589 "Adaptable Pointer Swizzling Strategies in Object Bases: Design, Realization, and Quantitative Analysis" 5
+1128 "The Wisconsin Benchmark: Past, Present, and Future" 4
+974 "Incremental Database Systems: Databases from Ground Up" 3
+238 "A Survey on Online Reorganization in IBM Products and Research" 3
+446 "Encapsulation of Parallelism in the Volcano Query Processing System" 30
+567 "Using Schematically Heterogeneous Structures" 3
+1207 "I/O Complexity for Range Queries on Region Data Stored Using an R-tree" 1
+105 "Efficient Processing of Spatial Joins Using R-Trees" 49
+156 "Querying Multiple Features of Groups in Relational Databases" 16
+284 "Data Mining and Personalization Technologies" 0
+0 "Reducing the Braking Distance of an SQL Query Engine" 5
+115 "Optimization of Multi-Way Join Queries for Parallel Execution" 16
+1222 "Management of Updates in the Enhanced Client-Server DBMS" 3
+884 "Optimizer and Parallel Engine Extensions for Handling Expensive Methods Based on Large Objects" 0
+705 "Data Placement in Shared-Nothing Parallel Database Systems" 2
+1016 "Using the Co-existence Approach to Achieve Combined Functionality of Object-Oriented and Relational Systems" 1
+1145 "Unifying concurrency control and recovery of transactions" 8
+830 "Context Interchange: Overcoming the Challenges of Large-Scale Interoperable Database Systems in a Dynamic Environment" 7
+799 "Semantic Compression and Pattern Extraction with Fascicles" 2
+1237 "An Overview of Cost-based Optimization of Queries with Aggregates" 3
+327 "The Concurrency Control Problem in Multidatabases: Characteristics and Solutions" 9
+46 "Mining Association Rules between Sets of Items in Large Databases" 111
+1160 "Introduction to the Special Section on Next-Generation Database Systems" 6
+270 "Optimization Techniques for Queries with Expensive Methods" 3
+542 "The Multilevel Grid File - A Dynamic Hierarchical Multidimensional File Structure" 7
+565 "A Scientific Database System for Polymers and Materials Engineering Needs" 2
+648 "Error-Constraint COUNT Query Evaluation in Relational Databases" 17
+832 "A Review of Recent Work on Multi-attribute Access Methods" 21
+627 "L/MRP: A Buffer Management Strategy for Interactive Continuous Data Flows in a Multimedia DBMS" 5
+599 "Using Join Operations as Reducers in Distributed Query Processing" 2
+113 "Modular Stratification and Magic Sets for DATALOG Programs with Negation" 14
+166 "Extensible Database Management Systems" 18
+1201 "Space Optimization in Deductive Databases" 0
+116 "An Efficient and Flexible Method for Archiving a Data Base" 8
+586 "Online Feedback for Nested Aggregate Queries with Multi-Threading" 0
+762 "Buffer Management in Distributed Database Systems: A Data Mining Based Approach" 0
+928 "Optimization of Queries using Nested Indices" 7
+82 "ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes" 42
+505 "Fixed-Precision Estimation of Join Selectivity" 5
+90 "Flexible Buffer Allocation Based on Marginal Gains" 27
+1366 "Integrating Security with Fault-Tolerant Distributed Databases" 2
+1274 "Review - Complexity of Answering Queries Using Materialized Views" 0
+1241 "A Denotational Semantics for the Starburst Production Rule Language" 34
+1100 "Review - Predicate Migration: Optimizing Queries with Expensive Predicates" 0
+286 "Hy+: A Hygraph-based Query and Visualization System" 10
+1079 "FATES: Finding A Time dEpendent Shortest path" 13
+631 "Describing and Using Query Capabilities of Heterogeneous Sources" 8
+74 "Optimizing Queries Across Diverse Data Sources" 38
+1268 "Approximate Analysis of Real-Time Database Systems" 1
+425 "Efficient Algorithms for Mining Outliers from Large Data Sets" 1
+271 "Randomized Algorithms for Optimizing Large Join Queries" 46
+746 "Semantic Assumptions and Query Evaluation in Temporal Databases" 3
+515 "DIASPORA: A highly distributed web-query processing system" 22
+387 "Extensible Buffer Management of Indexes" 9
+390 "Counting, Enumerating, and Sampling of Execution Plans in a Cost-Based Query Optimizer" 0
+826 "A Survey of Indexing Techniques for Object-Oriented Database Management Systems" 8
+579 "The Deductive Synthesis of Database Transactions" 1
+1126 "In Search of Acceptability Citeria: Database Consistency Requirements and Transaction Correctness properties" 4
+18 "An Optimizer for Heterogeneous Systems with NonStandard Data and Search Capabilities" 3
+11 "A Paradigm for Concurrency Control in Heterogeneous Distributed Database Systems" 17
+553 "Guest Editors' Introduction to the Special Issue on Heterogeneous Databases" 7
+1084 "Structural Query Optimization - A uniform Framework for Semantic Query Optimization in Deductive Databases" 3
+747 "Some Approaches to Index Design for Cube Forest" 7
+726 "Evaluating the Cost of Boolean Query Mapping" 0
+1030 "Third Generation TP Monitors: A Database Challenge" 9
+1087 "Comparison of Approximations of Complex Objects Used for Approximation-based Query Processing in Spatial Database Systems" 16
+121 "Concentric Hyperspaces and Disk Allocation for Fast Parallel Range Searching" 3
+200 "Techniques for Online Exploration of Large Object-Relational Datasets" 0
+551 "Optimal Multi-Step k-Nearest Neighbor Search" 8
+973 "A C++ Binding for Penguin: a System for Data Sharing among Heterogeneous Object Models" 1
+1154 "Bit-Sliced Signature Files for Very Large Text Databases an a Parallel Machine Architecture" 1
+1018 "Mining Knowledge at Multiple Concept Levels" 2
+834 "Analytical Modeling of a Hierarchical Buffer for a Data Sharing Environment" 8
+807 "Exploiting A History Database for Backup" 3
+1252 "Object-Oriented Approach to Managing Statistical and Scientific Databases" 2
+986 "Algebraic Query Languages on Temporal Databases with Multiple Time Granularities" 1
+237 "High Dimensional Similarity Joins: Algorithms and Performance Evaluation" 1
+1347 "A Performance Study of Declustering Strategies for Parallel Spatial Databases" 1
+290 "Composite-Object Views in Relational DBMS: An Implementation Perspective" 1
+838 "Mining Large Itemsets for Association Rules" 1
+1204 "A Performance Study of Three High Available Data Replication Strategies" 1
+1258 "Mining Data Streams under Block Evolution" 56
+487 "Exploratory Mining via Constrained Frequent Set Queries" 0
+731 "A Structure-Based Approach to Querying Semi-Structured Data" 2
+134 "Performance of Inverted Indices in Distributed Text Document Retrieval Systems" 6
+1031 "A Toolkit for the Incremental Implementation of Heterogeneous Database Management Systems" 2
+437 "Join Index Hierarchies for Supporting Efficient Navigations in Object-Oriented Databases" 9
+273 "Buffer Management Based on Return on Consumption in a Multi-Query Environment" 12
+160 "DBMS Research at a Crossroads: The Vienna Update" 16
+908 "A Taxonomy of Correctness Criteria in Database Applications" 1
+1038 "Amalgame: A Tool for Creating Interoperating, Persistent, Heterogeneous Components" 4
+89 "Parallel Algorithms for High-dimensional Similarity Joins for Data Mining Applications" 1
+494 "An Adaptive Object-Oriented Approach to Integration and Access of Heterogeneous Information Sources" 34
+773 "Adaptive Database Buffer Allocation Using Query Feedback" 5
+346 "Database Performance in the Real World - TPC-D and SAP R/3 (Experience Paper)" 2
+568 "Answering Queries Using OQL View Expressions" 18
+292 "Performance Modelling and Comparisons of Global Shared Buffer Management Policies in a Cluster Environment" 2
+277 "Optimization of Parallel Execution for Multi-Join Queries" 1
+1394 "HyperStorM - Administering Structured Documents Using Object-Oriented Database Technology" 1
+760 "The Tree Quorum Protocol: An Efficient Approach for Managing Replicated Data" 11
+1309 "Curio: A Novel Solution for Efficient Storage and Indexing in Data Warehouses" 0
+403 "Continuous Display of Presentations Sharing Clips" 2
+1177 "The Buddy-Tree: An Efficient and Robust Access Method for Spatial Data Base Systems" 26
+1134 "Modern Database Systems: The Object Model, Interoperability, and Beyond" 49
+1011 "A Moose and a Fox Can Aid Scientists with Data Management Problems" 10
+353 "Reordering Query Execution in Tertiary Memory Databases" 8
+957 "Hybrid Index Organizations for Text Databases" 8
+495 "Incorporating Flexible and Expressive Rule Control in a Graph-Based Transaction Framework" 0
+1270 "Scalable Spreadsheets for Interactive Data Analysis" 1
+1235 "Performance Comparisons of Distributed Deadlock Detection Algorithms" 1
+977 "Predator: A Resource for Database Research" 19
+215 "Hybrid-Range Partitioning Strategy: A New Declustering Strategy for Multiprocessor Database Machines" 22
+9 "Efficient Similarity Search In Sequence Databases" 43
+1117 "On the Complexity of Generating Optimal Left-Deep Processing Trees with Cross Products" 4
+665 "Federated Databases and Systems: Part I - A Tutorial on Their Data Sharing" 4
+820 "STORM: A Statistical Object Representation Model" 16
+1206 "A Formal Foundation for Distributed Workflow Execution Based on State Charts" 8
+263 "Two-Level Caching of Composite Object Views of Relational Databases" 2
+962 "Issues in Parallel Information Retrieval" 0
+734 "The Generalized Tree Quorum Protocol: An Efficient Approach for Managing Replicated Data" 3
+1314 "Report on the Workshop on Heterogenous Database Systems held at Northwestern University, Evanston, Illinois, December 11-13, 1989, Sponsored by NSF" 7
+1141 "Unifying Concurrency Control and Recovery of Transactions with Semantically Rich Operations" 5
+182 "Managing Persistent Objects in a Multi-Level Store" 17
+297 "Adaptive, Fine-Grained Sharing in a Client-Server OODBMS: A Callback-Based Approach" 0
+55 "Performance and Scalability of Client-Server Database Architectures" 12
+795 "System Issues in Parallel Sorting for Database Systems" 6
+1211 "Join Index, Materialized View, and Hybrid-Hash Join: A Performance Analysis" 10
+1200 "Using Delta Relations to Optimize Condition Evaluation in Active Databases" 28
+170 "Static Analysis Techniques for Predicting the Behavior of Active Database Rules" 9
+34 "On Periodic Resource scheduling for Continuous-Media Databases" 0
+656 "Extending SQL with Generalized Transitive Closure Functionality" 3
+1349 "The Expressive Power of the Bounded-Iteration Construct" 4
+85 "A Blackboard Architecture for Query Optimization in Object Bases" 8
+133 "Query Processing and Inverted Indices in Shared-Nothing Document Information Retrieval Systems" 2
+792 "Highly Concurrent Cache Consistency for Indices in Client-Server Database Systems" 0
+615 "Beyond Uniformity and Independence: Analysis of R-trees Using the Concept of Fractal Dimension" 25
+554 "On Index Selection Schemes for Nested Object Hierarchies" 2
+633 "Practical Skew Handling in Parallel Joins" 25
+1173 "Multimedia Information Systems: The Unfolding of a Reality (Guest Editors' Introduction)" 14
+476 "Extensibility in the Starburst Experimental Database System" 1
+749 "Deciding Containment for Queries with Complex Objects" 5
+999 "Extending SQL-92 for OODB Access: Design and Implementation Experience" 3
+110 "Heraclitus: Elevating Deltas to be First-Class Citizens in a Database Programming Language" 12
+781 "Declarative Definition of Object-Oriented Multidatabase Mappings" 7
+1149 "Efficient Data Mining for Path Traversal Patterns in Distributed Systems" 2
+268 "GENESYS: A System for Efficient Spatial Query Processing" 0
+741 "The Cascades Framework for Query Optimization" 12
+1212 "The Evolution of Effective B-tree: Page Organization and Techniques: A Personal Account" 9
+429 "A Framework for the Performance Analysis of Concurrent B-tree Algorithms" 7
+1398 "Weak Consistency in Distributed Data Warehouses" 1
+1234 "Deadlock Detection in Distributed Database Systems: A New Algorithm and a Comparative Performance Analysis" 0
+1230 "A new approach to developing and implementing eager database replication protocols" 1
+1119 "The BUCKY Object-Relational Benchmark (Experience Paper)" 6
+1000 "A Comparison of Spatial Query Processing Techniques for Native and Parameter Spaces" 16
+778 "On the Complexity of Equivalence between Recursive and Nonrecursive Datalog Programs" 3
+474 "Fast Approximate Query Answering Using Precomputed Statistics" 3
+49 "Object Fusion in Mediator Systems" 22
+827 "GOM: A Strongly Typed Persistent Object Model With Polymorphism" 7
+1157 "Integrity Maintenance in Object-Oriented Databases" 7
+432 "Fine-Grained Sharing in a Page Server OODBMS" 16
+635 "Processing Time-Constrained Aggregate Queries in CASE-DB" 6
+672 "Analysis of Dynamic Load Balancing Strategies for Parallel Shared Nothing Database Systems" 4
+946 "Mining Temporal Relationships with Multiple Granularities in Time Sequences" 1
+443 "Dynamic Resource Brokering for Multi-User Query Execution" 2
+1393 "On Roth, Korth, and Silberschatz's Extended Algebra and Calculus for Nested Relational Databases" 3
+205 "Managing Memory to Meet Multiclass Workload Response Time Goals" 9
+129 "Efficient User-Adaptable Similarity Search in Large Multimedia Databases" 11
+51 "Production Rules in Parallel and Distributed Database Environments" 7
+863 "Of Objects and Databases: A Decade of Turmoil" 11
+766 "Divergence Control Algorithms for Epsilon Serializability" 0
+1171 "The SB-Tree: An Index-Sequential Structure for High-Performance Sequential Access" 1
+761 "Hamming Filters: A Dynamic Signature File Organization for Parallel Stores" 3
+954 "Design, Implementation, and Performance of the LHAM Log-Structured History Data Access Method" 2
+1056 "Review - Mind Your Vocabulary: Query Mapping Across Heterogeneous Information Sources" 0
+499 "Sampling Issues in Parallel Database Systems" 5
+1236 "Query Routing in Large-Scale Digital Library Systems" 0
+480 "Performance Evaluation of Semantics-based Multilevel Concurrency Control Protocols" 7
+919 "A Performance Evaluation of Load Balancing Techniques for Join Operations on Multicomputer Database Systems" 2
+619 "Dissemination-Based Information Systems" 2
+960 "SEMCOG: A Hybrid Object-based Image Database System and Its Modeling, Language, and Query Processing" 0
+434 "A Model of Authorization for Next-Generation Database Systems" 20
+549 "Query Interoperation Among Object-Oriented and Relational Databases" 3
+819 "Self-tuning Histograms: Building Histograms Without Looking at Data" 3
+597 "A Status Report on the oo7 OODBMS Benchmarking Effort" 7
+1331 "Indexing for Multiversion Locking: Alternatives and Performance Evaluation" 0
+1340 "Dynamic Maintenance of Data Distribution for Selectivity Estimation" 6
+917 "Update Propagation Strategies to Improve Freshness in Lazy Master Replicated Databases" 1
+1027 "Integrating Heterogenous Overlapping Databases through Object-Oriented Transformations" 2
+991 "The O++ Database Programming Language: Implementation and Experience" 3
+1110 "Interoperability, Distributed Applications and Distributed Databases: The Virtual Table Interface" 2
+192 "A High Performance Configurable Storage Manager" 8
+491 "The Management of Interdependent Asynchronous Transactions in Heterogeneous Database Environments" 3
+173 "Answering Queries with Aggregation Using Views" 27
+575 "Tuning a Parallel Database Algorithm on a Shared-memory Multiprocessor" 7
+692 "Vertical Data Migration in Large Near-Line Document Archives Based on Markov-Chain Predictions" 3
+547 "Role-based Query Processing in Multidatabase Systems" 6
+382 "LH* - Linear Hashing for Distributed Files" 12
+1299 "Performance Analysis of Dynamic Finite Versioning Schemes: Storage Cost vs. Obsolescence" 0
+668 "Non-Serializable Executions in Heterogeneous Distributed Database Systems" 13
+1045 "A Universal-Scheme Approach to Statistical Databases Containing Homogeneous Summary Tables" 11
+590 "WSQ/DSQ: A Practical Approach for Combined Querying of Databases and the Web" 0
+8 "Using a Hash-Based Method with Transaction Trimming for Mining Association Rules" 5
+968 "Pharos: A Scalable Distributed Architecture for Locating Heterogeneous Information Sources" 2
+756 "A Cooperative Transaction Model for Design Databases" 8
+1061 "Voltaire: A Database Programming Language with a Single Execution Model for Evaluating Queries, Constraints amd Functions" 0
+1040 "Divide and Conquer: A Basis for Augmenting a Conventional Query Optimizer with Multiple Query Proceesing Capabilities" 3
+1405 "A Flexible Framework for Transaction Management in Engineering Environments" 5
+1191 "Conflict-driven Load Control for the Avoidance of Data-Contention Thrashing" 7
+877 "A Uniform Approach to Processing Temporal Queries" 9
+207 "The Design and Implementation of a Sequence Database System" 7
+41 "Experiences Building the Open OODB Query Optimizer" 27
+581 "Performance Analysis of Affinity Clustering on Transaction Processing Coupling Architecture" 0
+796 "Review - MOCHA: A Self-Extensible Database Middleware System for Distributed Data Sources" 0
+25 "FLEX: A Tolerant and Cooperative User Interface to Databases" 8
+414 "Top-Down versus Bottom-Up Revisited" 5
+91 "A Distribution-Based Clustering Algorithm for Mining in Large Spatial Databases" 4
+1337 "Query Processing in a Parallel Object-Relational Database System" 4
+360 "Scaling Access to Heterogeneous Data Sources with DISCO" 5
+454 "Pattern Matching by Rs-Operations: Toward a Unified Approach to Querying Sequenced Data" 12
+713 "Extended Commitment Ordering or Guaranteeing Global Serializability by Applying Commitment Order Selectivity to Global Transactions" 2
+244 "The Demarcation Protocol: A Technique for Maintaining Constraints in Distributed Database Systems" 4
+1239 "Efficient compilation of large rule bases using logical access paths" 2
+831 "Processing Incremental Multidimensional Range Queries in a Direct Manipulation Visual Query" 1
+100 "What can Hierarchies do for Data Warehouses?" 3
+1148 "Efficiently Publishing Relational Data as XML Documents" 0
+280 "Data Caching Tradeoffs in Client-Server DBMS Architectures" 38
+583 "Unification of Temporal Data Models" 1
+769 "Distribution and Persistence in the Open Object-Oriented Database System" 2
+1021 "Open Nested Transactions in Federated Database Systems" 1
+1325 "Information Technology Implementation for a Distributed Data System Serving Earth Scientists: Seasonal to Interannual ESIP" 0
+435 "Applying Segmented Right-Deep Trees to Pipelining Multiple Hash Joins" 2
+5 "Continuous Data Block Placement in and Elevation from Tertiary Storage in Hierarchical Storage Servers" 17
+534 "The Performance of Current B-Tree Algorithms" 4
+28 "Random Sampling Techniques for Space Efficient Online Computation of Order Statistics of Large Datasets" 1
+301 "Career-Enhancing Services at SIGMOD Online" 4
+282 "Queries and Query Processing in Object-Oriented Database Systems" 23
+716 "Persistent Applications Using Generalized Redo Recovery" 6
+870 "Including the Load Balancing Issue in the Optimization of Multi-way Join Queries for Shared-Nothing Database Computers" 6
+539 "A Cost-Effective Method for Providing Improved Data Availability During DBMS Restart Recovery After a Failure" 4
+932 "Parallel Query Scheduling and Optimization with Time- and Space-Shared Resources" 3
+1244 "Maintenance of Materialized Views of Sampling Queries" 3
+944 "Semantics for Update Rule Programs and Implementations in a Relational Database Management System" 0
+92 "Multidimensional Data Modeling for Complex Data" 2
+1153 "Modular Acyclicity and Tail Recursion in Logic Programs" 7
+1163 "Are We Working On the Right Problems? (Panel)" 1
+981 "Solving Domain Mismatch and Schema Mismatch Problems with an Object-Oriented Database Programming Language" 9
+337 "Sequoia 2000: A Next-Generation Information System for the Study of Global Change" 1
+377 "Cost Models DO Matter: Providing Cost Information for Diverse Data Sources in a Federated System" 2
+343 "Precision and Recall of GlOSS Estimators for Database Discovery" 3
+1292 "Throughput-Competitive Admission Control for Continuous Media Databases" 0
+816 "Semantics of Time-Varying Attributes and their Use for Temporal Database Design" 1
+910 "An Extensible Notation for Spatiotemporal Index Queries" 34
+1170 "Future Directions in Database Research (Panel)" 1
+54 "Techniques for Update Handling in the Enhanced Client-Server DBMS" 0
+1221 "Comparison of Access Methods for Time-Evolving Data" 9
+389 "ARIES/CSA: A Method for Database Recovery in Client-Server Architectures" 13
+765 "The Principle of Commitment Ordering, or Guaranteeing Serializability in a Heterogeneous Environment of Multiple Autonomous Resource Mangers Using Atomic Commitment" 10
+1095 "OBSERVER: An Approach for Query Processing in Global Information Systems based on Interoperation across Pre-existing Ontologies" 5
+774 "Modeling Scientific Experiments with an Object Data Model" 1
+888 "Middleware: A Model for Distributed System Services" 2
+210 "Efficient Locking and Caching of Data in the Multisystem Shard Disks Transaction Environment" 12
+468 "The hB-Pi-Tree: A Multi-Attribute Index Supporting Concurrency, Recovery and Node Consolidation" 2
+1224 "Review - Efficient Processing of Spatial Joins Using R-Trees" 0
+523 "Sort-Merge-Join: An Idea Whose Time Has(h) Passed?" 11
+171 "Main Memory Database Systems: An Overview" 13
+527 "Promises and Realities of Active Database Systems" 6
+509 "Query Processing Algorithms for Temporal Intersection Joins" 10
+521 "A General Framework for Time Granularity and Its Application to Temporal Reasoning" 4
+1401 "Research Issues in Databases for ARCS: Active Rapidly Changing Data Systems" 16
+203 "Coarse Indices for a Tape-Based Data Warehouse" 3
+386 "The LRU-K Page Replacement Algorithm For Database Disk Buffering" 24
+196 "Broadcast Disks: Data Management for Asymmetric Communications Environments" 22
+1302 "Implementation and Performance of Multi-level Transaction Management in a Multidatabase Environment" 3
+859 "Rethinking Database System Architecture: Towards a Self-Tuning RISC-Style Database System" 0
+336 "Data Base Recovery in Shared Disks and Client-Server Architectures" 4
+197 "Query Rewriting for Semistructured Data" 6
+1273 "Temporal Rule Specification and Management in Object-oriented Knowledge Bases" 19
+1247 "The Next Ten Years of Modeling, Methodologies, and Tools" 0
+892 "Local Verification of Global Integrity Constraints in Distributed Databases" 12
+600 "Processing and Optimization of Multiway Spatial Joins Using R-Trees" 4
+438 "On the Complexity of Generating Optimal Plans with Cross Products" 1
+885 "Plan-Per-Tuple Optimization Solution - Parallel Execution of Expensive User-Defined Functions" 1
+246 "Flexible Data Cubes for Online Aggregation" 0
+907 "Using Shared Virtual Memory for Parallel Join Processing" 8
+319 "Function Materialization in Object Bases: Design, Realization, and Evaluation" 7
+411 "A Pipeline N-way Join Algorithm Based on the 2-way Semijoin Program" 9
+1146 "OLAP Query Routing and Physical Design in a Database Cluster" 0
+663 "Performance and Availability Assessment for the Configuration of Distributed Workflow Management Systems" 2
+1298 "Compressed Data Cubes for OLAP Aggregate Query Approximation on Continuous Dimensions" 2
+342 "Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies" 13
+439 "Review - An Overview of Data Warehousing and OLAP Technology" 0
+718 "Efficient Execution of Read-Only Transactions in Replicated Multiversion Databases" 1
+1219 "Query Processing Techniques for Multimedia Presentation Graphs" 1
+964 "SQL Query Optimization: Reordering for a General Class of Queries" 0
+1010 "Efficiently Instantiating View-Objects From Remote Relational Databases" 2
+1284 "Managing Complex Objects in the Darmstadt Database Kernel System" 3
+924 "Consistency and Orderability: Semantics-Based Correctness Criteria for Databases" 6
+677 "Triggered Real-Time Databases with Consistency Constraints" 7
+666 "The Federated Databases and System: A New Generation of Advanced Database Systems" 1
+984 "A Note on the Strategy Space of Multiway Join Query Optimization Problem in Parallel Systems" 11
+943 "Towards Guaranteed Quality and Dependability of Information Services" 1
+62 "The Volcano Optimizer Generator: Extensibility and Efficient Search" 41
+801 "Temporal Conditions and Integrity Constraints in Active Database Systems" 2
+1081 "Delta-Sets for Optimized Reactive Adaptive Playout Management in Distributed Multimedia Database Systems" 2
+659 "Review - An Array-Based Algorithm for Simultaneous Multidimensional Aggregates" 0
+1210 "Efficient Disk Allocation for Fast Similarity Searching" 2
+909 "Support Consistent Updates in Replicated Multidatabase Systems" 0
+218 "The STRIP Rule System For Efficiently Maintaining Derived Data" 1
+488 "Scalable Invalidation-Based Processing of Queries in Broadcast Push Delivery" 0
+1076 "Physical Schemas for Large Multidimensional Arrays in Scientific Computing Applications" 3
+190 "Segment Indexes: Dynamic Indexing Techniques for Multi-Dimensional Interval Data" 16
+420 "Advanced Transaction Models in Workflow Contexts" 10
+498 "Incremental Recomputation of Active Relational Expressions" 32
+1400 "Design, Implementation and Performance Comparison of the Buddy-Tree" 1
+1229 "Don't Be Lazy, Be Consistent: Postgres-R, A New Way to Implement Database Replication" 0
+776 "Navigation-Driven Evaluation of Virtual Mediated Views" 1
+1172 "Safe Referential Structures in Relational Databases" 3
+22 "Mining Sequential Patterns: Generalizations and Performance Improvements" 8
+805 "Performance Analysis of a Concurrent File Reorganization Algorithm for Record Clustering" 5
+861 "Reducing Recovery Constraints on Locking based Protocols" 1
+696 "Type Inference for Queries on Semistructured Data" 4
+758 "Extraction and Applications of Statistical Relationships in Relational Databases" 2
+857 "An Overview of the Lawrence Berkeley Laboratory Extended Entity-Relationship Database Tools" 1
+357 "Continual Queries for Internet Scale Event-Driven Information Delivery" 2
+464 "Concepts and Applications of Multilevel Transactions and Open Nested Transactions" 19
+94 "Secure Transaction Processing in Firm Real-Time Database Systems" 2
+695 "Using Semantic Values to Falilitate Interoperability Among Heterogeneous Information Systems" 11
+1159 "Semantics of Time-Varying Information" 8
+492 "Ripple Joins for Online Aggregation" 7
+1365 "Generating Consistent Test Data for a Variable Set of General Consistency Constraints" 2
+159 "Mining for Strong Negative Associations in a Large Database of Customer Transactions" 1
+588 "Recovering from Main-Memory Lapses" 1
+323 "Retrieval of Composite Multimedia Objects" 2
+618 "Strategic Directions in Database Systems - Breaking Out of the Box" 4
+1178 "A Graph Query Language and Its Query Processing" 0
+77 "Ratio Rules: A New Paradigm for Fast, Quantifiable Data Mining" 2
+1285 "WISE: A World Wide Web Resource Database System" 0
+1277 "Automated Selection of Materialized Views and Indexes in SQL Databases" 1
+979 "The Performance of Protocols Based on Locks with Ordered Sharing" 4
+93 "Summarizability in OLAP and Statistical Data Bases" 10
+68 "A Transparent Schema-Evolution System Based on Object-Oriented View Technology" 7
+577 "Speculative Data Dissemination and Service to Reduce Server Load, Network Traffic and Service Time in Distributed Information Systems" 4
+1068 "On Global Multidatabase Query Optimization" 16
+797 "Optimal Multi-Block Read Schedule for Partitioned Signature Files" 0
+330 "Dali: A High Performance Main Memory Storage Manager" 14
+1296 "MegaLog - A platform for developing Knowledge Base Management Systems" 2
+612 "Dealing with Granularity of Time in Temporal Databases" 11
+1017 "Adaptive Selectivity Estimation Using Query Feedback" 18
+545 "Empirical Performance Evaluation of Concurrency and Coherency Control Protocols for Database Sharing Systems" 8
+30 "Set-Oriented Mining for Association Rules in Relational Databases" 16
+1312 "High-level Parallelism in a Database Cluster: A Feasibility Study Using Document Services" 1
+610 "Diagnosing Anomalous Rule Behavior in Databases with Integrity Maintenance Production Rules" 7
+825 "An Algebraic Framework for Physical OODB Design" 5
+39 "Advanced Query Processing in Object Bases Using Access Support Relations" 29
+690 "Distributed File Organization with Scalable Cost/Performance" 8
+174 "Including Group-By in Query Optimization" 36
+914 "CQL++: A SQL for the Ode Object-Oriented DBMS" 5
+1307 "Recovery Analysis of Data Sharing Systems under Deferred Dirty Page Propagation Policies" 1
+607 "Global Memory Management in Client-Server Database Architectures" 16
+309 "Dimensionality Reduction for Similarity Searching in Dynamic Databases" 6
+490 "Active Database Management of Global Data Integrity Constraints in Heterogeneous Database Environments" 1
+566 "LLO: An Object-Oriented Deductive Language with Methods and Method Inheritance" 8
+481 "Fast Searching by Content in Multimedia Databases" 1
+963 "Reactive Consistency Control In Deductive Databases" 17
+378 "Ordering and Selecting Production Rules for Constraint Maintenance: Complexity and Heuristic Solution" 3
+529 "The Background of the DASDBS  COSMOS Projects" 0
+1007 "PicoDMBS: Scaling Down Database Techniques for the Smartcard" 0
+501 "Bucket Spreading Parallel Hash: A New, Robust, Parallel Hash Join Method for Data Skew in the Super Database Computer (SDC)" 24
+937 "An Indexing Technique for Object-Oriented Databases" 13
+1127 "Erweiterbarkeit, Kooperation, Foderation von Datenbanksystemen" 2
+630 "2PC Agent Method: Achieving Serializability in Presence of Failures in a Heterogeneous Multidatabase" 12
+1377 "Locality Preserving Dictionaries: Theory and Application to Clustering in Databases" 0
+651 "Storing and Querying XML Data using an RDMBS" 4
+698 "Accurate Modeling of the Hybrid Hash Join Algorithm" 5
+137 "Managing Semantic Heterogeneity with Production Rules and Persistent Queues" 19
+862 "Simple Rational Guidance for Chopping Up Transactions" 5
+785 "Using Differential Techniques to Efficiently Support Transaction Time" 9
+596 "An Approach to Resolving Semantic Heterogenity in a Federation of Autonomous, Heterogeneous Database Systems" 12
+1167 "A Classification Algorithm for Supporting Object-Oriented Views" 4
+1078 "Query Processing for Moving Objects with Space-Time Grid Storage Model" 19
+188 "ROCK: A Robust Clustering Algorithm for Categorical Attributes" 2
+947 "Replicated Databases: concepts, Architectures and Techniques" 1
+1012 "Reliable Transaction Execution in Multidatabase Systems" 2
+961 "Chabot: Retrieval from a Relational Database of Images" 160
+1409 "Solving Local Cost Estimation Problem for Global Query Optimization in Multidatabase Systems" 1
+893 "Generalizing Conjunctive Query Containment for View Maintenance and Integrity Constraint Verification (Abstract)" 2
+625 "Using Heterogeneous Equivalences for Query Rewriting in Multidatabase Systems" 6
+507 "Parallel Query Processing Strategies for Object-oriented Temporal Databases" 1
+1024 "Issues in Operation Flow Management for Long-Running Acivities" 1
+560 "Information Source Tracking Method: Efficiency Issues" 2
+661 "Transactional Workflow Management in Distributed Systems (Invited Paper)" 0
+721 "The MultiView OODB View System: Design and Implementation" 4
+839 "Merging Ranks from Heterogeneous Internet Sources" 6
+876 "On the Relative Cost of Sampling for Join Selectivity Estimation" 6
+88 "Volcano - An Extensible and Parallel Query Evaluation System" 31
+935 "Predictive Load Control for Flexible Buffer Allocation" 18
+591 "Chronological Scheduling of Transactions with Temporal Dependencies" 2
+853 "Stream Processing: Temporal Query Processing and Optimization" 5
+126 "Small Materialized Aggregates: A Light Weight Index Structure for Data Warehousing" 1
+460 "Proclamation-Based Model for Cooperating Transactions" 1
+622 "Fast High-Dimensional Data Search in Incomplete Databases" 1
+949 "The Use of Information Capacity in Schema Integration and Translation" 18
+1096 "Flexible Relation: An Approach for Integrating Data from Multiple, Possibly Inconsistent Databases" 4
+33 "A Performance Comparison of the Rete and TREAT Algorithms for Testing Database Rule Conditions" 8
+477 "Efficient Global Transaction Management in Multidatabase Systems" 0
+332 "Histogram-Based Approximation of Set-Valued Query-Answers" 5
+20 "Spatial Indexing: Past and Future" 2
+767 "Management of Interdependent Data: Specifying Dependency and Consistency Requirements" 17
+1301 "Data Warehouse Maintenance under Concurrent Schema and Data Updates" 2
+12 "Spatial and Temporal Content-Based Access to Hypervideo Databases" 0
+459 "A Transactional Nested Process Management System" 5
+584 "Temporal Databases - Status and Research Directions" 56
+1217 "On Extending the XML Engine with Query-Processing Capabilities" 1
+138 "Incremental Maintenance of Materialized Object-Oriented Views in MultiView: Strategies and Performance Evaluation" 1
+647 "On the Propagation of Errors in the Size of Join Results" 28
+1169 "Phoenix: Making Applications Robust" 0
+1080 "Multidatabase Query Optimization: Issues and Solutions" 7
+1334 "Efficient Management of Materialized Generalized Transitive Closure in Centralized and Parallel Environments" 3
+502 "Access Support Relations: An Indexing Method for Object Bases" 9
+835 "Implementation and Analysis of a Parallel Collection Query Language" 0
+1142 "Modeling Physical Systems by Complex Structural Objects and Complex Functional Objects" 3
+782 "A Scientific Multimedia Database System for Polymer Science Experiments" 0
+189 "Query Processing Techniques for Multiversion Access Methods" 0
+1164 "Slim-Trees: High Performance Metric Trees Minimizing Overlap Between Nodes" 0
+144 "OPT++: An Object-Oriented Implementation for Extensible Database Query Optimization" 1
+563 "An Overview of the Object-Protocol Model (OPM) and OPM Data Management Tools" 10
+*Edges 4176
+0 1 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 15 1
+16 17 1
+18 19 1
+20 21 1
+22 23 1
+24 25 1
+26 27 1
+28 29 1
+30 31 1
+32 33 1
+34 35 1
+36 37 1
+38 39 1
+40 41 1
+40 42 1
+43 44 1
+45 46 1
+47 48 1
+49 50 1
+51 52 1
+1 53 1
+54 55 1
+56 57 1
+58 59 1
+60 61 1
+62 39 1
+63 64 1
+61 65 1
+66 67 1
+68 69 1
+70 19 1
+71 72 1
+73 74 1
+75 76 1
+77 78 1
+79 62 1
+80 19 1
+81 82 1
+83 84 1
+85 86 1
+87 88 1
+89 9 1
+38 90 1
+91 59 1
+92 93 1
+94 95 1
+96 97 1
+0 98 1
+99 44 1
+100 101 1
+102 103 1
+104 105 1
+106 107 1
+67 108 1
+109 110 1
+66 111 1
+112 113 1
+114 115 1
+116 111 1
+108 82 1
+117 118 1
+119 120 1
+121 122 1
+123 90 1
+124 125 1
+126 127 1
+128 129 1
+130 84 1
+131 132 1
+133 134 1
+135 98 1
+136 137 1
+138 139 1
+140 141 1
+142 143 1
+144 41 1
+145 146 1
+147 64 1
+98 148 1
+149 82 1
+150 38 1
+151 152 1
+153 154 1
+38 154 1
+155 156 1
+157 158 1
+159 160 1
+124 161 1
+162 163 1
+164 165 1
+117 166 1
+167 168 1
+169 55 1
+170 83 1
+171 172 1
+173 174 1
+175 176 1
+71 177 1
+178 179 1
+180 134 1
+181 132 1
+19 182 1
+183 184 1
+185 186 1
+187 100 1
+188 59 1
+189 190 1
+191 192 1
+99 193 1
+194 141 1
+58 9 1
+195 196 1
+197 198 1
+199 38 1
+200 145 1
+201 202 1
+203 204 1
+205 98 1
+206 207 1
+208 209 1
+131 38 1
+210 211 1
+212 213 1
+214 215 1
+191 216 1
+217 146 1
+36 88 1
+218 171 1
+219 220 1
+221 222 1
+223 211 1
+224 225 1
+226 227 1
+228 229 1
+230 231 1
+232 182 1
+34 233 1
+234 58 1
+235 236 1
+237 154 1
+238 239 1
+240 241 1
+242 243 1
+244 245 1
+246 247 1
+122 154 1
+248 249 1
+250 251 1
+252 253 1
+254 255 1
+256 257 1
+23 46 1
+258 259 1
+83 260 1
+74 261 1
+262 115 1
+263 264 1
+265 266 1
+116 16 1
+267 107 1
+268 269 1
+270 271 1
+272 273 1
+274 275 1
+276 81 1
+277 278 1
+279 280 1
+281 282 1
+101 283 1
+284 23 1
+208 285 1
+286 287 1
+288 289 1
+290 98 1
+291 292 1
+43 293 1
+294 295 1
+296 108 1
+297 298 1
+299 300 1
+301 302 1
+303 304 1
+305 306 1
+297 123 1
+307 308 1
+309 310 1
+311 312 1
+313 314 1
+315 316 1
+317 38 1
+318 319 1
+320 321 1
+322 323 1
+324 87 1
+325 326 1
+327 328 1
+329 330 1
+0 331 1
+332 333 1
+334 335 1
+71 336 1
+203 337 1
+338 339 1
+340 341 1
+342 343 1
+344 120 1
+70 345 1
+346 347 1
+348 349 1
+161 46 1
+338 350 1
+335 50 1
+100 156 1
+351 352 1
+353 196 1
+262 230 1
+354 355 1
+356 357 1
+115 358 1
+359 50 1
+73 360 1
+212 361 1
+71 362 1
+363 364 1
+365 265 1
+366 280 1
+367 105 1
+368 369 1
+70 370 1
+371 372 1
+373 374 1
+187 375 1
+313 376 1
+377 339 1
+378 379 1
+380 151 1
+218 178 1
+381 382 1
+383 38 1
+170 158 1
+384 385 1
+198 73 1
+200 28 1
+386 387 1
+356 388 1
+389 108 1
+303 52 1
+390 62 1
+391 392 1
+73 50 1
+370 271 1
+393 394 1
+395 396 1
+125 397 1
+398 331 1
+399 400 1
+401 48 1
+218 402 1
+323 403 1
+404 405 1
+406 49 1
+381 407 1
+408 9 1
+409 410 1
+54 280 1
+157 303 1
+38 411 1
+189 412 1
+413 414 1
+415 52 1
+104 416 1
+338 417 1
+418 314 1
+73 419 1
+119 82 1
+190 154 1
+420 421 1
+257 422 1
+71 423 1
+99 157 1
+75 424 1
+425 154 1
+426 427 1
+428 429 1
+250 430 1
+431 432 1
+433 434 1
+1 369 1
+277 435 1
+184 299 1
+81 436 1
+191 437 1
+338 438 1
+439 440 1
+441 64 1
+332 331 1
+442 327 1
+443 444 1
+445 303 1
+38 446 1
+447 230 1
+448 449 1
+450 451 1
+452 213 1
+351 453 1
+454 455 1
+112 456 1
+457 458 1
+311 3 1
+142 459 1
+460 143 1
+99 63 1
+431 55 1
+356 400 1
+461 462 1
+463 464 1
+376 271 1
+305 243 1
+246 15 1
+209 465 1
+78 154 1
+466 467 1
+187 352 1
+296 468 1
+469 470 1
+471 145 1
+124 23 1
+158 52 1
+394 300 1
+211 82 1
+104 472 1
+163 358 1
+473 474 1
+408 59 1
+475 55 1
+303 476 1
+418 339 1
+477 328 1
+478 467 1
+479 480 1
+234 23 1
+481 154 1
+16 82 1
+482 53 1
+188 321 1
+320 483 1
+484 485 1
+486 98 1
+487 161 1
+333 393 1
+488 489 1
+111 211 1
+490 491 1
+492 493 1
+181 115 1
+350 494 1
+495 157 1
+278 358 1
+230 376 1
+496 38 1
+144 271 1
+159 385 1
+497 498 1
+499 331 1
+66 82 1
+239 427 1
+38 62 1
+389 500 1
+98 501 1
+55 280 1
+102 502 1
+181 435 1
+503 53 1
+124 58 1
+490 504 1
+505 506 1
+131 447 1
+110 32 1
+493 396 1
+43 507 1
+508 280 1
+81 111 1
+209 509 1
+510 511 1
+38 512 1
+38 509 1
+81 149 1
+513 446 1
+200 462 1
+40 150 1
+419 79 1
+514 452 1
+73 515 1
+516 516 1
+517 264 1
+518 519 1
+475 264 1
+223 279 1
+171 520 1
+254 521 1
+67 80 1
+522 175 1
+7 50 1
+523 38 1
+524 525 1
+526 527 1
+528 325 1
+508 330 1
+8 30 1
+483 408 1
+529 530 1
+531 532 1
+533 72 1
+142 421 1
+534 535 1
+38 236 1
+338 536 1
+78 385 1
+356 52 1
+367 537 1
+538 25 1
+389 539 1
+104 9 1
+259 82 1
+540 299 1
+466 541 1
+486 131 1
+20 542 1
+110 543 1
+170 213 1
+544 545 1
+32 52 1
+129 546 1
+468 154 1
+547 227 1
+466 548 1
+549 550 1
+284 551 1
+70 261 1
+344 309 1
+42 236 1
+552 553 1
+99 201 1
+51 543 1
+554 555 1
+556 397 1
+557 558 1
+435 422 1
+552 350 1
+559 560 1
+389 210 1
+561 161 1
+562 563 1
+49 227 1
+435 564 1
+565 566 1
+567 50 1
+360 568 1
+99 569 1
+517 570 1
+246 571 1
+363 572 1
+573 38 1
+71 574 1
+463 575 1
+576 39 1
+175 342 1
+574 111 1
+435 376 1
+232 577 1
+192 570 1
+578 105 1
+15 126 1
+579 580 1
+277 98 1
+581 582 1
+483 556 1
+583 584 1
+585 389 1
+586 461 1
+587 466 1
+588 111 1
+589 502 1
+585 111 1
+210 17 1
+450 10 1
+590 446 1
+317 419 1
+591 402 1
+303 213 1
+592 593 1
+594 108 1
+595 596 1
+243 39 1
+545 280 1
+418 445 1
+270 597 1
+483 385 1
+124 598 1
+257 599 1
+600 601 1
+32 137 1
+523 564 1
+602 603 1
+363 604 1
+481 9 1
+200 394 1
+605 79 1
+595 606 1
+169 607 1
+608 59 1
+531 609 1
+609 610 1
+611 612 1
+613 386 1
+43 470 1
+614 607 1
+390 41 1
+615 616 1
+617 618 1
+459 143 1
+619 196 1
+263 280 1
+620 371 1
+621 543 1
+622 104 1
+623 70 1
+151 624 1
+360 625 1
+86 243 1
+626 541 1
+138 193 1
+368 416 1
+530 215 1
+483 397 1
+627 387 1
+303 417 1
+297 211 1
+628 111 1
+629 104 1
+478 111 1
+10 630 1
+631 74 1
+71 500 1
+221 632 1
+578 148 1
+312 46 1
+120 122 1
+633 163 1
+617 634 1
+128 546 1
+635 636 1
+340 637 1
+230 638 1
+213 510 1
+639 640 1
+254 641 1
+531 642 1
+643 450 1
+401 47 1
+629 154 1
+17 427 1
+230 564 1
+43 644 1
+645 498 1
+646 111 1
+381 186 1
+216 647 1
+533 108 1
+38 648 1
+649 650 1
+651 265 1
+1 652 1
+71 17 1
+653 266 1
+342 654 1
+655 656 1
+267 657 1
+658 61 1
+159 46 1
+659 283 1
+80 154 1
+192 372 1
+406 660 1
+661 662 1
+508 111 1
+284 8 1
+663 664 1
+665 666 1
+667 668 1
+669 670 1
+671 111 1
+100 283 1
+38 209 1
+672 98 1
+633 501 1
+87 673 1
+324 73 1
+592 402 1
+497 83 1
+540 493 1
+492 38 1
+438 376 1
+623 345 1
+418 449 1
+674 111 1
+338 345 1
+161 78 1
+431 452 1
+45 78 1
+230 427 1
+675 358 1
+676 381 1
+99 677 1
+150 148 1
+133 180 1
+527 678 1
+679 584 1
+276 436 1
+199 446 1
+258 680 1
+540 440 1
+499 681 1
+645 253 1
+344 408 1
+35 278 1
+682 452 1
+683 684 1
+394 652 1
+205 231 1
+258 108 1
+589 319 1
+504 421 1
+582 355 1
+685 686 1
+567 621 1
+406 345 1
+360 549 1
+687 688 1
+288 689 1
+27 690 1
+588 691 1
+692 613 1
+277 115 1
+395 693 1
+483 78 1
+694 695 1
+696 49 1
+205 90 1
+697 23 1
+191 698 1
+32 158 1
+435 699 1
+55 700 1
+701 689 1
+319 243 1
+232 250 1
+110 702 1
+703 176 1
+704 245 1
+705 163 1
+706 585 1
+197 50 1
+707 275 1
+708 709 1
+38 699 1
+99 635 1
+710 146 1
+73 406 1
+552 711 1
+287 712 1
+713 714 1
+318 243 1
+115 271 1
+614 264 1
+124 375 1
+715 716 1
+99 274 1
+471 0 1
+717 365 1
+316 718 1
+185 719 1
+720 721 1
+722 550 1
+483 723 1
+724 725 1
+726 727 1
+71 728 1
+533 16 1
+729 730 1
+731 50 1
+732 733 1
+255 543 1
+255 644 1
+404 734 1
+447 132 1
+514 527 1
+184 652 1
+735 434 1
+381 736 1
+737 738 1
+466 111 1
+270 300 1
+605 271 1
+517 295 1
+739 665 1
+258 11 1
+395 53 1
+138 740 1
+395 741 1
+742 82 1
+743 744 1
+284 122 1
+66 745 1
+586 462 1
+262 638 1
+746 611 1
+145 53 1
+356 266 1
+621 222 1
+380 747 1
+63 202 1
+201 227 1
+289 349 1
+742 748 1
+420 458 1
+197 749 1
+750 111 1
+534 751 1
+281 752 1
+232 204 1
+565 753 1
+360 74 1
+754 23 1
+755 756 1
+70 536 1
+383 757 1
+758 392 1
+656 485 1
+38 150 1
+483 23 1
+324 759 1
+734 760 1
+761 98 1
+762 763 1
+261 38 1
+764 598 1
+765 328 1
+766 767 1
+40 768 1
+285 584 1
+499 236 1
+249 50 1
+724 769 1
+187 697 1
+726 654 1
+770 174 1
+564 446 1
+184 647 1
+221 771 1
+268 105 1
+772 149 1
+187 23 1
+704 773 1
+340 774 1
+110 52 1
+775 349 1
+19 300 1
+776 683 1
+505 331 1
+240 777 1
+67 534 1
+556 9 1
+145 652 1
+406 778 1
+600 367 1
+779 780 1
+360 781 1
+782 783 1
+478 784 1
+383 179 1
+54 389 1
+63 785 1
+384 758 1
+299 786 1
+617 685 1
+408 310 1
+255 787 1
+369 416 1
+705 273 1
+471 551 1
+788 789 1
+576 41 1
+790 326 1
+561 23 1
+73 631 1
+791 730 1
+792 211 1
+793 794 1
+379 378 1
+128 472 1
+188 598 1
+277 795 1
+796 70 1
+797 369 1
+798 608 1
+387 684 1
+515 73 1
+66 154 1
+195 400 1
+317 513 1
+799 321 1
+181 98 1
+81 238 1
+800 408 1
+801 543 1
+395 19 1
+802 142 1
+705 278 1
+803 249 1
+804 805 1
+510 213 1
+38 636 1
+674 806 1
+807 808 1
+277 564 1
+131 501 1
+7 809 1
+111 17 1
+626 810 1
+114 278 1
+545 211 1
+110 413 1
+47 811 1
+720 637 1
+812 813 1
+109 543 1
+814 151 1
+614 111 1
+383 88 1
+815 744 1
+816 470 1
+560 559 1
+132 411 1
+817 61 1
+71 111 1
+607 818 1
+819 331 1
+503 145 1
+96 820 1
+2 129 1
+447 162 1
+114 376 1
+208 509 1
+16 821 1
+822 148 1
+60 353 1
+218 222 1
+262 231 1
+823 824 1
+261 313 1
+561 59 1
+825 826 1
+367 38 1
+589 827 1
+152 255 1
+356 828 1
+333 347 1
+330 588 1
+829 830 1
+831 832 1
+758 635 1
+745 310 1
+649 833 1
+514 402 1
+183 471 1
+786 393 1
+102 313 1
+354 834 1
+835 836 1
+297 837 1
+741 41 1
+73 198 1
+620 372 1
+838 483 1
+411 227 1
+703 839 1
+183 819 1
+152 222 1
+399 489 1
+232 613 1
+312 154 1
+219 331 1
+645 152 1
+840 191 1
+72 111 1
+797 841 1
+663 421 1
+431 64 1
+567 842 1
+592 459 1
+843 844 1
+531 497 1
+573 42 1
+672 633 1
+477 662 1
+845 846 1
+262 564 1
+294 280 1
+847 848 1
+299 849 1
+626 210 1
+850 851 1
+749 621 1
+852 697 1
+285 853 1
+367 600 1
+395 299 1
+854 712 1
+603 16 1
+825 855 1
+856 339 1
+800 556 1
+181 277 1
+857 722 1
+360 858 1
+573 80 1
+311 129 1
+513 295 1
+859 684 1
+73 445 1
+149 860 1
+528 591 1
+861 862 1
+847 863 1
+624 785 1
+296 745 1
+184 462 1
+742 864 1
+865 352 1
+552 830 1
+866 572 1
+205 427 1
+456 113 1
+586 492 1
+270 867 1
+297 868 1
+762 46 1
+705 869 1
+109 222 1
+132 870 1
+871 872 1
+86 873 1
+383 64 1
+8 46 1
+390 741 1
+705 444 1
+874 875 1
+876 505 1
+576 65 1
+742 668 1
+396 300 1
+877 878 1
+539 111 1
+879 108 1
+761 699 1
+880 548 1
+881 882 1
+203 182 1
+590 883 1
+297 280 1
+884 885 1
+137 227 1
+208 783 1
+886 416 1
+220 179 1
+192 887 1
+888 889 1
+288 485 1
+161 23 1
+890 596 1
+270 103 1
+471 1 1
+277 262 1
+155 347 1
+526 510 1
+413 891 1
+200 461 1
+785 584 1
+14 347 1
+488 196 1
+100 347 1
+892 893 1
+600 376 1
+894 543 1
+131 115 1
+38 64 1
+67 310 1
+466 464 1
+582 210 1
+487 352 1
+24 455 1
+551 556 1
+372 895 1
+447 443 1
+896 897 1
+551 129 1
+898 899 1
+200 492 1
+815 900 1
+27 98 1
+270 503 1
+18 552 1
+307 179 1
+204 182 1
+901 395 1
+902 820 1
+614 298 1
+735 903 1
+904 463 1
+99 785 1
+477 630 1
+905 719 1
+906 907 1
+561 556 1
+908 480 1
+132 638 1
+212 543 1
+614 55 1
+909 630 1
+910 911 1
+311 912 1
+913 492 1
+914 813 1
+444 273 1
+617 674 1
+142 915 1
+839 117 1
+704 90 1
+463 427 1
+916 369 1
+917 918 1
+108 111 1
+312 23 1
+303 793 1
+102 271 1
+919 699 1
+363 88 1
+354 681 1
+35 447 1
+920 310 1
+614 355 1
+111 210 1
+32 921 1
+351 561 1
+922 505 1
+68 637 1
+523 88 1
+444 444 1
+388 196 1
+573 285 1
+218 512 1
+41 65 1
+770 446 1
+383 624 1
+923 93 1
+62 882 1
+745 808 1
+184 145 1
+726 839 1
+924 467 1
+388 195 1
+149 805 1
+745 925 1
+705 633 1
+926 550 1
+927 928 1
+412 686 1
+366 223 1
+929 930 1
+600 38 1
+177 210 1
+931 272 1
+314 900 1
+284 321 1
+281 572 1
+932 35 1
+920 105 1
+59 271 1
+32 510 1
+326 328 1
+164 711 1
+933 934 1
+291 935 1
+71 108 1
+692 386 1
+642 510 1
+936 154 1
+38 937 1
+792 82 1
+38 584 1
+15 140 1
+844 938 1
+939 46 1
+161 940 1
+170 510 1
+407 941 1
+942 943 1
+944 945 1
+874 397 1
+946 397 1
+917 947 1
+948 949 1
+950 467 1
+547 364 1
+433 84 1
+261 698 1
+54 245 1
+545 427 1
+876 633 1
+475 432 1
+62 41 1
+38 951 1
+952 196 1
+495 593 1
+317 107 1
+898 570 1
+431 222 1
+697 58 1
+735 953 1
+293 202 1
+705 205 1
+954 374 1
+815 955 1
+38 956 1
+910 99 1
+469 957 1
+377 74 1
+213 84 1
+136 84 1
+169 330 1
+590 493 1
+672 446 1
+309 154 1
+359 266 1
+958 275 1
+157 179 1
+279 355 1
+959 421 1
+960 961 1
+370 174 1
+962 133 1
+378 963 1
+964 965 1
+67 104 1
+294 179 1
+737 892 1
+495 966 1
+524 456 1
+81 967 1
+907 633 1
+54 264 1
+69 193 1
+55 64 1
+522 968 1
+463 750 1
+435 411 1
+749 969 1
+340 563 1
+23 397 1
+552 970 1
+944 971 1
+207 178 1
+381 972 1
+263 973 1
+554 502 1
+116 211 1
+217 652 1
+208 20 1
+41 282 1
+607 298 1
+838 159 1
+393 506 1
+162 501 1
+293 752 1
+573 105 1
+234 286 1
+178 793 1
+974 637 1
+259 108 1
+111 500 1
+159 30 1
+93 820 1
+35 262 1
+486 907 1
+975 976 1
+626 900 1
+429 751 1
+977 871 1
+787 157 1
+26 978 1
+481 23 1
+965 303 1
+979 980 1
+332 145 1
+137 981 1
+779 597 1
+672 423 1
+982 892 1
+248 266 1
+212 222 1
+983 777 1
+313 984 1
+162 358 1
+526 793 1
+481 310 1
+312 616 1
+202 293 1
+74 449 1
+265 985 1
+448 107 1
+986 746 1
+787 878 1
+674 421 1
+275 707 1
+514 84 1
+61 353 1
+817 204 1
+189 987 1
+199 74 1
+284 483 1
+30 46 1
+73 988 1
+605 417 1
+306 989 1
+990 991 1
+566 410 1
+354 211 1
+223 607 1
+696 985 1
+497 992 1
+755 143 1
+34 993 1
+14 747 1
+894 811 1
+983 111 1
+573 153 1
+86 39 1
+724 178 1
+642 965 1
+966 84 1
+294 372 1
+19 965 1
+802 915 1
+23 9 1
+102 417 1
+262 376 1
+471 117 1
+83 511 1
+932 994 1
+615 154 1
+219 1 1
+995 156 1
+463 264 1
+785 202 1
+432 298 1
+248 49 1
+431 280 1
+806 325 1
+884 493 1
+871 314 1
+368 190 1
+587 135 1
+907 163 1
+908 677 1
+508 432 1
+996 806 1
+659 997 1
+998 759 1
+500 111 1
+138 999 1
+1000 310 1
+99 1001 1
+573 578 1
+621 64 1
+620 264 1
+626 1002 1
+394 633 1
+237 105 1
+799 598 1
+469 408 1
+1003 1004 1
+1005 422 1
+419 417 1
+370 449 1
+856 1006 1
+1007 512 1
+692 250 1
+439 929 1
+394 505 1
+697 351 1
+708 676 1
+861 111 1
+73 266 1
+904 458 1
+704 353 1
+551 408 1
+1008 216 1
+32 84 1
+919 1009 1
+1010 604 1
+99 844 1
+724 52 1
+1011 752 1
+258 328 1
+10 1012 1
+2 408 1
+325 402 1
+38 520 1
+181 231 1
+857 1013 1
+510 52 1
+277 506 1
+778 660 1
+38 635 1
+517 111 1
+450 713 1
+477 11 1
+258 82 1
+730 849 1
+633 699 1
+284 59 1
+209 215 1
+745 108 1
+790 904 1
+367 578 1
+500 108 1
+107 282 1
+539 362 1
+1014 1015 1
+395 1 1
+1016 570 1
+420 325 1
+539 211 1
+181 376 1
+773 935 1
+80 310 1
+801 52 1
+332 474 1
+119 122 1
+974 903 1
+286 456 1
+466 765 1
+920 154 1
+754 929 1
+117 17 1
+50 606 1
+187 347 1
+505 633 1
+108 500 1
+199 445 1
+1017 331 1
+483 1018 1
+150 88 1
+1019 52 1
+41 882 1
+576 282 1
+171 1020 1
+676 972 1
+408 472 1
+1018 58 1
+170 136 1
+824 823 1
+281 39 1
+613 577 1
+394 876 1
+768 174 1
+64 411 1
+614 280 1
+1021 765 1
+1022 636 1
+86 361 1
+948 363 1
+949 934 1
+603 728 1
+847 1023 1
+813 65 1
+266 712 1
+503 786 1
+685 381 1
+177 336 1
+996 1024 1
+703 342 1
+503 647 1
+136 222 1
+799 408 1
+705 699 1
+615 416 1
+88 684 1
+1025 1026 1
+393 1017 1
+991 914 1
+574 628 1
+448 741 1
+494 350 1
+449 965 1
+88 956 1
+199 345 1
+885 370 1
+1027 74 1
+846 513 1
+787 44 1
+567 345 1
+696 976 1
+1028 808 1
+211 500 1
+1029 1030 1
+326 593 1
+705 564 1
+613 607 1
+1031 548 1
+372 371 1
+14 127 1
+1032 844 1
+799 59 1
+1033 33 1
+1018 23 1
+531 1034 1
+798 154 1
+687 179 1
+362 82 1
+398 506 1
+71 82 1
+305 928 1
+99 1035 1
+83 543 1
+656 712 1
+38 1036 1
+1037 898 1
+573 37 1
+595 1038 1
+1039 1040 1
+399 196 1
+1041 1042 1
+589 589 1
+366 298 1
+316 1043 1
+237 1044 1
+61 204 1
+1045 1046 1
+922 543 1
+1047 1048 1
+330 991 1
+232 709 1
+570 899 1
+1049 127 1
+881 402 1
+173 76 1
+432 868 1
+854 286 1
+206 156 1
+1031 11 1
+526 84 1
+459 464 1
+144 741 1
+678 52 1
+1050 402 1
+1051 127 1
+66 80 1
+121 121 1
+256 278 1
+1052 293 1
+648 331 1
+933 550 1
+696 249 1
+483 1053 1
+1033 62 1
+1054 1055 1
+1056 856 1
+962 1025 1
+262 870 1
+819 145 1
+194 140 1
+529 680 1
+697 78 1
+1025 957 1
+223 868 1
+466 463 1
+966 222 1
+23 31 1
+249 266 1
+1057 347 1
+1058 9 1
+907 215 1
+923 92 1
+1059 775 1
+1060 760 1
+89 906 1
+514 222 1
+1061 52 1
+232 381 1
+178 158 1
+790 458 1
+530 860 1
+467 111 1
+381 1062 1
+1063 1064 1
+15 747 1
+581 211 1
+277 313 1
+89 369 1
+982 738 1
+62 243 1
+1060 734 1
+105 154 1
+602 193 1
+223 614 1
+1008 523 1
+1004 227 1
+123 386 1
+32 966 1
+790 401 1
+369 154 1
+838 78 1
+239 111 1
+801 179 1
+270 182 1
+490 450 1
+89 105 1
+966 213 1
+80 104 1
+213 52 1
+255 878 1
+1065 350 1
+223 432 1
+1021 478 1
+831 1066 1
+884 871 1
+338 271 1
+1067 1068 1
+609 84 1
+311 546 1
+473 738 1
+673 179 1
+384 397 1
+1069 585 1
+200 453 1
+303 543 1
+901 789 1
+0 633 1
+326 450 1
+762 387 1
+415 213 1
+645 99 1
+656 484 1
+466 574 1
+305 989 1
+447 273 1
+793 52 1
+697 940 1
+1070 52 1
+724 158 1
+0 236 1
+41 88 1
+32 222 1
+906 669 1
+456 1071 1
+687 282 1
+145 647 1
+131 35 1
+80 369 1
+1031 1072 1
+171 512 1
+136 213 1
+760 1073 1
+1074 1044 1
+129 556 1
+514 526 1
+49 875 1
+81 805 1
+138 1075 1
+29 160 1
+1076 633 1
+317 79 1
+407 245 1
+491 593 1
+1008 141 1
+322 932 1
+285 209 1
+839 1038 1
+258 748 1
+705 672 1
+408 369 1
+626 446 1
+378 84 1
+85 1077 1
+1078 1079 1
+377 1080 1
+765 713 1
+42 105 1
+871 370 1
+424 245 1
+880 111 1
+196 386 1
+240 423 1
+130 894 1
+73 712 1
+393 53 1
+1081 1082 1
+435 115 1
+1083 1084 1
+673 19 1
+991 570 1
+356 1085 1
+319 827 1
+679 1086 1
+153 1087 1
+616 957 1
+152 157 1
+70 871 1
+303 84 1
+210 700 1
+167 247 1
+50 350 1
+655 349 1
+137 1050 1
+819 1017 1
+1088 94 1
+985 49 1
+380 127 1
+247 168 1
+2 122 1
+311 556 1
+1089 557 1
+589 570 1
+573 367 1
+852 321 1
+91 723 1
+38 17 1
+731 1090 1
+1091 723 1
+902 453 1
+1008 174 1
+861 478 1
+1092 823 1
+628 264 1
+1004 10 1
+419 393 1
+71 211 1
+73 79 1
+296 808 1
+415 33 1
+169 211 1
+294 371 1
+17 108 1
+539 177 1
+151 247 1
+258 464 1
+360 981 1
+385 46 1
+1093 59 1
+1094 65 1
+1041 1095 1
+185 132 1
+38 928 1
+1096 227 1
+530 684 1
+1097 421 1
+705 230 1
+435 262 1
+200 1098 1
+991 179 1
+82 467 1
+657 314 1
+1099 775 1
+1100 19 1
+288 349 1
+911 99 1
+1101 141 1
+26 1102 1
+16 116 1
+583 785 1
+142 593 1
+432 264 1
+43 1103 1
+742 327 1
+1104 1105 1
+71 821 1
+360 631 1
+679 259 1
+288 701 1
+1106 271 1
+463 98 1
+1099 485 1
+686 530 1
+508 614 1
+52 84 1
+232 627 1
+484 349 1
+762 23 1
+564 331 1
+1107 564 1
+408 23 1
+953 410 1
+763 245 1
+879 1020 1
+302 301 1
+73 249 1
+916 398 1
+500 684 1
+1108 182 1
+522 342 1
+954 584 1
+784 111 1
+383 303 1
+447 672 1
+378 1109 1
+590 1110 1
+196 607 1
+526 361 1
+766 1111 1
+910 202 1
+466 10 1
+1027 360 1
+1112 1113 1
+1114 1115 1
+216 65 1
+697 77 1
+662 668 1
+395 117 1
+693 174 1
+433 52 1
+360 1116 1
+1117 417 1
+565 1118 1
+111 82 1
+131 427 1
+169 389 1
+70 38 1
+73 976 1
+1033 621 1
+683 427 1
+1067 227 1
+819 419 1
+1119 603 1
+1112 13 1
+533 111 1
+737 307 1
+616 841 1
+170 966 1
+162 115 1
+441 1120 1
+790 548 1
+16 303 1
+672 564 1
+490 593 1
+927 410 1
+857 1121 1
+294 111 1
+375 23 1
+764 321 1
+766 245 1
+801 361 1
+270 647 1
+741 38 1
+908 402 1
+1122 1123 1
+299 145 1
+642 966 1
+1060 405 1
+205 273 1
+1124 1009 1
+224 1125 1
+904 1126 1
+114 1002 1
+366 597 1
+483 392 1
+290 683 1
+326 402 1
+203 347 1
+529 1127 1
+285 236 1
+41 39 1
+904 548 1
+38 1128 1
+261 264 1
+164 890 1
+317 1129 1
+1130 341 1
+932 503 1
+1017 53 1
+997 23 1
+768 1077 1
+437 39 1
+438 1117 1
+556 154 1
+38 65 1
+152 655 1
+1131 220 1
+252 202 1
+683 903 1
+46 392 1
+437 38 1
+306 937 1
+169 1132 1
+628 480 1
+1028 1118 1
+531 1133 1
+683 88 1
+267 62 1
+863 1134 1
+1135 83 1
+297 389 1
+932 98 1
+911 853 1
+964 866 1
+699 1009 1
+172 1136 1
+277 638 1
+272 935 1
+1137 370 1
+546 1138 1
+990 914 1
+1139 594 1
+628 467 1
+707 958 1
+159 58 1
+617 1140 1
+92 347 1
+309 104 1
+876 331 1
+1047 1141 1
+1041 711 1
+214 1102 1
+894 1142 1
+129 122 1
+742 765 1
+54 64 1
+704 763 1
+763 387 1
+389 211 1
+52 543 1
+629 122 1
+1143 46 1
+609 222 1
+614 279 1
+82 111 1
+508 1132 1
+430 280 1
+1144 1145 1
+38 752 1
+267 741 1
+442 668 1
+122 472 1
+985 198 1
+6 809 1
+384 58 1
+1146 705 1
+1147 445 1
+200 38 1
+456 361 1
+1148 651 1
+483 1149 1
+419 273 1
+1027 1150 1
+252 785 1
+609 532 1
+880 593 1
+646 807 1
+234 24 1
+329 520 1
+71 533 1
+67 259 1
+54 169 1
+491 490 1
+766 1151 1
+267 965 1
+223 834 1
+360 350 1
+786 652 1
+94 844 1
+658 204 1
+83 52 1
+0 117 1
+1152 494 1
+1153 113 1
+1107 186 1
+1154 841 1
+674 177 1
+67 416 1
+929 350 1
+959 1141 1
+908 548 1
+838 23 1
+20 154 1
+149 686 1
+884 270 1
+1155 539 1
+353 61 1
+793 543 1
+395 173 1
+1156 65 1
+747 347 1
+483 58 1
+1157 410 1
+277 427 1
+906 154 1
+398 523 1
+576 655 1
+608 154 1
+645 929 1
+262 1002 1
+486 744 1
+523 647 1
+1158 1159 1
+917 280 1
+299 506 1
+281 85 1
+144 65 1
+686 381 1
+117 615 1
+1011 914 1
+317 453 1
+991 899 1
+38 417 1
+916 17 1
+395 347 1
+1013 550 1
+477 10 1
+724 882 1
+16 111 1
+246 997 1
+383 1160 1
+221 110 1
+792 298 1
+381 1161 1
+884 372 1
+567 173 1
+181 411 1
+561 1162 1
+508 607 1
+182 264 1
+317 346 1
+590 74 1
+587 1163 1
+539 108 1
+1164 122 1
+126 347 1
+152 930 1
+124 321 1
+316 642 1
+208 236 1
+531 84 1
+223 280 1
+1165 17 1
+705 530 1
+262 278 1
+1155 463 1
+28 1166 1
+377 547 1
+255 44 1
+131 633 1
+138 1167 1
+170 222 1
+628 108 1
+144 62 1
+452 1168 1
+131 744 1
+344 104 1
+590 38 1
+297 517 1
+1085 489 1
+923 789 1
+920 190 1
+413 456 1
+954 987 1
+262 98 1
+248 350 1
+595 711 1
+690 382 1
+232 686 1
+939 45 1
+184 1017 1
+1169 1170 1
+493 673 1
+581 1111 1
+137 83 1
+703 654 1
+377 19 1
+96 347 1
+1074 105 1
+845 1171 1
+78 23 1
+128 154 1
+627 90 1
+526 1172 1
+303 57 1
+42 768 1
+51 213 1
+170 511 1
+929 347 1
+92 820 1
+38 427 1
+104 1173 1
+372 264 1
+110 158 1
+686 1174 1
+1175 1071 1
+481 369 1
+396 1176 1
+79 17 1
+114 427 1
+437 243 1
+488 400 1
+415 793 1
+1087 1177 1
+764 59 1
+2 104 1
+598 59 1
+919 501 1
+468 808 1
+290 965 1
+58 46 1
+1032 108 1
+835 98 1
+531 52 1
+773 90 1
+1178 854 1
+679 67 1
+276 686 1
+317 520 1
+512 172 1
+621 449 1
+77 23 1
+317 1179 1
+389 280 1
+386 935 1
+1143 161 1
+1107 231 1
+782 374 1
+145 393 1
+77 46 1
+927 243 1
+594 111 1
+1180 1181 1
+145 271 1
+444 90 1
+954 783 1
+1087 416 1
+284 46 1
+758 46 1
+1069 706 1
+513 179 1
+38 243 1
+14 571 1
+32 51 1
+477 327 1
+874 1182 1
+285 465 1
+138 720 1
+673 965 1
+332 1 1
+225 134 1
+38 987 1
+272 90 1
+232 196 1
+40 572 1
+1165 103 1
+77 385 1
+704 134 1
+457 421 1
+423 108 1
+562 340 1
+1183 830 1
+540 492 1
+179 52 1
+278 417 1
+944 84 1
+320 59 1
+628 1184 1
+103 271 1
+26 690 1
+466 328 1
+70 74 1
+197 249 1
+876 648 1
+203 1185 1
+446 88 1
+99 938 1
+273 376 1
+724 41 1
+191 243 1
+377 1186 1
+527 84 1
+1187 113 1
+74 625 1
+276 149 1
+217 393 1
+692 204 1
+874 621 1
+212 84 1
+1188 969 1
+699 501 1
+303 111 1
+466 504 1
+71 1189 1
+822 1190 1
+1146 1191 1
+115 638 1
+665 11 1
+66 104 1
+939 58 1
+241 152 1
+87 417 1
+588 1020 1
+159 23 1
+1192 1193 1
+801 157 1
+1194 467 1
+885 79 1
+419 916 1
+356 1113 1
+957 841 1
+311 9 1
+435 98 1
+1195 1196 1
+222 52 1
+27 382 1
+929 222 1
+249 554 1
+390 376 1
+344 1093 1
+84 52 1
+399 789 1
+115 564 1
+126 38 1
+159 31 1
+719 27 1
+685 1197 1
+843 111 1
+8 23 1
+262 411 1
+953 434 1
+1130 1011 1
+529 1184 1
+49 711 1
+463 574 1
+108 211 1
+85 688 1
+306 928 1
+1063 1111 1
+626 744 1
+629 9 1
+754 46 1
+38 148 1
+804 1198 1
+1027 970 1
+311 104 1
+29 398 1
+449 543 1
+138 222 1
+156 174 1
+847 664 1
+486 815 1
+395 231 1
+239 681 1
+327 668 1
+749 174 1
+145 331 1
+276 1199 1
+609 921 1
+71 389 1
+32 1200 1
+1201 178 1
+979 111 1
+1032 429 1
+839 1090 1
+463 467 1
+1202 941 1
+232 692 1
+1081 1203 1
+381 1204 1
+547 1205 1
+353 38 1
+1076 220 1
+408 154 1
+197 248 1
+1137 449 1
+663 1206 1
+581 834 1
+646 716 1
+353 17 1
+719 382 1
+123 898 1
+1207 312 1
+69 637 1
+398 647 1
+976 74 1
+808 310 1
+754 392 1
+967 681 1
+30 397 1
+884 370 1
+82 500 1
+762 386 1
+56 213 1
+219 145 1
+546 154 1
+222 510 1
+884 419 1
+1155 111 1
+582 1111 1
+483 929 1
+1120 1202 1
+92 97 1
+741 62 1
+418 144 1
+690 407 1
+581 210 1
+672 162 1
+624 55 1
+170 84 1
+904 325 1
+219 1208 1
+38 358 1
+1003 1209 1
+100 140 1
+418 107 1
+613 690 1
+503 919 1
+389 111 1
+12 153 1
+121 1210 1
+799 1093 1
+1076 1124 1
+1194 548 1
+1169 1155 1
+196 76 1
+743 464 1
+786 647 1
+38 1211 1
+395 673 1
+132 278 1
+98 446 1
+192 371 1
+89 556 1
+872 543 1
+661 464 1
+679 996 1
+657 282 1
+871 62 1
+1212 1213 1
+1146 743 1
+731 49 1
+692 627 1
+1172 1214 1
+528 1126 1
+272 1215 1
+1216 863 1
+144 417 1
+1047 1217 1
+661 450 1
+911 910 1
+582 279 1
+67 82 1
+526 415 1
+240 111 1
+448 62 1
+124 385 1
+1017 647 1
+413 361 1
+1122 684 1
+633 98 1
+15 168 1
+117 154 1
+785 293 1
+34 1218 1
+1178 1219 1
+710 217 1
+77 58 1
+481 472 1
+1058 46 1
+205 444 1
+195 619 1
+531 170 1
+500 82 1
+806 1220 1
+482 100 1
+910 1221 1
+631 339 1
+705 501 1
+361 260 1
+54 1222 1
+36 573 1
+587 1223 1
+88 575 1
+614 245 1
+273 271 1
+1224 105 1
+350 1152 1
+531 921 1
+614 211 1
+1081 1225 1
+662 1226 1
+814 220 1
+616 647 1
+852 320 1
+1227 1228 1
+605 564 1
+696 50 1
+754 58 1
+294 264 1
+1229 1230 1
+125 392 1
+1207 154 1
+1231 1232 1
+539 210 1
+1213 1212 1
+1233 638 1
+312 1000 1
+655 485 1
+55 245 1
+177 82 1
+1176 456 1
+814 101 1
+418 62 1
+720 1167 1
+620 192 1
+911 154 1
+483 154 1
+1234 1235 1
+1054 249 1
+444 230 1
+161 385 1
+413 112 1
+1032 82 1
+278 422 1
+1236 631 1
+1237 174 1
+679 783 1
+352 22 1
+79 41 1
+234 59 1
+351 127 1
+722 866 1
+975 759 1
+877 44 1
+324 976 1
+290 974 1
+720 222 1
+38 215 1
+459 402 1
+71 67 1
+22 46 1
+1227 1238 1
+1049 97 1
+948 567 1
+1178 266 1
+314 417 1
+785 1239 1
+1240 145 1
+322 1218 1
+587 350 1
+782 190 1
+701 519 1
+149 98 1
+306 243 1
+872 85 1
+641 397 1
+295 899 1
+881 178 1
+378 610 1
+1085 196 1
+275 958 1
+808 108 1
+42 437 1
+132 230 1
+217 616 1
+74 50 1
+838 385 1
+315 127 1
+1144 478 1
+1158 918 1
+506 358 1
+365 249 1
+146 462 1
+381 215 1
+136 1241 1
+1047 249 1
+1242 18 1
+510 349 1
+982 1115 1
+146 19 1
+591 451 1
+119 259 1
+32 452 1
+894 361 1
+51 158 1
+1243 570 1
+609 992 1
+1059 349 1
+703 175 1
+1157 84 1
+587 765 1
+277 633 1
+1244 331 1
+270 19 1
+482 393 1
+223 264 1
+100 929 1
+32 213 1
+185 382 1
+32 793 1
+72 108 1
+607 280 1
+661 548 1
+472 416 1
+197 406 1
+352 1245 1
+138 637 1
+151 55 1
+763 935 1
+68 1167 1
+0 145 1
+475 261 1
+592 157 1
+687 1246 1
+258 662 1
+326 1126 1
+1247 1248 1
+808 111 1
+876 506 1
+313 564 1
+621 624 1
+46 397 1
+191 38 1
+32 1241 1
+679 1221 1
+138 806 1
+843 979 1
+38 182 1
+539 16 1
+863 1249 1
+443 273 1
+600 105 1
+187 161 1
+183 1098 1
+622 21 1
+1131 19 1
+1058 392 1
+959 1145 1
+1250 1251 1
+311 472 1
+1252 410 1
+1253 667 1
+248 985 1
+483 472 1
+1130 1254 1
+406 976 1
+412 987 1
+291 90 1
+1255 555 1
+40 38 1
+406 266 1
+30 9 1
+211 111 1
+169 280 1
+626 98 1
+423 82 1
+117 342 1
+689 701 1
+201 190 1
+80 615 1
+365 1256 1
+704 261 1
+917 1115 1
+738 245 1
+199 536 1
+497 966 1
+456 1257 1
+787 644 1
+30 392 1
+1054 198 1
+54 700 1
+365 883 1
+399 76 1
+773 386 1
+517 389 1
+539 574 1
+499 648 1
+905 27 1
+774 637 1
+73 49 1
+333 1 1
+408 1000 1
+299 648 1
+419 230 1
+703 343 1
+1097 1011 1
+529 467 1
+222 84 1
+976 266 1
+395 127 1
+302 73 1
+98 358 1
+79 647 1
+187 1093 1
+114 231 1
+296 82 1
+380 347 1
+519 518 1
+1258 1259 1
+56 303 1
+132 98 1
+419 145 1
+608 369 1
+29 453 1
+764 1093 1
+317 171 1
+1025 616 1
+377 50 1
+1085 400 1
+124 59 1
+324 1260 1
+1022 652 1
+170 52 1
+690 530 1
+490 1261 1
+124 265 1
+530 186 1
+732 173 1
+531 452 1
+389 264 1
+692 709 1
+41 752 1
+872 657 1
+412 736 1
+1106 314 1
+86 314 1
+935 90 1
+1146 199 1
+184 393 1
+67 808 1
+863 445 1
+1262 430 1
+204 728 1
+443 935 1
+16 211 1
+185 672 1
+469 556 1
+51 510 1
+2 551 1
+1229 1263 1
+849 1033 1
+743 467 1
+293 64 1
+232 386 1
+684 111 1
+872 19 1
+217 312 1
+743 463 1
+35 230 1
+623 536 1
+649 1264 1
+658 708 1
+742 1265 1
+463 628 1
+395 145 1
+920 369 1
+268 154 1
+884 79 1
+628 500 1
+592 326 1
+1186 271 1
+81 239 1
+1195 245 1
+1032 808 1
+352 30 1
+185 215 1
+531 137 1
+1266 484 1
+793 213 1
+296 111 1
+1267 94 1
+38 231 1
+1175 1153 1
+514 179 1
+137 213 1
+743 683 1
+639 164 1
+99 1268 1
+750 1191 1
+230 1269 1
+639 653 1
+641 255 1
+663 674 1
+551 546 1
+908 668 1
+1240 1 1
+730 299 1
+1266 1059 1
+792 280 1
+1091 59 1
+770 965 1
+948 1270 1
+789 426 1
+42 523 1
+385 160 1
+246 1271 1
+111 467 1
+360 49 1
+393 331 1
+153 850 1
+183 299 1
+1195 1272 1
+584 1273 1
+1274 1275 1
+377 536 1
+14 247 1
+62 417 1
+60 79 1
+444 148 1
+531 402 1
+26 1276 1
+859 1277 1
+330 171 1
+704 180 1
+463 684 1
+43 1278 1
+318 264 1
+61 1279 1
+203 1108 1
+41 62 1
+804 530 1
+602 637 1
+177 111 1
+277 132 1
+1011 1280 1
+128 104 1
+0 506 1
+627 386 1
+909 662 1
+173 152 1
+101 347 1
+145 1017 1
+285 583 1
+1281 654 1
+324 493 1
+380 624 1
+789 423 1
+99 612 1
+642 52 1
+503 501 1
+32 83 1
+270 179 1
+1282 1283 1
+907 1002 1
+529 463 1
+904 806 1
+395 370 1
+232 708 1
+385 31 1
+684 1284 1
+348 484 1
+800 9 1
+366 432 1
+372 303 1
+70 623 1
+72 82 1
+206 352 1
+85 314 1
+18 117 1
+1285 1286 1
+151 168 1
+653 639 1
+110 109 1
+412 1124 1
+197 595 1
+724 83 1
+874 711 1
+216 443 1
+184 395 1
+627 763 1
+99 202 1
+948 1287 1
+1058 31 1
+742 593 1
+99 878 1
+463 500 1
+991 684 1
+533 116 1
+42 564 1
+325 880 1
+324 319 1
+692 1279 1
+590 345 1
+224 400 1
+325 467 1
+61 182 1
+144 85 1
+1288 38 1
+874 173 1
+71 210 1
+911 1221 1
+294 389 1
+672 869 1
+475 280 1
+38 810 1
+1041 596 1
+885 19 1
+79 417 1
+193 434 1
+191 65 1
+409 434 1
+87 965 1
+1107 1009 1
+705 1009 1
+35 444 1
+35 1289 1
+705 90 1
+1290 1291 1
+1292 233 1
+661 630 1
+398 17 1
+388 489 1
+426 1293 1
+932 744 1
+140 127 1
+931 1215 1
+232 1279 1
+463 480 1
+1290 695 1
+667 11 1
+567 1294 1
+1262 834 1
+174 271 1
+587 450 1
+152 497 1
+929 7 1
+814 173 1
+975 998 1
+177 1295 1
+38 190 1
+312 647 1
+109 678 1
+223 298 1
+342 400 1
+443 90 1
+683 965 1
+976 345 1
+1164 615 1
+326 548 1
+223 355 1
+435 231 1
+187 46 1
+1296 1297 1
+233 1218 1
+1255 229 1
+852 1093 1
+50 227 1
+107 576 1
+1039 230 1
+799 1091 1
+395 1237 1
+637 903 1
+1232 1231 1
+871 107 1
+1113 841 1
+210 264 1
+603 116 1
+267 396 1
+129 472 1
+183 1298 1
+220 369 1
+77 483 1
+881 724 1
+221 498 1
+1065 541 1
+320 723 1
+801 452 1
+503 393 1
+1240 53 1
+1299 1293 1
+99 611 1
+263 431 1
+442 328 1
+1300 799 1
+114 132 1
+592 464 1
+787 543 1
+303 510 1
+823 1092 1
+151 220 1
+578 1000 1
+378 609 1
+74 339 1
+964 572 1
+197 74 1
+605 984 1
+768 281 1
+269 154 1
+1004 1209 1
+490 1031 1
+88 446 1
+452 793 1
+281 1077 1
+315 1301 1
+71 239 1
+381 757 1
+920 615 1
+404 760 1
+646 116 1
+200 540 1
+77 758 1
+817 1185 1
+554 928 1
+816 253 1
+99 644 1
+1018 46 1
+1030 402 1
+360 711 1
+565 472 1
+686 1161 1
+441 280 1
+690 98 1
+1157 963 1
+333 145 1
+471 839 1
+679 374 1
+631 1090 1
+419 786 1
+587 1302 1
+78 58 1
+360 445 1
+483 59 1
+531 992 1
+923 453 1
+388 1085 1
+683 604 1
+1008 42 1
+363 417 1
+78 46 1
+213 222 1
+123 570 1
+210 280 1
+946 254 1
+929 1090 1
+745 1118 1
+621 271 1
+115 417 1
+1157 158 1
+574 467 1
+911 202 1
+643 402 1
+463 1184 1
+540 38 1
+102 376 1
+822 205 1
+289 558 1
+1303 689 1
+550 1214 1
+239 423 1
+270 396 1
+297 545 1
+207 611 1
+1093 321 1
+1236 654 1
+911 190 1
+328 630 1
+435 278 1
+127 1051 1
+474 1 1
+1054 266 1
+573 154 1
+1047 651 1
+732 368 1
+1304 878 1
+59 392 1
+954 1086 1
+785 63 1
+311 122 1
+168 347 1
+99 853 1
+514 137 1
+922 179 1
+835 752 1
+395 38 1
+82 17 1
+399 423 1
+205 386 1
+356 543 1
+179 543 1
+276 239 1
+370 19 1
+173 624 1
+671 325 1
+355 1064 1
+545 355 1
+413 1071 1
+119 111 1
+528 593 1
+1287 794 1
+871 445 1
+1070 1150 1
+156 347 1
+1305 350 1
+222 213 1
+683 303 1
+904 889 1
+454 752 1
+185 98 1
+613 686 1
+98 699 1
+149 530 1
+592 915 1
+213 543 1
+156 693 1
+1150 39 1
+1176 965 1
+772 805 1
+917 245 1
+459 593 1
+871 449 1
+178 303 1
+212 793 1
+348 289 1
+381 530 1
+178 157 1
+15 571 1
+291 582 1
+23 392 1
+49 536 1
+907 564 1
+330 1020 1
+8 59 1
+1306 307 1
+181 1002 1
+581 1307 1
+904 326 1
+38 230 1
+909 328 1
+694 137 1
+932 262 1
+607 279 1
+224 1113 1
+835 855 1
+56 543 1
+845 329 1
+772 436 1
+976 198 1
+71 539 1
+713 328 1
+419 444 1
+1164 154 1
+317 647 1
+136 52 1
+534 429 1
+907 501 1
+120 104 1
+487 351 1
+207 787 1
+877 644 1
+495 51 1
+1097 811 1
+1308 46 1
+184 419 1
+540 461 1
+1156 1019 1
+764 309 1
+38 967 1
+1309 127 1
+161 58 1
+399 1310 1
+743 1302 1
+997 161 1
+284 78 1
+214 251 1
+412 757 1
+185 744 1
+1114 244 1
+421 504 1
+1113 225 1
+673 449 1
+539 72 1
+452 1311 1
+395 1176 1
+125 391 1
+239 108 1
+589 371 1
+790 421 1
+437 937 1
+381 690 1
+164 1095 1
+998 976 1
+705 907 1
+1047 1312 1
+258 668 1
+18 74 1
+603 239 1
+581 279 1
+483 9 1
+201 987 1
+1 331 1
+633 236 1
+297 111 1
+114 98 1
+443 79 1
+1313 621 1
+247 347 1
+790 806 1
+99 1304 1
+595 227 1
+185 757 1
+367 906 1
+661 402 1
+381 98 1
+138 632 1
+589 295 1
+1041 227 1
+1122 832 1
+36 80 1
+505 648 1
+839 175 1
+217 636 1
+38 499 1
+262 114 1
+966 361 1
+628 575 1
+151 347 1
+539 728 1
+547 1314 1
+856 350 1
+967 239 1
+261 271 1
+920 1315 1
+906 105 1
+662 327 1
+695 350 1
+920 23 1
+435 427 1
+207 752 1
+495 213 1
+594 16 1
+185 690 1
+367 271 1
+14 220 1
+567 164 1
+948 934 1
+55 264 1
+230 98 1
+1316 117 1
+199 88 1
+806 594 1
+285 509 1
+437 282 1
+117 19 1
+71 116 1
+585 264 1
+1152 350 1
+485 349 1
+112 413 1
+1194 402 1
+197 266 1
+296 574 1
+962 180 1
+1317 224 1
+603 1318 1
+1155 574 1
+574 808 1
+1319 345 1
+38 523 1
+38 832 1
+1301 221 1
+284 723 1
+264 264 1
+1199 154 1
+1315 186 1
+268 1087 1
+438 417 1
+205 506 1
+512 65 1
+397 31 1
+278 427 1
+1024 1030 1
+662 630 1
+138 1320 1
+363 866 1
+124 46 1
+110 456 1
+703 400 1
+648 636 1
+99 1321 1
+142 464 1
+59 105 1
+101 97 1
+23 30 1
+770 107 1
+1242 303 1
+790 402 1
+1236 175 1
+493 38 1
+371 303 1
+201 785 1
+18 536 1
+406 198 1
+549 711 1
+367 153 1
+565 369 1
+1033 222 1
+204 1108 1
+99 756 1
+1195 917 1
+1146 1315 1
+85 62 1
+528 1322 1
+661 451 1
+508 389 1
+1022 647 1
+642 213 1
+1106 39 1
+242 38 1
+58 23 1
+902 929 1
+124 391 1
+1033 498 1
+732 369 1
+1206 421 1
+229 555 1
+468 108 1
+32 543 1
+124 188 1
+788 221 1
+719 690 1
+395 965 1
+14 168 1
+1177 154 1
+98 215 1
+859 1323 1
+140 38 1
+656 349 1
+354 1111 1
+392 31 1
+338 74 1
+919 633 1
+278 230 1
+1261 11 1
+35 98 1
+763 386 1
+567 711 1
+1269 599 1
+119 67 1
+8 392 1
+457 1324 1
+170 452 1
+387 166 1
+481 1173 1
+1288 523 1
+671 1194 1
+493 146 1
+874 842 1
+817 353 1
+1325 1049 1
+857 1214 1
+73 759 1
+142 325 1
+483 46 1
+622 17 1
+1070 1200 1
+983 330 1
+801 402 1
+966 543 1
+539 82 1
+216 38 1
+990 158 1
+805 82 1
+529 684 1
+737 137 1
+171 182 1
+785 1326 1
+270 493 1
+426 423 1
+1074 1000 1
+280 355 1
+445 882 1
+29 80 1
+333 271 1
+487 46 1
+318 1327 1
+448 267 1
+179 182 1
+463 1191 1
+1178 976 1
+1016 19 1
+353 179 1
+270 965 1
+129 9 1
+954 67 1
+192 1328 1
+285 785 1
+1299 426 1
+657 965 1
+2 472 1
+1329 621 1
+1093 122 1
+38 647 1
+1120 76 1
+353 446 1
+608 105 1
+678 222 1
+838 45 1
+497 1200 1
+1150 566 1
+639 1330 1
+892 738 1
+929 892 1
+91 154 1
+726 176 1
+1096 244 1
+847 350 1
+1028 310 1
+923 173 1
+605 314 1
+1305 73 1
+896 331 1
+1236 74 1
+987 202 1
+491 1031 1
+1202 407 1
+196 355 1
+556 105 1
+540 347 1
+100 127 1
+656 655 1
+110 678 1
+1114 424 1
+138 903 1
+437 752 1
+132 564 1
+415 179 1
+894 52 1
+58 392 1
+966 793 1
+280 264 1
+807 987 1
+395 174 1
+415 158 1
+765 11 1
+1120 424 1
+99 877 1
+905 690 1
+803 975 1
+983 574 1
+29 461 1
+214 354 1
+173 693 1
+370 673 1
+28 810 1
+83 213 1
+110 222 1
+1331 423 1
+206 23 1
+277 417 1
+210 336 1
+449 19 1
+205 148 1
+1070 498 1
+764 408 1
+1202 280 1
+241 423 1
+551 9 1
+303 179 1
+5 4 1
+732 220 1
+915 459 1
+484 775 1
+782 565 1
+696 266 1
+163 501 1
+1178 454 1
+173 621 1
+581 681 1
+931 90 1
+418 657 1
+662 328 1
+1229 1332 1
+602 536 1
+1333 938 1
+526 213 1
+299 146 1
+43 877 1
+533 500 1
+745 1028 1
+508 211 1
+1059 1334 1
+965 543 1
+735 637 1
+447 444 1
+391 397 1
+1021 463 1
+312 615 1
+196 763 1
+944 1019 1
+703 968 1
+1093 78 1
+1150 282 1
+1335 1208 1
+488 245 1
+1007 38 1
+326 591 1
+724 222 1
+211 108 1
+38 310 1
+59 46 1
+71 808 1
+843 1336 1
+1266 289 1
+109 84 1
+658 353 1
+1085 195 1
+508 169 1
+692 577 1
+966 260 1
+742 11 1
+510 84 1
+1016 898 1
+43 878 1
+1137 19 1
+628 463 1
+183 331 1
+131 262 1
+38 293 1
+633 810 1
+645 771 1
+906 38 1
+131 815 1
+482 652 1
+26 1062 1
+914 158 1
+991 158 1
+856 74 1
+104 154 1
+463 111 1
+1337 446 1
+517 899 1
+177 108 1
+38 227 1
+861 1144 1
+716 111 1
+129 154 1
+338 1117 1
+344 598 1
+734 1073 1
+362 500 1
+79 38 1
+212 83 1
+170 543 1
+99 285 1
+846 520 1
+1229 316 1
+466 478 1
+724 992 1
+137 222 1
+73 302 1
+786 53 1
+436 805 1
+352 46 1
+425 125 1
+62 812 1
+885 965 1
+985 595 1
+785 64 1
+73 1090 1
+230 132 1
+62 688 1
+190 543 1
+831 1338 1
+99 1063 1
+114 230 1
+258 808 1
+959 326 1
+385 30 1
+256 647 1
+73 1055 1
+49 595 1
+923 820 1
+653 50 1
+1017 506 1
+77 397 1
+1008 140 1
+931 935 1
+864 924 1
+896 648 1
+847 421 1
+1 393 1
+783 310 1
+385 23 1
+366 264 1
+399 1339 1
+432 280 1
+1236 494 1
+531 510 1
+1340 647 1
+0 810 1
+613 1202 1
+954 259 1
+353 204 1
+724 452 1
+297 432 1
+492 876 1
+663 1341 1
+448 965 1
+246 453 1
+713 11 1
+99 253 1
+1342 543 1
+230 278 1
+784 574 1
+528 402 1
+983 887 1
+679 954 1
+1343 949 1
+38 935 1
+151 64 1
+506 331 1
+909 1261 1
+684 172 1
+319 543 1
+201 63 1
+62 752 1
+222 543 1
+444 88 1
+578 154 1
+528 421 1
+313 1106 1
+672 278 1
+718 1344 1
+661 467 1
+209 236 1
+370 965 1
+299 393 1
+53 652 1
+32 1345 1
+360 536 1
+270 449 1
+269 1087 1
+232 203 1
+447 1009 1
+273 90 1
+236 681 1
+441 76 1
+418 370 1
+18 50 1
+503 907 1
+279 210 1
+642 158 1
+871 657 1
+360 38 1
+272 795 1
+571 347 1
+83 158 1
+395 572 1
+920 530 1
+211 264 1
+28 299 1
+338 102 1
+959 478 1
+344 59 1
+228 937 1
+697 161 1
+307 84 1
+144 314 1
+73 683 1
+99 1103 1
+1262 607 1
+1181 151 1
+28 145 1
+763 90 1
+294 211 1
+1273 584 1
+442 1346 1
+678 84 1
+669 1177 1
+578 1347 1
+856 595 1
+1027 350 1
+1348 880 1
+907 699 1
+223 545 1
+705 1315 1
+1027 193 1
+313 900 1
+386 245 1
+704 123 1
+1148 265 1
+138 152 1
+1021 464 1
+61 1108 1
+705 1165 1
+472 1177 1
+107 281 1
+589 899 1
+609 497 1
+381 1198 1
+33 361 1
+579 1349 1
+177 500 1
+384 483 1
+175 654 1
+749 266 1
+1259 1258 1
+936 105 1
+493 19 1
+1266 1099 1
+84 543 1
+859 618 1
+375 22 1
+1306 137 1
+384 46 1
+294 614 1
+391 146 1
+144 673 1
+98 186 1
+817 60 1
+713 765 1
+825 39 1
+38 564 1
+589 264 1
+528 450 1
+705 1161 1
+605 376 1
+682 1350 1
+1101 140 1
+514 303 1
+115 501 1
+276 1351 1
+442 765 1
+766 1063 1
+1240 393 1
+986 253 1
+38 251 1
+908 1352 1
+384 78 1
+38 1009 1
+617 716 1
+539 500 1
+574 108 1
+98 564 1
+170 497 1
+645 1353 1
+859 156 1
+567 347 1
+1172 794 1
+1099 349 1
+185 381 1
+216 1108 1
+258 1354 1
+99 1355 1
+169 192 1
+1041 890 1
+38 1356 1
+1047 467 1
+185 1124 1
+544 607 1
+885 117 1
+831 1357 1
+205 935 1
+770 88 1
+1019 971 1
+38 163 1
+393 616 1
+527 402 1
+939 385 1
+499 810 1
+793 427 1
+1018 1053 1
+626 427 1
+49 596 1
+1201 1358 1
+600 154 1
+449 166 1
+856 176 1
+804 686 1
+372 541 1
+401 178 1
+672 186 1
+491 1261 1
+192 111 1
+389 116 1
+879 330 1
+239 82 1
+492 461 1
+35 132 1
+185 1009 1
+177 211 1
+787 136 1
+613 1359 1
+939 23 1
+187 59 1
+944 52 1
+607 834 1
+924 111 1
+1342 520 1
+430 607 1
+549 604 1
+38 795 1
+624 19 1
+910 374 1
+137 51 1
+183 333 1
+822 274 1
+1360 371 1
+508 55 1
+761 1124 1
+443 956 1
+469 9 1
+286 712 1
+328 451 1
+624 64 1
+440 127 1
+68 193 1
+594 72 1
+433 1361 1
+419 647 1
+503 633 1
+99 293 1
+215 186 1
+42 578 1
+68 1362 1
+528 326 1
+40 39 1
+27 719 1
+463 1363 1
+595 350 1
+922 1364 1
+85 39 1
+932 313 1
+1365 963 1
+126 747 1
+908 767 1
+353 79 1
+539 336 1
+383 752 1
+1299 427 1
+33 52 1
+488 76 1
+386 90 1
+415 452 1
+250 607 1
+279 211 1
+387 229 1
+377 449 1
+216 698 1
+26 382 1
+585 614 1
+316 1366 1
+270 393 1
+158 1157 1
+441 700 1
+447 98 1
+672 231 1
+926 722 1
+652 647 1
+54 614 1
+567 949 1
+280 1367 1
+1146 732 1
+799 46 1
+513 330 1
+523 230 1
+950 1368 1
+192 620 1
+669 154 1
+491 1030 1
+1165 211 1
+162 699 1
+395 621 1
+607 211 1
+277 257 1
+432 211 1
+503 699 1
+211 280 1
+737 50 1
+138 1369 1
+582 354 1
+137 84 1
+746 612 1
+704 386 1
+497 452 1
+1262 818 1
+297 264 1
+119 80 1
+184 53 1
+266 50 1
+550 1013 1
+1021 467 1
+1255 243 1
+185 633 1
+138 721 1
+551 122 1
+305 39 1
+185 133 1
+89 578 1
+720 740 1
+59 24 1
+944 511 1
+852 161 1
+1370 1076 1
+348 558 1
+678 402 1
+247 152 1
+249 502 1
+494 1152 1
+152 202 1
+435 132 1
+996 421 1
+1081 627 1
+447 278 1
+390 417 1
+38 543 1
+466 680 1
+219 333 1
+192 280 1
+38 501 1
+475 614 1
+780 98 1
+742 328 1
+991 303 1
+585 432 1
+174 965 1
+343 654 1
+144 657 1
+87 493 1
+693 965 1
+172 684 1
+686 1198 1
+710 598 1
+17 82 1
+622 387 1
+1155 421 1
+902 1159 1
+1371 1372 1
+1027 1373 1
+1070 452 1
+466 1354 1
+383 1374 1
+100 141 1
+917 1375 1
+67 111 1
+874 567 1
+657 88 1
+591 1376 1
+317 955 1
+1334 1372 1
+408 46 1
+107 752 1
+1229 1272 1
+17 111 1
+483 24 1
+203 353 1
+276 238 1
+383 1134 1
+1008 38 1
+492 462 1
+1377 733 1
+585 280 1
+801 178 1
+107 85 1
+311 615 1
+788 771 1
+859 849 1
+173 543 1
+872 449 1
+590 872 1
+551 472 1
+1378 1379 1
+976 759 1
+1380 333 1
+694 227 1
+1096 1375 1
+487 940 1
+234 25 1
+516 179 1
+573 1118 1
+586 300 1
+294 607 1
+459 1381 1
+997 283 1
+248 50 1
+527 1382 1
+362 111 1
+38 88 1
+256 422 1
+613 1062 1
+177 362 1
+790 466 1
+482 819 1
+790 143 1
+754 59 1
+45 23 1
+389 607 1
+431 614 1
+859 863 1
+379 83 1
+838 8 1
+963 1365 1
+718 1226 1
+561 127 1
+131 907 1
+949 550 1
+78 30 1
+615 647 1
+1237 693 1
+56 56 1
+1155 716 1
+42 65 1
+735 1383 1
+1052 1384 1
+73 1385 1
+857 550 1
+1137 673 1
+753 472 1
+822 273 1
+958 707 1
+985 266 1
+770 1176 1
+901 221 1
+460 668 1
+539 389 1
+296 310 1
+692 686 1
+506 648 1
+547 1182 1
+1323 729 1
+63 293 1
+391 125 1
+965 572 1
+38 98 1
+377 1119 1
+799 23 1
+1058 160 1
+80 153 1
+527 1048 1
+1386 685 1
+420 904 1
+500 362 1
+1387 416 1
+433 1345 1
+73 621 1
+145 394 1
+32 136 1
+408 105 1
+749 660 1
+394 648 1
+588 171 1
+1005 261 1
+931 273 1
+270 145 1
+929 345 1
+459 325 1
+1340 542 1
+578 633 1
+463 108 1
+258 327 1
+289 485 1
+856 727 1
+529 1314 1
+791 849 1
+396 62 1
+469 472 1
+183 1 1
+395 146 1
+377 445 1
+609 83 1
+1388 1389 1
+1122 752 1
+779 98 1
+697 46 1
+144 965 1
+138 68 1
+573 236 1
+338 631 1
+764 91 1
+82 108 1
+604 1010 1
+962 1026 1
+181 422 1
+1304 44 1
+169 111 1
+38 519 1
+997 347 1
+229 243 1
+567 875 1
+435 638 1
+844 111 1
+75 1390 1
+855 752 1
+425 59 1
+84 361 1
+314 271 1
+99 509 1
+1033 452 1
+687 752 1
+962 134 1
+439 127 1
+423 111 1
+598 321 1
+39 243 1
+379 84 1
+633 499 1
+991 812 1
+327 11 1
+348 485 1
+101 156 1
+219 332 1
+332 1017 1
+1031 1391 1
+628 684 1
+66 259 1
+183 1392 1
+136 921 1
+38 1393 1
+204 1165 1
+395 417 1
+1079 1078 1
+319 39 1
+197 73 1
+690 1202 1
+1054 73 1
+150 575 1
+692 182 1
+187 154 1
+672 427 1
+1394 1264 1
+73 703 1
+1290 135 1
+789 543 1
+169 508 1
+1395 1396 1
+92 96 1
+38 472 1
+879 82 1
+516 1250 1
+185 686 1
+1305 1090 1
+1091 347 1
+590 1090 1
+378 378 1
+173 858 1
+72 16 1
+787 1397 1
+187 351 1
+163 638 1
+407 1043 1
+468 1028 1
+71 16 1
+1119 597 1
+901 1398 1
+907 638 1
+425 598 1
+375 161 1
+1399 483 1
+206 787 1
+750 935 1
+855 39 1
+197 985 1
+591 328 1
+290 427 1
+435 870 1
+910 190 1
+442 11 1
+120 310 1
+468 310 1
+75 1120 1
+679 987 1
+154 1400 1
+1058 397 1
+370 520 1
+20 1177 1
+29 23 1
+183 506 1
+819 1 1
+149 744 1
+241 1401 1
+1340 520 1
+270 146 1
+715 1155 1
+598 154 1
+116 210 1
+898 827 1
+592 1381 1
+131 900 1
+967 455 1
+583 1397 1
+150 956 1
+1182 553 1
+1244 222 1
+1242 74 1
+595 50 1
+566 1402 1
+1049 320 1
+1094 512 1
+564 186 1
+238 16 1
+776 49 1
+854 1122 1
+305 937 1
+185 38 1
+285 1397 1
+729 849 1
+495 510 1
+360 875 1
+247 141 1
+389 362 1
+847 1403 1
+393 647 1
+852 59 1
+69 1167 1
+856 1090 1
+295 570 1
+42 141 1
+283 347 1
+72 539 1
+42 810 1
+1299 423 1
+26 905 1
+412 98 1
+192 295 1
+817 1279 1
+806 458 1
+710 616 1
+164 596 1
+366 261 1
+362 108 1
+156 711 1
+531 1109 1
+367 154 1
+262 132 1
+908 451 1
+312 652 1
+1140 709 1
+528 548 1
+983 1404 1
+99 1405 1
+152 178 1
+395 62 1
+299 331 1
+18 339 1
+330 295 1
+360 1134 1
+170 610 1
+128 122 1
+294 517 1
+482 145 1
+278 564 1
+589 123 1
+762 834 1
+270 673 1
+223 123 1
+401 811 1
+526 543 1
+360 335 1
+931 795 1
+183 145 1
+136 83 1
+112 914 1
+682 33 1
+270 615 1
+71 1406 1
+384 23 1
+430 545 1
+1135 992 1
+923 929 1
+731 266 1
+241 1226 1
+1008 768 1
+1087 154 1
+861 843 1
+1407 775 1
+529 1191 1
+678 543 1
+1096 547 1
+397 392 1
+457 904 1
+275 274 1
+905 382 1
+701 1408 1
+149 239 1
+549 875 1
+540 396 1
+884 879 1
+782 99 1
+255 584 1
+1281 342 1
+620 111 1
+576 1094 1
+408 416 1
+540 195 1
+1 145 1
+377 1409 1
+1208 154 1
+418 872 1
+879 423 1
+276 381 1
+726 175 1
+684 467 1
+985 50 1
+71 594 1
+408 1173 1
+705 98 1
+1410 1369 1
+442 10 1
+697 352 1
+754 78 1
+288 1059 1
+254 397 1
+592 143 1
+181 427 1
+38 541 1
+183 332 1
+1411 154 1
+237 578 1
+932 38 1
+549 1412 1
+1016 304 1
+618 634 1
+534 108 1
+66 832 1
+457 1413 1
+136 510 1
+490 1030 1
+85 243 1
+741 657 1
+313 231 1
+211 427 1
+508 264 1
+16 108 1
+123 264 1
+444 935 1
+246 747 1
+838 46 1
+1048 844 1
+1414 1415 1
+932 131 1
+276 1062 1
+100 96 1
+1016 56 1
+423 427 1
+263 785 1
+29 455 1
+255 136 1
+514 510 1
+622 154 1
+1074 154 1
+383 264 1
+669 105 1
+406 749 1
+812 65 1
+497 84 1
+1348 548 1
+911 374 1
+981 711 1
+1010 520 1
+908 662 1
+119 66 1
+731 595 1
+444 564 1
+66 369 1
+1091 9 1
+60 204 1

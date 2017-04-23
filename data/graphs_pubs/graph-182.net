@@ -1,0 +1,380 @@
+*Vertices 153
+92 "Improving the k-NCN classification rule through heuristic modifications" 3
+115 "Segmenting handwritten Chinese characters based on heuristic merging of stroke bounding boxes and dynamic programming" 6
+54 "Fast String Matching Algorithms for Run-Length Coded Strings" 4
+97 "Experimental evaluation of expert fusion strategies" 21
+5 "Operations on binary images encoded as minimized Boolean functions" 3
+51 "Multidimensional curve classification using passing-through regions" 8
+78 "Unsupervised texture segmentation with one-step mean shift and boundary Markov random fields" 9
+32 "Point set pattern matching in 3-D" 6
+21 "Combination of neural and statistical algorithms for supervised classification of remote-sensing image" 26
+114 "Recognition-based handwritten Chinese character segmentation using a probabilistic Viterbi algorithm" 6
+138 "A connectionist expert system model for conflict resolution in unconstrained handwritten numeral recognition" 3
+85 "Modification of hough transform for object recognition using a 2-dimensional array" 3
+128 "Updating a priori information in fuzzy pattern recognition to improve classification performance" 4
+65 "Automatic watershed segmentation of randomly textured color images" 16
+111 "A neural matching algorithm for 3-D reconstruction from stereo pairs of linear images" 7
+45 "Relationship of Sum and Vote Fusion Strategies" 3
+24 "Complexity of Classification Problems and Comparative Advantages of Combined Classifiers" 20
+71 "Classifier Instability and Partitioning" 8
+132 "Feature selection algorithms for the generation of multiple classifier systems and their application to handwritten word recognition" 38
+4 "Operations on binary images represented by interpolation based bintrees" 5
+83 "A novel method for parameter estimation of digital arc" 5
+53 "Parallel Finding All Initial Palindromes and Periods of a String on Reconfigurable Meshes" 4
+41 "Curve skeletonization of surface-like objects in 3D images guided by voxel classification" 10
+66 "Cooperation of color pixel classification schemes and color watershed: a study for microscopic images" 19
+135 "A multiple point boundary smoothing algorithm, " 3
+39 "A Bayesian compatibility model for graph matching" 18
+100 "Error Rejection in Linearly Combined Multiple Classifiers" 12
+95 "Loop-free snakes for highly irregular object shapes" 4
+31 "On a metric distance between fuzzy sets" 5
+70 "Outliers in statistical pattern recognition and an application to automatic chromosome classification" 8
+121 "The Practical Performance Characteristics of Tomographically Filtered Multiple Classifier Fusion" 4
+84 "Modification of hough transform for circles and ellipses detection using a 2-dimensional array" 14
+2 "A comparative study of neural network based feature extraction paradigms" 18
+118 "A new local property of strong n-surfaces" 4
+7 "A new split-and-merge technique for polygonal approximation of chain coded curves" 10
+58 "Improvements on the linear discrimination technique with application to face recognition" 8
+59 "Face detection using discriminating feature analysis and Support Vector Machine" 23
+147 "New progressive image transmission based on quadtree and shading approach with resolution control" 2
+108 "An algorithm for detection of dominant points and polygonal approximation of digitized curves" 10
+63 "A Boolean characterization of three-dimensional simple points" 7
+104 "Accurate object localization in gray level images using the center of gravity measure: accuracy versus precision" 3
+60 "On the independence of rotation moment invariants" 25
+125 "Combining Fisher Linear Discriminants for Dissimilarity Representations" 11
+98 "Fusion of multiple classifiers for intrusion detection in computer networks" 7
+30 "On Hausdorff-like metrics for fuzzy sets" 5
+127 "An effective algorithm for the segmentation of digital plane curves - The isoparametric formulation" 2
+93 "Combining neural networks, fuzzy sets, and the evidence theory based techniques for detecting colour specks" 7
+42 "A parallel thinning algorithm for medial surfaces" 10
+3 "High speed associative memories for feature extraction and visualisation" 4
+72 "Spectral technique for hidden layer neural network training" 14
+28 "An experimental comparison of neural and statistical non-parametric algorithms for supervised classification of remote-sensing images" 13
+13 "Effectiveness of Error Correcting Output Codes in Multiclass Learning Problems" 15
+91 "On Combining Dissimilarity Representations" 6
+35 "An adaptive smoothing approach for fitting digital planar curves with line segments and circular arcs" 8
+34 "A dynamic programming approach for fitting digital planar curves with line segments and circular arcs" 10
+102 "Data Complexity Analysis for Classifier Combination" 17
+87 "Coarse classification of Chinese characters via stroke clustering method" 3
+107 "Human Face Detection in Digital Video Using SVMEnsemble" 7
+122 "Evaluation of pattern classifiers - Applying a Monte Carlo significance test to the classification efficiency" 1
+151 "Frontal-view face detection and facial feature extraction using color, shape and symmetry based cost functions" 31
+77 "Combining multiple classifiers based on third-order dependency for handwritten numeral recognition*1" 2
+149 "A note on core research issues for statistical pattern recognition" 5
+44 "Analysis of Linear and Order Statistics Combiners for Fusion of Imbalanced Classifiers" 17
+10 "An efficient algorithm for the optimal polygonal approximation of digitized curves" 8
+88 "Text information extraction in images and video: a survey" 16
+69 "Support vector domain description" 27
+131 "Floating search methods in feature selection" 27
+81 "On Combining One-Class Classifiers for Image Database Retrieval" 6
+152 "Frontal-view face detection and facial feature extraction using color and morphological operations" 8
+64 "Linear Combiners for Classifier Fusion: Some Theoretical and Experimental Results" 13
+101 "Reject option with multiple thresholds" 14
+74 "On a relation between graph edit distance and maximum common subgraph" 32
+124 "Boosting in Linear Discriminant Analysis" 16
+11 "An automatic and efficient dynamic programming algorithm for polygonal approximation of digital curves" 6
+75 "A graph distance metric based on the maximal common subgraph" 48
+46 "An approach to the automatic design of multiple classifier systems" 20
+29 "Classification of imbalanced remote-sensing data by neural networks" 3
+67 "Dynamic Classifier Selection" 20
+144 "Triangular spatial relationship: a new approach for spatial knowledge representation" 4
+126 "Selective partition algorithm for finding regions of maximum pairwise dissimilarity among statistical class models" 2
+50 "Effect of noise on generalisation in massively parallel fuzzy systems" 16
+57 "Robust coding schemes for indexing and retrieval from large face databases" 31
+52 "On retrieving textured images from an image database" 27
+8 "Point pattern matching algorithm invariant to geometrical transformation and distortion" 8
+20 "Application of neural networks and statistical pattern recognition algorithms to earthquake risk evaluation" 5
+103 "Recognition of radiopaque markers in X-ray images using a neural network as nonlinear filter" 7
+90 "Combining multiple classifiers by averaging or by multiplying?" 34
+99 "An experimental analysis of the dependence among codeword bit errors in ECOC learning machines" 36
+79 "Extracting facial features by an inhibitory mechanism based on gradient distributions" 57
+14 "Discrete shading of three-dimensional objects from medial axis transform" 4
+86 "On the General Application of the Tomographic Classifier Fusion Methodology" 4
+139 "O(1)-time parallel string-matching algorithm with VLDCs" 3
+133 "Building Diverse Classifier Outputs to Evaluate the Behavior of Combination Methods: The Case of Two Classifiers" 6
+37 "Fast computation of cross-sections of 3D objects from their Medial Axis Transforms" 2
+25 "Efficient training and improved performance of multilayer perceptron in pattern classification" 3
+141 "Skeletons from dot patterns: A neural network approach" 2
+22 "Determination of optimal polygon from digital curve using L1 norm" 15
+73 "Color image compression using quantization, thresholding, and edge detection techniques all based on the moment-preserving principle" 4
+43 "An Experimental Comparison of Classifier Fusion Rules for Multimodal Personal Identity Verification Systems" 12
+17 "Eight-point discrete Hartley transform as an edge operator and its interpretation in the frequency domain" 3
+123 "Evaluation of pattern classifiers -- Testing the significance of classification efficiency using an exact probability technique" 1
+38 "Use of medial axis transforms for computing normals at boundary points" 4
+106 "Self-organizing neural networks based on spatial isomorphism for active contour modeling" 11
+12 "Coding and decoding strategies for multi-class learning problems" 25
+96 "A contour detection method: Initialization and contour model" 8
+143 "Efficient Detection of Spurious Inputs for Improving the Robustness of MLP Networks in Practical Applications" 5
+136 "Construction of partitioning paths for touching handwritten characters" 4
+1 "Quantifying Structural Time Varying Changes in Helical Data" 12
+15 "On approximating Euclidean metrics by digital distances in 2D and 3D" 6
+33 "Faster point set pattern matching in 3-D" 4
+16 "One-dimensional frequency domain interpretation of compass roof edge and Frei-Chen line masks" 3
+119 "Local characterization of strong surfaces within strongly separating objects" 4
+6 "Improving fitting quality of polygonal approximation by using the dynamic programming technique" 18
+112 "Local stereovision matching through the ADALINE neural network" 12
+110 "Multiple Classifier Combination Methodologies for Different Output Levels" 25
+109 "Machine recognition of optically captured machine printed arabic text" 1
+49 "Preclassification of handwritten Chinese characters based on basic stroke substructures" 2
+146 "Fast algorithms for basic processing and analysis operations on block-represented binary images" 2
+150 "An iterative solution for object pose parameters using image moments" 3
+130 "Address block location on envelopes using Gabor filters" 23
+105 "Locating and extracting the eye in human face images" 13
+36 "Boolean function-based approach for encoding of binary images" 4
+61 "Statistical pattern recognition using efficient two-dimensional moments with applications to character recognition" 2
+89 "Automatic document processing: A survey" 19
+117 "Expected classification error of the Fisher linear classifier with pseudo-inverse covariance matrix" 17
+80 "A region-based image database system using colour and texture" 7
+129 "Fast location of address blocks and postcodes in mail-piece images" 3
+48 "Modified region decomposition method and optimal depth decision tree in the recognition of non-uniform sized characters - An experimentation with Kannada characters" 5
+148 "A progressively predictive image pyramid for efficient lossless coding" 2
+120 "Serial Multiple Classifier Systems Exploiting a Coarse to Fine Output Coding" 3
+27 "A comparison of clustering algorithms applied to color image quantization" 11
+56 "A new hybrid approach in combining multiple experts to recognise handwritten numerals" 17
+113 "A Modular Multiple Classifier System for the Detection of Intrusions in Computer Networks" 5
+140 "Medial axis transform-based features and a neural network for human chromosome classification" 4
+94 "Some aspects of Dempster-Shafer evidence theory for classification of multi-modality medical images taking partial volume effect into account" 10
+55 "Automatic recognition of handwritten data on cheques - Fact or fiction?" 12
+62 "Topology preservation in 3D digital space" 7
+76 "Optimal approximation of discrete probability distribution with kth-order dependency and its application to combining multiple classifiers" 6
+137 "Classifier Combinations: Implementations and Theoretical Issues" 9
+18 "A genetic c-Means clustering algorithm applied to color image quantization" 13
+19 "An adaptive clustering algorithm for color quantization" 8
+0 "2D spiral pattern recognition with possibilistic measures" 12
+23 "Methods for Designing Multiple Classifier Systems" 16
+145 "Archival and retrieval of symbolic images: An invariant scheme based on triangular spatial relationship" 9
+116 "Combining flat and structured representations for fingerprint classification with recursive neural networks and support vector machines" 22
+40 "An Energy Function and Continuous Edit Process for Graph Matching" 12
+142 "Computing the shape of a point set in digital images" 3
+82 "Variance projection function and its application to eye detection for human face recognition" 8
+47 "Detection of significant points and polygonal approximation of digitized curves" 4
+9 "Robust matching process: a dominant point approach" 3
+68 "Least Squares and Estimation Measures via Error Correcting Output Code" 7
+26 "A new definition of neighborhood of a point in multi-dimensional space" 6
+134 "The Behavior Knowledge Space Fusion Method: Analysis of Generalization Error and Strategies for Performance Improvement" 8
+*Edges 225
+0 1 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 15 1
+16 17 1
+18 19 1
+20 21 1
+22 11 1
+23 24 1
+25 26 1
+19 27 1
+28 29 1
+30 31 1
+32 33 1
+34 35 1
+4 36 1
+37 38 1
+39 40 1
+41 42 1
+22 34 1
+43 44 1
+3 2 1
+45 12 1
+28 21 1
+21 46 1
+47 6 1
+48 49 1
+50 1 1
+14 37 1
+51 52 1
+53 54 1
+55 56 1
+57 58 1
+59 57 1
+17 16 1
+60 61 1
+62 63 1
+44 64 1
+65 66 1
+21 67 1
+11 6 1
+7 6 1
+68 12 1
+69 70 1
+71 72 1
+73 19 1
+61 60 1
+33 32 1
+74 75 1
+21 20 1
+12 68 1
+76 77 1
+66 65 1
+78 79 1
+29 28 1
+80 81 1
+82 83 1
+46 23 1
+54 53 1
+84 85 1
+21 29 1
+56 86 1
+19 73 1
+48 87 1
+88 89 1
+90 91 1
+23 21 1
+92 26 1
+37 14 1
+93 94 1
+81 69 1
+31 30 1
+95 96 1
+56 97 1
+21 98 1
+46 21 1
+13 99 1
+38 15 1
+100 101 1
+24 102 1
+103 104 1
+105 106 1
+21 107 1
+100 21 1
+5 4 1
+6 108 1
+109 60 1
+76 110 1
+111 112 1
+113 44 1
+114 115 1
+116 21 1
+90 117 1
+118 119 1
+56 120 1
+42 41 1
+87 48 1
+35 22 1
+121 56 1
+122 123 1
+102 24 1
+15 14 1
+124 125 1
+6 11 1
+64 44 1
+79 78 1
+126 56 1
+127 6 1
+1 0 1
+128 50 1
+13 12 1
+11 10 1
+67 21 1
+119 118 1
+72 71 1
+91 90 1
+56 126 1
+22 7 1
+19 18 1
+0 128 1
+129 130 1
+21 116 1
+12 45 1
+6 22 1
+85 84 1
+15 38 1
+131 132 1
+90 133 1
+134 110 1
+5 36 1
+108 6 1
+120 56 1
+113 21 1
+21 113 1
+135 136 1
+132 110 1
+137 138 1
+110 76 1
+139 53 1
+60 109 1
+50 128 1
+97 56 1
+104 103 1
+112 111 1
+49 48 1
+140 2 1
+133 90 1
+141 142 1
+58 57 1
+9 8 1
+143 56 1
+14 38 1
+81 80 1
+94 93 1
+101 100 1
+110 132 1
+56 55 1
+106 105 1
+36 5 1
+98 21 1
+57 59 1
+136 135 1
+38 37 1
+22 35 1
+21 100 1
+123 122 1
+144 145 1
+4 146 1
+99 13 1
+36 4 1
+147 148 1
+149 24 1
+83 82 1
+110 134 1
+150 60 1
+44 43 1
+6 47 1
+107 21 1
+26 92 1
+146 4 1
+22 6 1
+11 22 1
+125 117 1
+53 139 1
+96 95 1
+7 22 1
+115 114 1
+148 147 1
+56 143 1
+26 25 1
+24 23 1
+24 149 1
+86 56 1
+128 0 1
+151 152 1
+145 144 1
+2 140 1
+38 14 1
+132 131 1
+125 124 1
+29 21 1
+1 50 1
+44 113 1
+34 22 1
+60 150 1
+6 127 1
+77 76 1
+21 23 1
+69 81 1
+27 19 1
+152 151 1
+56 121 1
+21 28 1
+63 62 1
+70 69 1
+130 129 1
+75 74 1
+23 46 1
+35 34 1
+138 137 1
+40 39 1

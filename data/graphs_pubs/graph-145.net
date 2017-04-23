@@ -1,0 +1,428 @@
+*Vertices 171
+39 "On Subsumption and Instance Problem in ELH w.r.t. General TBoxes" 11
+100 "Where Are the Semantics in the Semantic Web?" 11
+48 "What's not in a name: Some Properties of a Purely Structural Approach to Integrating Large DL Knowledge Bases" 19
+57 "Activity Model: A Declarative Approach for Capturing Communication Behavior in Object-Oriented Databases" 6
+89 "On Domain-Specific Declarative Knowledge Representation and Database Languages" 1
+132 "Syntactic-semantic tagging as a mediator between linguistic representations and formal models: an exercise in linking SNOMED to GALEN" 2
+51 "Towards the Systematic Development of Description Logic Reasoners: CLASP Reconstructed" 1
+81 "Comparing Subsumption Optimizations" 19
+3 "Incremental Query Answering for Implementing Document Retrieval Services" 10
+15 "An intelligent assistant for interactive workflow composition" 12
+118 "TBoxes do not Yield a Compact Representation of Least Common Subsumers" 7
+36 "Ontology of Integration and Integration of Ontologies" 38
+86 "Explaining ALC Subsumption" 10
+150 "Generating Random Benchmarks for Description Logics" 9
+133 "A Temporal Description Logic for Reasoning about Actions and Plans" 1
+1 "InfoHarness: Use of Automatically Generated Metadata for Search and Retrieval of Heterogeneous Information" 1
+52 "High Performance Reasoning with Very Large Knowledge Bases" 18
+146 "CLASP: Integrating Term Subsumption Systems and Production Systems" 1
+85 "Optimizing Reasoning in Description Logics with Qualified Number Restrictions" 7
+145 "Rewriting of Regular Expressions and Regular Path Queries" 6
+136 "Integrating Ontology Languages and Answer Set Programming" 19
+128 "The Generation of DAML+OIL" 16
+112 "The Web Service Modeling Framework WSMF" 44
+105 "A Database Needs Two Kinds of Negation" 1
+140 "Computing Least Common Subsumers for FLE+" 6
+45 "On Wrapping Query Languages and Efficient XML Integration" 2
+54 "Performance of DLP on Random Modal Formulae" 7
+141 "Knowledge Base Management Systems using Description Logics and Their Role in Software Information Systems" 1
+92 "Structured Objects: Modeling and Reasoning" 3
+53 "DLP System Description" 48
+37 "What have the Romans (and Germans) ever done for us? or There are real applications for Description Logics some of which even take advantage of their reasoning services" 6
+29 "Adapting Optimization Techniques to Description Logics with Concrete Domains" 11
+72 "Reasoning with Black Boxes: Handling Test Concepts in CLASSIC" 1
+95 "Decidable Reasoning in Terminological Knowledge Representation Systems" 2
+149 "Making an ABox Persistent" 3
+78 "An Approach to Using XML and a Rule-Based Content Language with an Agent Communication Language" 4
+166 "Adding Epistemic Operators to Concept Languages" 1
+170 "Semantic Constraints in a Medical Information System" 1
+162 "On the Difference between Bridge Rules and Lifting Axioms" 10
+137 "Integrating Semantic Web Reasoning and Answer Set Programming" 20
+11 "On Decidability and Complexity of Description Logics with Uniqueness Constraints" 9
+91 "On the Decidability of Query Containment under Constraints" 5
+157 "Semantics-Based Information Brokering" 2
+114 "Answering Regular Path Queries Using Views" 3
+111 "A Conceptual Architecture for Semantic Web Enabled Web Services" 23
+66 "A New Application for Description Logics: Disaster Management" 4
+169 "An Essay on the Role and Evolution of Data(base) Semntics" 1
+107 "Modelling Constraints with Exceptions in Object-Oriented Databases" 0
+108 "Constraint Maintenance using Generated Methods in the P/FDM Object-Oriented Database" 8
+17 "Optimizing TBox and ABox Reasoning with Pseudo Models" 9
+130 "Combining Tableaux and Algebraic Methods for Reasoning with Qualified Number Restrictions" 5
+154 "Deductive Data Mining: Uncertainty Measures for Banding the Search Space" 1
+42 "Obstacles on the Way to Qualitative Spatial Reasoning with Description Logics: Some Undecidability Results" 10
+40 "The GRAIL concept modelling language for medical terminology" 76
+35 "Knowledge Representation on the Web" 25
+123 "The Instance Store: DL Reasoning with Large Numbers of Individuals" 20
+79 "Representing e-commerce rules via situated courteous logic programs in RuleML" 10
+96 "Schemas for Telling Stories in Medical Records" 0
+34 "Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach" 8
+6 "Semantic Integration of Semistructured and Structured Data Sources" 82
+58 "KRDB '98: The 5th International Workshop on Knowledge Representation Meets Databases" 25
+30 "Description of the RACER System and its Applications" 71
+9 "Efficient Reasoning with Range and Domain Constraints" 15
+69 "Unification in a Description Logic with Transitive Closure of Roles" 15
+160 "Reasoning About Equations and Functional Dependencies on Complex Objects" 5
+75 "Rule-based agents for the semantic web" 8
+43 "Consistency Checking in Complex Object Database Schemata with Integrity Constraints" 0
+8 "Reducing OWL Entailment to Description Logic Satisfability" 26
+143 "CoLan: A Functional Constraint Language and its Implementation" 2
+38 "Graphical Interfaces for Racer: Querying DAML+OIL and RDF Documents" 8
+98 "From Structured Documents to Novel Query Facilities" 46
+68 "The Complexity of Concept Languages" 7
+161 "Description Logic Framework for Information Integration" 1
+2 "The DIG Description Logic Interface" 17
+119 "Using Lazy Unfolding for the Computation of Least Common Subsumers" 9
+164 "Answering Queries Using Views in Description Logics" 3
+124 "Report on the EDBT'02 Panel on Scientific Data Integration" 6
+121 "Transparent access to multiple bioinformatics information sources" 29
+77 "The Limits on Combining Recursive Horn Rules with Description Logics" 3
+88 "A Correspondence Theory for Terminological Logics: Preliminary Report" 1
+99 "Structural Subsumption Considered from an Automata-Theoretic Point of View" 11
+71 "ODB-QOPTIMIZER: A Tool for Semantic Query Optimization in OODB" 1
+127 "DL Reasoner vs. First-Order Prover" 14
+16 "An Empirical Evaluation of Optimization Strategies for ABox Reasoning in Expressive Description Logics" 7
+41 "Restricted Role-value-maps in a Description Logic with Existential Restrictions and Terminological Cycles" 11
+4 "Description Logics in Data Management" 6
+25 "DL-Lite: Practical Reasoning for Rich Dls" 97
+116 "A declarative approach to business rules in contracts: courteous logic programs in XML" 86
+82 "AIM: a personal view of where I have been and where we might be going" 10
+109 "Semantic Issues in Multidatabase Systems - Preface by the Special Issue Editor" 9
+76 "A Graphical Rule Authoring Tool for Defeasible Reasoning in the Semantic Web" 13
+49 "Investigating Implicit Knowledge in Ontologies with Application to the Anatomical Domain" 11
+159 "G-KARL: A Graphical, Formal, and Executable Specification Language" 1
+165 "Terminological Cycles in KL-ONE-based Knowledge Representation Languages" 1
+125 "Dynamic web page authoring by example using ontology-based domain knowledge" 20
+27 "ESpotter: Adaptive Named Entity Recognition for Web Browsing" 3
+55 "Implementing Matching in ALE--First Results" 15
+73 "Spatioterminological Reasoning: Subsumption Based on Geometrical Inferences" 12
+167 "Term Subsumption Languages in Knowledge Representation" 2
+155 "A Theory of Specialization Constraints for Complex Objects" 1
+59 "What can Knowledge Representation do for Semi-Structured Data?" 5
+152 "Abstract temporal diagnosis in medical domains" 15
+10 "On Attributes, Roles, and Dependencies in Description Logics and the Ackermann Case of the Decision Problem" 20
+131 "An Empirical Analysis of Optimization Techniques for Terminological Representation Systems, or Making KRIS Get a Move On" 1
+13 "Web Metadata: A Matter of Semantics" 28
+117 "Trusting Answers from Web Applications" 19
+139 "CARIN: A Representation Language Combining Horn Rules and Description Logics" 2
+62 "Rewriting Queries Using Views in Description Logics" 5
+67 "A Description Logic Model for Reacting in a Dynamic Environment" 5
+148 "PRACTIC: A Concurrent Object Data Model for a Parallel Object-Oriented Database System" 1
+147 "RDFS(FA): A DL-ised Sub-language of RDFS" 11
+64 "Extending Conceptual Logic Programs with Arbitrary Rules" 10
+21 "A Proposal for a Description Logic Interface" 34
+56 "The Building Blocks for Specifying Communication Behavior of Complex Objects: An Activity-Driven Approach" 2
+94 "On the Interaction Between ISA and Cardinality Constraints" 2
+7 "MIKS : An Agent Framework Supporting Information Access and Integration" 40
+33 "Semantic Interoperability in Global Information Systems: A Brief Introduction to the Research Area and the Special Section" 24
+70 "Description Logics Emerge from Ivory Towers" 12
+26 "Mining Web Data for Competency Management" 10
+5 "On Taxonomic Reasoning in Conceptual Design" 14
+90 "Implementing an ALCRP(D) ABox Reasoner - Progress Report" 11
+115 "e-Service Composition by Description Logics Based Reasoning" 14
+135 "OBSERVER: An Approach for Query Processing in Global Information Systems based on Interoperation across Pre-existing Ontologies" 5
+60 "A SAT-Based Algorithm for Context Matching" 19
+93 "On the Relative Expressiveness of Description Logics and Predicate Logics" 5
+106 "Logic Programming with Strong Negation and Inexact Predicates" 1
+24 "Explanation of Terminological Reasoning: A Preliminary Report" 11
+138 "Learning Composite Concepts" 10
+84 "On Terminological Default Reasoning about Spatial Information: Extended Abstract" 17
+87 "Reasoning about Functional Dependencies Generalized for Semantic Data Models" 11
+158 "The Knowledge Acquisition and Representation Language KARL" 0
+28 "A Unified Framework for Class-Based Representation Formalisms" 5
+144 "A Note on Encoding Inverse Roles and Functional Restrictions in ALC Knowledge Bases" 10
+134 "Unpacking The Semantics of Source and Usage To Perform Semantic Reconciliation In Large-Scale Information Systems" 9
+129 "Answering Conjunctive Queries over DL Aboxes: A Preliminary Report" 20
+122 "Driving User Interfaces from FaCT" 6
+102 "Assertional Mining in Description Logics" 5
+44 "Path Constraints for Graph-Based Data Models: Towards a Unified Theory of Typing Constraints, Equations, and Functional Dependencies" 4
+97 "A Descriptive Semantic Formalism for Medicine" 2
+103 "Description Logics for Conceptual Data Modeling" 4
+83 "Reasoning on UML Class Diagrams is EXPTIME-hard" 23
+113 "View-Based Query Processing for Regular Path Queries with Inverse" 2
+14 "User studies of an interdependency-based interface for acquiring problem-solving knowledge" 13
+23 "Part-of Relations in Anatomy Ontologies: A Proposal for RDFS and OWL Formalisations" 10
+74 "TBox Acquisition and Information Theory" 5
+168 "The Role of Common Ontology in Achieving Sharable, Reusable Knowledge Bases" 4
+47 "Matching in Description Logics with Existential Restrictions" 12
+46 "Evaluating Queries with Generalized Path Expressions" 12
+12 "Framework for the Semantic Web: An RDF Tutorial" 7
+22 "A Methodology to Migrate the Gene Ontology to a Description Logic Environment Using DAML+OIL" 6
+50 "Managing Multiple Information Sources through Ontologies: Relationship between Vocabulary Heterogeneity and Loss of Information" 3
+126 "An Authoring Tool for Building Adaptive Learning Guidance Systems on the Web" 1
+32 "Combining Terminological Logics with Tense Logic" 1
+63 "A Semantics and Complete Algorithm for Subsumption in the CLASSIC Description Logic" 2
+163 "Two Formalizations of Context: A Comparison" 13
+101 "A Description Logic System for Learning in Complex Domains" 5
+18 "Description Logics and Their Relationships with Databases" 1
+65 "On The Relationship Between Description Logic and Predicate Logic" 1
+104 "Automatic Building and Validation of Multiple Inheritance Complex Complex Object Database Schemata" 5
+0 "InfoHarness: A System for Search and Retrieval of Heterogeneous Information" 1
+156 "A Tableau-Based Federated Reasoning Algorithm for Modular Ontologies" 9
+110 "ALCRA - ALC with Role Axioms" 1
+31 "Temporal ER Modeling with Description Logics" 0
+142 "Subsumption for Complex Object Data Models" 4
+19 "A Formal Definition for the Expressive Power of Terminological Knowledge Representation Languages" 2
+80 "Matchmarking Using an Instance Store: Some Preliminary Results" 6
+151 "A Practically Implementable and Tractable Delegation Logic" 42
+20 "FaCT and iFaCT" 47
+153 "Knowledge-based temporal abstraction in clinical domains" 112
+120 "Making Object-Oriented Schemas More Expressive" 7
+61 "Loading Data into Description Reasoners" 5
+*Edges 255
+0 1 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 15 1
+16 17 1
+18 19 1
+20 21 1
+22 23 1
+24 25 1
+26 27 1
+18 28 1
+29 30 1
+31 32 1
+33 34 1
+35 36 1
+21 37 1
+38 2 1
+39 40 1
+41 42 1
+43 44 1
+37 35 1
+45 46 1
+23 22 1
+11 10 1
+38 25 1
+47 48 1
+49 40 1
+34 50 1
+4 51 1
+52 17 1
+53 54 1
+55 47 1
+56 57 1
+58 59 1
+31 28 1
+6 60 1
+4 61 1
+62 63 1
+30 2 1
+30 64 1
+4 65 1
+66 67 1
+5 68 1
+69 69 1
+70 40 1
+53 21 1
+6 71 1
+72 73 1
+30 74 1
+75 76 1
+22 25 1
+62 77 1
+18 4 1
+78 79 1
+80 81 1
+40 82 1
+73 72 1
+35 8 1
+7 6 1
+83 84 1
+85 30 1
+86 25 1
+21 20 1
+43 87 1
+4 88 1
+40 37 1
+58 89 1
+53 40 1
+24 86 1
+90 20 1
+91 92 1
+9 8 1
+90 54 1
+62 93 1
+60 6 1
+94 95 1
+2 21 1
+96 97 1
+46 98 1
+99 99 1
+100 33 1
+20 2 1
+61 5 1
+101 102 1
+18 103 1
+17 29 1
+4 28 1
+71 104 1
+52 30 1
+105 106 1
+30 52 1
+107 108 1
+53 70 1
+18 62 1
+34 109 1
+40 53 1
+15 14 1
+110 42 1
+111 112 1
+40 39 1
+31 103 1
+18 59 1
+113 114 1
+115 30 1
+116 79 1
+86 117 1
+118 119 1
+54 53 1
+33 100 1
+43 120 1
+43 68 1
+21 2 1
+40 121 1
+122 40 1
+8 123 1
+4 63 1
+121 124 1
+69 47 1
+40 122 1
+34 61 1
+125 126 1
+127 128 1
+20 90 1
+21 122 1
+2 20 1
+112 111 1
+53 129 1
+37 21 1
+70 53 1
+4 104 1
+130 85 1
+4 131 1
+82 132 1
+8 25 1
+31 133 1
+37 40 1
+76 75 1
+20 70 1
+48 47 1
+117 86 1
+35 37 1
+120 68 1
+42 110 1
+134 34 1
+17 16 1
+34 135 1
+136 137 1
+138 102 1
+85 130 1
+122 37 1
+20 53 1
+6 104 1
+18 139 1
+140 69 1
+120 94 1
+94 68 1
+54 90 1
+53 25 1
+113 62 1
+122 21 1
+130 30 1
+132 82 1
+4 141 1
+43 104 1
+43 142 1
+70 20 1
+107 143 1
+128 127 1
+20 144 1
+145 98 1
+18 93 1
+4 146 1
+145 62 1
+128 147 1
+30 130 1
+129 53 1
+36 35 1
+107 148 1
+149 150 1
+124 121 1
+3 2 1
+47 55 1
+43 28 1
+151 116 1
+2 25 1
+152 153 1
+67 66 1
+121 40 1
+58 154 1
+42 41 1
+137 136 1
+30 85 1
+45 98 1
+47 69 1
+64 30 1
+13 12 1
+62 4 1
+82 40 1
+2 38 1
+116 151 1
+155 87 1
+145 91 1
+17 52 1
+156 25 1
+126 125 1
+34 157 1
+81 80 1
+158 159 1
+43 160 1
+147 128 1
+29 17 1
+18 161 1
+162 163 1
+142 5 1
+102 101 1
+113 164 1
+142 165 1
+2 30 1
+160 87 1
+113 145 1
+150 149 1
+4 166 1
+4 68 1
+79 78 1
+123 8 1
+21 53 1
+74 30 1
+136 136 1
+153 152 1
+40 70 1
+69 140 1
+144 20 1
+163 162 1
+146 167 1
+43 5 1
+102 138 1
+53 20 1
+33 168 1
+119 118 1
+30 29 1
+30 115 1
+33 169 1
+86 24 1
+79 116 1
+27 26 1
+96 170 1
+37 122 1
+40 49 1
+85 85 1
+18 91 1
+8 35 1

@@ -1,0 +1,185 @@
+*Vertices 86
+20 "Ant Colony Optimization and Stochastic Gradient Descent" 15
+62 "Uncertainty measures associated with fuzzy rules for connection admission control in ATM Networks" 1
+70 "Classifiers: A Theoretical and Empirical Study" 1
+31 "Constructor: A System for the Induction of Probabilistic Models" 2
+84 "Probabilistic Horn Abduction and Bayesian Networks" 2
+50 "Combining Configurational and Statistical Approaches in Image Retrieval" 2
+76 "Resample and combine: an approach to improving uncertainty representation in evidential pattern classification" 12
+68 "Database Mining in the Architecture of a Semantic Preprocessor for State Aware Query Optimization" 2
+77 "Presentation and description of two classification methods using data fusion based on sensor management" 2
+32 "Operations for Learning with Graphical Models" 1
+83 "A Hybrid Framework for Representing Uncertain Knowledge" 1
+5 "A Probabilistic Object-Oriented Data Model" 2
+59 "The Computational Complexity of Probabilistic Inference Using Bayesian Belief Networks" 4
+38 "Epistemic Entrenchment and Possibilistic Logic" 1
+45 "Decision Analysis and Expert Systems" 1
+33 "A Bayesian Method for Learning Belief Networks that Contain Hidden Variables" 1
+36 "Forecasting market demand for new telecommunications services: an introduction" 7
+53 "Model-based diagnosis: A probabilistic extension" 2
+82 "An Empirical Performance Study of the Ingres Search Accelerator for a Large Property Management Database System" 0
+43 "Modeling Individual and Collaborative Problem Solving in Medical Problem-Based Learning" 14
+67 "Value-Added Databases: Knowledge Discovery and Evidential Reasoning (Invited Paper)" 0
+65 "Using Probabilistic Information in Data Integration" 5
+74 "Graphical Models for Discivering Knowledge" 1
+73 "Bayesian network multi-classifiers for protein secondary structure prediction" 20
+57 "A Hybrid Model for Sharing Information Between Fuzzy, Uncertain and Default Reasoning Models in Multi-agent Systems" 60
+3 "A review of uncertainty handling formalisms" 49
+81 "A declarative approach to business rules in contracts: courteous logic programs in XML" 86
+58 "LSLNCF: A Hybrid Uncertain Reasoning Model Based on Probability" 1
+52 "Representing e-commerce rules via situated courteous logic programs in RuleML" 10
+49 "A dynamic pari-mutuel market for hedging, wagering, and information aggregation" 7
+24 "Bayesian networks in biomedicine and health-care" 7
+64 "Learning Bayesian networks for clustering by means of constructive induction" 18
+13 "AkBA: a progressive, anonymous-price combinatorial auction" 35
+1 "Towards Possibilistic Logic Programming" 4
+9 "Possibilistic Normalisation and Reasoning Under Partial Inconsistency" 1
+72 "Using Bayesian networks in the construction of a bi-level multi-classifier. A case study using intensive care unit patients data" 4
+69 "Nash Q-Learning for General-Sum Stochastic Games" 78
+18 "A Guide to the Literature on Learning Probabilistic Networks from Data" 0
+66 "P-CLASSIC: A Tractable Probablistic Description Logic" 1
+11 "New Measure of Classifier Dependency in Multiple Classifier Systems" 13
+28 "Multidimensional scaling of interval-valued dissimilarity data" 4
+80 "On the Use of the Dempster Shafer Model in Information Indexing and Retrieval Applications" 1
+4 "A Bayesian Method for the Induction of Probabilistic Networks from Data" 3
+60 "An ordinal approach to the processing of fuzzy queries with flexible quantifiers" 1
+16 "Alternative Representations of Discrete Fuzzy Measures for Decision Making" 9
+14 "An Open-Frame Theory of Incomplete Interval Probabilities" 3
+71 "Arguing about beliefs and actions" 22
+56 "Classifier selection for majority voting" 32
+17 "How to Improve Acts: An Alternative Representation of the Importance of Criteria in MCDM" 1
+51 "An Approach to Using XML and a Rule-Based Content Language with an Agent Communication Language" 4
+2 "A local handling of inconsistent knowledge and default bases" 1
+34 "Feature subset selection by genetic algorithms and estimation of distribution algorithms - A case study in the survival of cirrhotic patients treated with TIPS" 8
+47 "A Hybrid Approach for Modeling Uncertainty in Terminological Logics" 1
+78 "Bayesian Networks for Knowledge Discovery" 2
+41 "Filter versus wrapper gene selection approaches in DNA microarray domains" 10
+10 "Application of the Evolutionary Algorithms for Classifier Selection in Multiple Classifier Systems with Majority Voting" 39
+29 "An Alternative Approach to Computing with Words" 2
+79 "Possibilistic Logic, Preferential Models, Non-monotonicity and Related Issues" 1
+25 "Taxonomic and Uncertain Integrity Constraints in Object-Oriented Databases - the TOP Approach" 0
+48 "Betting boolean-style: a framework for trading in securities based on logical formulas" 20
+21 "Updating ACO Pheromones Using Stochastic Gradient Ascent and Cross-Entropy Methods" 14
+39 "Prioritised fuzzy constraint satisfaction problems: axioms, instantiation and validation" 69
+30 "The Application of Generalised Fuzzy Rules to Machine Learning and Automated Knowledge Discovery" 5
+44 "Background to and perspectives on possibilistic graphical models" 1
+54 "Autonomous Bidding Agents in the Trading Agent Competition" 32
+22 "Conjectural Equilibrium in Multiagent Learning" 33
+85 "Addendum to 'Current Approaches to Handling Imperfect Information in Data and Knowledge Bases" 0
+55 "Bid determination in simultaneous actions an agent architecture" 19
+61 "Representing Default Rules in Possibilistic Logic" 1
+12 "Combinatorial auctions for supply chain formation" 72
+35 "An evaluation of machine-learning methods for predicting pneumonia mortality" 8
+37 "Automated Reasoning Using Possibilistic Logic: Semantics, Belief Revision, and Variable Certainty Weights" 0
+27 "Clustering interval-valued proximity data using belief functions" 4
+40 "A fuzzy constraint satisfaction problem in the wine industry" 1
+7 "Unsupervised Learning Of Bayesian Networks Via Estimation Of Distribution Algorithms: An Application To Gene Expression Data Clustering" 2
+42 "A collaborative intelligent tutoring system for medical problem-based learning" 16
+63 "An improved Bayesian structural EM algorithm for learning Bayesian networks for clustering" 19
+15 "Bodies of Evidence Versus Simple Interval Probabilities" 1
+46 "Optimal Structure Identification With Greedy Search" 18
+8 "Normalizing Possibility Distributions Using t-Norms" 2
+23 "Probabilities for a probabilistic network: a case study in oesophageal cancer" 10
+19 "A Theory of Inferred Causation" 4
+6 "Learning Equivalence Classes of Bayesian-Network Structures" 14
+26 "Uncertain Reasoning in Concept Lattices" 1
+75 "Accelerated Quantification of Bayesian Networks with Incomplete Data" 1
+0 "Current Approaches to Handling Imperfect Information in Data and Knowledge Bases" 2
+*Edges 97
+0 1 1
+2 3 1
+0 4 1
+0 5 1
+6 7 1
+8 9 1
+10 11 1
+12 13 1
+14 15 1
+16 17 1
+18 19 1
+18 4 1
+20 21 1
+22 12 1
+23 24 1
+25 26 1
+27 28 1
+29 30 1
+18 31 1
+18 32 1
+15 14 1
+18 33 1
+34 35 1
+36 3 1
+11 10 1
+37 38 1
+17 16 1
+39 40 1
+41 34 1
+37 1 1
+24 23 1
+21 20 1
+42 43 1
+12 12 1
+44 3 1
+18 45 1
+3 36 1
+46 6 1
+10 10 1
+0 47 1
+7 6 1
+48 49 1
+50 50 1
+34 41 1
+51 52 1
+53 3 1
+54 55 1
+35 34 1
+10 56 1
+57 58 1
+0 59 1
+56 11 1
+3 2 1
+58 57 1
+43 42 1
+60 3 1
+9 8 1
+56 10 1
+55 54 1
+0 61 1
+62 3 1
+3 53 1
+63 64 1
+65 66 1
+67 68 1
+69 69 1
+18 70 1
+71 3 1
+3 62 1
+3 44 1
+72 73 1
+18 74 1
+18 75 1
+64 63 1
+49 48 1
+76 77 1
+30 29 1
+77 76 1
+52 51 1
+28 27 1
+73 72 1
+18 78 1
+37 79 1
+3 60 1
+0 80 1
+81 52 1
+11 56 1
+13 12 1
+82 68 1
+52 81 1
+12 22 1
+0 83 1
+3 71 1
+6 46 1
+40 39 1
+0 84 1
+85 0 1

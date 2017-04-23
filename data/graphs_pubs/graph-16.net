@@ -1,0 +1,688 @@
+*Vertices 235
+174 "Multi-relational data mining: the current frontiers" 8
+157 "Applying Hash Filters to Improving the Execution of Bushy Trees" 1
+124 "Distance-Associated Join Indices for Spatial Range Search" 8
+28 "Discovery of Multiple-Level Association Rules from Large Databases" 47
+193 "Discovery of Decision Rules in Relational Databases: A Rough Set Approach" 1
+97 "Data Mining: Machine Learning, Statistics, and Databases" 3
+77 "A Case-Based Reasoning Approach for Associative Query Answering" 1
+192 "Data Surveyor: Searching the Nuggets in Parallel" 1
+4 "A Distribution-Based Clustering Algorithm for Mining in Large Spatial Databases" 4
+105 "Constraint-Based Query Evaluation in Deductive Databases" 1
+209 "Inductive Databases and Condensed Representations for Data Mining" 1
+191 "Efficiently Constructing Relational Features from Background Knowledge for Inductive Machine Learning" 1
+74 "Gene Expression and Fast Construction of Distributed Evolutionary Representation" 20
+95 "Inferring Knowledge from Frequent Patterns" 2
+130 "Interleaving a Join Sequence with Semijoins in Distributed Query Processing" 7
+36 "Incremental Clustering for Mining in a Data Warehousing Environment" 4
+94 "On Optimal Processor Allocation to Support Pipelined Hash Joins" 13
+126 "DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases" 0
+51 "Mining Surprising Patterns Using Temporal Description Length" 3
+179 "Online Generation of Profile Association Rules" 2
+34 "A New Framework For Itemset Generation" 4
+202 "Efficient Data Mining for Path Traversal Patterns in Distributed Systems" 2
+146 "Learning Arbiter and Combiner Trees from Partitioned Data for Scaling Machine Learning" 1
+45 "A Data Mining Application: Customes Retention at the Port of Singapore Authority (PSA)" 0
+187 "Knowledge Discovery and Data Mining: Towards a Unifying Framework" 3
+113 "On Applying Hash Filters to Improving the Execution of Multi-Join Queries" 0
+197 "Efficient Time Series Matching by Wavelets" 1
+225 "Towards Efficient Induction Mechanisms in Database Systems" 2
+30 "Mining Sequential Patterns: Generalizations and Performance Improvements" 8
+125 "Finding Generalized Projected Clusters In High Dimensional Spaces" 0
+15 "Using Unknowns to Prevent Discovery of Association Rules" 36
+11 "Itemset Materializing for Fast Mining of Association Rules" 0
+89 "Discovering Frequent Episodes in Sequences" 23
+23 "Selective Materialization: An Efficient Method for Spatial Data Cube Construction" 1
+98 "The KDD Process for Extracting Useful Knowledge from Volumes of Data" 3
+116 "Metarule-Guided Mining of Multi-Dimensional Association Rules Using Data Cubes" 6
+215 "Measuring Lift Quality in Database Marketing" 16
+48 "Using Sample Size to Limit Exposure to Data Mining" 19
+186 "Enhanced Nearest Neighbour Search on the R-tree" 32
+101 "First-Order Logic Reducible Programs" 0
+199 "Explaining Differences in Multidimensional Aggregates" 3
+46 "Incremental FO(+, ) Maintenance of All-Pairs Shortest Paths for Undirected Graphs after Insertions and Deletions" 1
+3 "Parallel Optimisation of Join Queries Using an Enhanced Iterative Improvement Technique" 1
+61 "Scalable Parallel Data Mining for Association Rules" 5
+185 "Exploiting the Features of Asymmetry for Query Processing in a Mobile Computing Environment" 0
+83 "Compilation-Based List Processing in Deductive Databases" 2
+171 "On the Surprising Behavior of Distance Metrics in High Dimensional Spaces" 0
+63 "Modeling KDD Processes within the Inductive Database Framework" 1
+182 "Inductive Logic Programming and Knowledge Discovery in Databases" 3
+100 "Dynamic Finite Versioning: An Effective Versioning Approach to Concurrent Transaction and Query Processing" 3
+203 "Induction of Rules Subject to a Quality Constraint: Probabilistic Inductive Learning" 1
+223 "Spatial Data Mining: Progress and Challenges" 2
+131 "Combining Join and Semi-Join Operations for Distributed Query Processing" 4
+16 "Privacy Problems with Anonymized Transaction Databases" 8
+183 "On Subjective Measures of Interestingness in Knowledge Discovery" 5
+37 "Sampling Large Databases for Association Rules" 24
+159 "Introduction to the Special Issue on Meta-Learning" 4
+189 "Integrating Mining with Relational Database Systems: Alternatives and Implications" 10
+154 "Discovering Association Rules Based on Image Content" 2
+92 "Efficient Mining of Partial Periodic Patterns in Time Series Database" 2
+86 "Discovery, Analysis, and Presentation of Strong Rules" 33
+88 "A Fine Grained Heuristic to Capture Web Navigation Patterns" 17
+90 "Constrained frequent pattern mining: a pattern-growth view" 30
+167 "Structural Issues in Active Rule Systems" 1
+175 "Prospects and challenges for multi-relational data mining" 25
+104 "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise" 27
+64 "BIOKDD01: Workshop on Data Mining in Bioinformatics" 2
+85 "Using a Hash-Based Method with Transaction Trimming for Mining Association Rules" 5
+211 "Signature-Based Text Retrieval Methods: A Survey" 12
+231 "Parallel Classification for Data Mining on Shared-Memory Multiprocessors" 0
+230 "Exploratory Mining via Constrained Frequent Set Queries" 0
+110 "A Fast Distributed Algorithm for Mining Association Rules" 4
+91 "Mining Frequent Patterns by Pattern-Growth: Methodology and Implications" 17
+184 "State of the art of graph-based data mining" 44
+137 "Efficient Attribute-Oriented Generalization for Knowledge Discovery from Large Databases" 0
+169 "Evaluation of functional linear recursions: a compilation approach" 3
+120 "Efficient Algorithms for Discovering Frequent Sets in Incremental Databases" 3
+206 "A New Method for Similarity Indexing of Market Basket Data" 1
+123 "Join Index Hierarchies for Supporting Efficient Navigations in Object-Oriented Databases" 9
+148 "The Role of Approximations in Maintaining and Using Aggregate Views" 0
+78 "Data mining, Hypergraph Transversals, and Machine Learning" 1
+43 "Mining Knowledge at Multiple Concept Levels" 2
+133 "On Parallel Execution of Multiple Pipelined Hash Joins" 7
+9 "An Average Linear Time Algorithm For Web Usage Mining" 11
+164 "Link mining: a new data mining challenge" 52
+140 "Semantic Integration in Heterogeneous Databases Using Neural Networks" 6
+188 "A Perspective on Databases and Data Mining" 5
+145 "Towards Long Pattern Generation in Dense Databases" 25
+57 "Mining Frequent Itemsets Using Support Constraints" 0
+136 "SQLEM: Fast Clustering in SQL using the EM Algorithm" 0
+108 "DBMiner: A System for Mining Knowledge in Large Relational Databases" 7
+149 "Compressed Data Cubes for OLAP Aggregate Query Approximation on Continuous Dimensions" 2
+207 "Report on MDM/KDD2000: The 1st International Workshop on Multimedia Data Mining" 1
+56 "A General Incremental Technique for Maintaining Discovered Association Rules" 1
+79 "First-Order jk-Clausal Theories are PAC-Learnable" 4
+153 "Approximating Multi-Dimensional Aggregate Range Queries over Real Attributes" 0
+22 "Online Generation of Association Rules" 5
+5 "From Data Mining to Knowledge Discovery: An Overview" 14
+25 "Meta-Rule-Guided Mining of Association Rules in Relational Databases" 4
+10 "Scheduling and Processor Allocation for Parallel Execution of Multi-Join Queries" 17
+214 "Discovering Generalized Episodes Using Minimal Occurrences" 6
+201 "Performance Analysis of Superimpossing-Coded Signature-Files" 1
+58 "Integrating Classification and Association Rule Mining" 4
+142 "Datascape Survey Using the Cascade Model" 7
+38 "Using Segmented Right-Deep Trees for the Execution of Pipelined Hash Joins" 19
+6 "Data Mining: An Overview from a Database Perspective" 17
+129 "A Graph Theoretical Approach to Determine a Join Reducer Sequence in Distributed Query Processing" 1
+13 "Methods and Problems in Data Mining" 2
+141 "Multiple Uses of Frequent Sets and Condensed Representations (Extended Abstract)" 2
+226 "Generalization-Based Data Mining in Object-Oriented Databases Using an Object Cube Model" 1
+50 "Combining Data and Text Mining Techniques for Yeast Gene Regulation Prediction: A Case Study" 16
+70 "STING: A Statistical Information Grid Approach to Spatial Data Mining" 9
+220 "Data mining in bioinformatics: report on BIOKDD'03" 1
+181 "Using Approximations to Scale Exploratory Data Analysis in Datacubes" 1
+150 "Data Mining-based Intrusion Detectors: An Overview of the Columbia IDS Project" 10
+68 "Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique" 13
+87 "Supervised Versus Unsupervised Binary-Learning by Feedforward Neural Networks" 14
+176 "Data Mining and Knowledge Discovery in Databases: Implications for Scientific Databases" 0
+195 "On the Application of ROC Analysis to Predict Classification Performance Under Varying Class Distributions" 27
+44 "Discovery of Spatial Association Rules in Geographic Information Databases" 5
+111 "HierarchyScan: A Hierarchical Similarity Search Algorithm for Databases of Long Sequences" 3
+65 "BIOKDD 2002: Recent Advanced in Data Minig for Bioinformatics" 3
+62 "Query Driven Knowledge Discovery in Multidimensional Data" 0
+128 "Performance Analysis of Dynamic Finite Versioning for Concurrency Transaction and Query Processing" 2
+117 "Efficient Algorithms for Discovering Association Rules" 20
+143 "Medical Knowledge Discovery on the Meningoencephalitis Diagnosis Studied by the Cascade Model" 5
+151 "Mining System Audit Data: Opportunities and Challenges" 10
+156 "Hash Based Parallel Algorithms for Mining Association Rules" 2
+178 "Dynamic Generation and Refinement of Concept Hierarchies for Knowledge Discovery in Databases" 5
+163 "Sampling algorithms for pure network topologies: a study on the stability and the separability of metric embeddings" 24
+232 "Experiments on Multi-Strategy Learning by Meta-Learning" 3
+222 "The Role of Associativity and Commutativity in the Detection and Transformation of Loop-level Parallelism" 21
+161 "Polynomial Time Designs toward Both BCNF and Efficient Data Manipulation" 0
+69 "What Makes Patterns Interesting in Knowledge Discovery Systems" 6
+53 "An Effective Hash Based Algorithm for Mining Association Rules" 44
+49 "From Data Mining to Knowledge Discovery in Databases" 146
+118 "A Statistical Perspective on Knowledge Discovery in Databases" 4
+31 "Fast Algorithms for Mining Association Rules in Large Databases" 101
+41 "Efficient Discovery of Interesting Statements in Databases" 4
+35 "Mining Quantitative Association Rules in Large Relational Tables" 28
+115 "Is pushing constraints deeply into the mining algorithms really what we want?: an alternative approach for association rule mining" 21
+144 "Advances in frequent itemset mining implementations: report on FIMI'03" 28
+134 "Efficient Data Mining for Path Traversal Patterns" 2
+127 "Discovery of Frequent Episodes in Event Sequences" 2
+155 "Data Mining of Association Rules and the Process of Knowledge Discovery in Databases" 14
+234 "Query Processing in Tertiary Memory Databases" 15
+224 "Translation of SQL queries into a graph structure: query transformations and pre-optimization issues in a pipeline multiprocessor environment" 1
+177 "Statistical Themes and Lessons for Data Mining" 2
+40 "Discovering All Most Specific Sentences by Randomized Algorithms" 4
+52 "Finding Interesting Rules from Large Sets of Discovered Association Rules" 27
+212 "Multilevel Hypergraph Partitioning: Application in VLSI Domain" 1
+204 "Statistical Technique for Extracting Classificatory Knowledge from Databases" 5
+2 "Parallel Optimization of Large Join Queries with Set Operators and Aggregates in a Parallel Environment Supporting Pipeline" 1
+160 "First-Order Logic Characterization of Program Properties" 1
+109 "OLAP Mining: Integration of OLAP with Data Mining" 4
+21 "Mining Knowledge Rules from Databases: A Rough Set Approach" 0
+158 "Combining Classifiers with Meta Decision Trees" 26
+162 "Constant-Time Maintainability: A Generalization of Independence" 2
+60 "Knowledge Discovery in Large Spatial Databases: Focusing Techniques for Efficient Class Identification" 11
+81 "Editorial: special issue on learning from imbalanced data sets" 31
+107 "GeoMiner: A System Prototype for Spatial Data Mining" 1
+76 "A Database Interface for Clustering in Large Spatial Databases" 12
+7 "Efficient Parallel and Data Mining for Association Rules" 7
+102 "Independence of Logic Database Queries and Updates" 9
+82 "An Empirical Comparison of Three Boosting Algorithms on Real Data Sets with Artificial Class Noise" 6
+33 "Knowledge Discovery from Telecommunication Network Alarm Databases" 4
+217 "Mining Association Rules with Multiple Minimum Supports" 1
+132 "Algorithms for Inferring Functional Dependencies from Relations" 7
+233 "Execution Reordering for Tertiary Memory Access" 1
+112 "FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets" 21
+219 "Extending Naive Bayes Classifiers Using Long Itemsets" 1
+99 "Performance Analysis of Dynamic Finite Versioning Schemes: Storage Cost vs. Obsolescence" 0
+198 "Advances of the DBLearn System for Knowledge Discovery in Large Databases" 1
+147 "Fast Searching by Content in Multimedia Databases" 1
+121 "An Evolutionary Approach to Mining Robust Multi-Resolution Web Profiles and Context Sensitive URL Associations" 6
+27 "Use of Contextaul Information for Feature Ranking and Discretization" 1
+39 "Determining Beneficial Semijoins for a Join Sequence in Distributed Query Processing" 1
+93 "Applying Segmented Right-Deep Trees to Pipelining Multiple Hash Joins" 2
+75 "The Gene Expression Messy Genetic Algorithm" 39
+170 "Modelling Resource Utilization in Pipelined Query Execution" 1
+210 "Bit-Sliced Signature Files for Very Large Text Databases an a Parallel Machine Architecture" 1
+84 "Constraint-Based Reasoning in Deductive Databases" 4
+80 "Explora: A Multipattern and Multistrategy Discovery Assistant" 1
+152 "Clustering Based On Association Rule Hypergraphs" 6
+229 "Using Field Specifications to Determine Attribute Equivalence in Heterogeneous Databases" 1
+26 "R-MINI: An Iterative Approach for Generating Minimal Rules from Examples" 1
+18 "Towards Effective and Interpretable Data Mining by Visual Interaction" 33
+165 "On the Boundedness of Constant-Time-Maintainable Database Schemes" 3
+194 "Lazy Learning of Bayesian Rules" 45
+139 "Semint: A System Prototype for Semantic Integration in Heterogeneous Databases" 0
+168 "Feature Subset Selection Using the Wrapper Method: Overfitting and Dynamic Search Space Topology" 3
+55 "Stochastic Attribute Selection Committees" 25
+103 "Incremental Generalization for Mining in a Data Warehousing Environment" 1
+59 "Using Join Operations as Reducers in Distributed Query Processing" 2
+19 "Parallel Mining Algorithms for Generalized Association Rules with Classification Hierarchy" 1
+54 "An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants" 210
+166 "Decidability and Undecidability Results for the Termination Problem of Active Database Rules" 1
+17 "Visualizing and discovering non-trivial patterns in large time series databases" 29
+119 "Automatic generation of compiled forms for linear recursions" 3
+106 "Chain-Split Evaluation in Deductive Databases" 1
+96 "Closed Set Based Discovery of Maximal Covering Rules" 2
+1 "Systems for Knowledge Discovery in Databases" 3
+213 "Levelwise Search and Borders of Theories in Knowledge Discovery" 8
+20 "Efficient Mining of Association Rules in Distributed Databases" 2
+135 "Hypergraph Based Clustering in High-Dimensional Data Sets: A Summary of Results" 1
+0 "NeuroRule: A Connectionist Approach to Data Mining" 4
+208 "MDM/KDD 2002: Multimedia Data Mining between Promises and Problems" 6
+67 "Feature Engineering for a Gene Regulation Prediction Task" 2
+8 "Web Usage Mining: Discovery and Applications of Usage Patterns from Web Data" 129
+138 "Effective Data Mining Using Neural Networks" 0
+196 "Guest Editor's Introduction: Knowledge Discovery in Databases-from Research to Applications" 1
+72 "Attribute-Oriented Induction in data Mining" 5
+180 "An Information Theoretic Approach to Rule Induction from Databases" 6
+200 "Signature False Drops due to Combinatorial Error" 0
+221 "Pattern Discovery in Temporal Databases: A Temporal Logic Approach" 1
+228 "Candidate Elimination Criteria for Lazy Bayesian Rules" 2
+12 "Towards On-Line Analytical Mining in Large Databases" 3
+218 "Mining Databases: Towards Algorithms for Knowledge Discovery" 1
+42 "Automatic Subspace Clustering of High Dimensional Data for Data Mining Applications" 14
+122 "Extracting Web User Profiles Using Relational Competitive Fuzzy Clustering" 18
+114 "Algorithms for Association Rule Mining - A General Survey and Comparison" 71
+73 "A Road Map to More Effective Web Personalization: Integrating Domain Knowledge with Web Usage Mining" 19
+173 "Predicting Equity Returns from Securities Data" 1
+47 "Maintaining Constrained Transitive Closure by Conjunctive Queries" 2
+227 "Efficient Mining of Emerging Patterns: Discovering Trends and Differences" 2
+71 "Mining Frequent Patterns without Candidate Generation" 2
+14 "Approximate Inference of Functional Dependencies from Relations" 4
+24 "A Metapattern-Based Automated Discovery Loop for Integrated Data Mining - Unsupervised Learning of Relational Patterns" 1
+205 "Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs" 5
+32 "Mining Large Itemsets for Association Rules" 1
+216 "The True Lift Model - A Novel Data Mining Approach to Response Modeling in Database Marketing" 6
+66 "An Extensive Empirical Study of Feature Selection Metrics for Text Classification" 30
+172 "What Is the Nearest Neighbor in High Dimensional Spaces?" 1
+190 "Multi-relational data mining: an introduction" 32
+29 "Efficient and Effective Clustering Methods for Spatial Data Mining" 55
+*Edges 451
+0 1 1
+2 3 1
+4 5 1
+6 7 1
+8 9 1
+2 10 1
+11 12 1
+13 14 1
+15 16 1
+17 18 1
+19 20 1
+21 1 1
+22 6 1
+12 23 1
+24 25 1
+26 27 1
+13 28 1
+22 29 1
+30 31 1
+32 7 1
+33 5 1
+34 35 1
+36 31 1
+32 37 1
+38 39 1
+40 41 1
+42 37 1
+43 44 1
+45 35 1
+22 28 1
+46 47 1
+13 37 1
+48 15 1
+49 50 1
+10 38 1
+51 52 1
+53 29 1
+54 55 1
+56 7 1
+50 49 1
+57 58 1
+39 59 1
+32 22 1
+36 60 1
+20 53 1
+61 30 1
+19 7 1
+62 63 1
+64 65 1
+66 67 1
+33 31 1
+68 53 1
+51 69 1
+70 29 1
+71 31 1
+4 29 1
+24 72 1
+73 8 1
+74 75 1
+42 76 1
+11 53 1
+20 77 1
+56 35 1
+78 79 1
+6 80 1
+55 54 1
+81 66 1
+54 82 1
+83 84 1
+6 5 1
+85 86 1
+87 81 1
+88 9 1
+78 89 1
+90 91 1
+71 92 1
+93 94 1
+95 96 1
+11 37 1
+97 28 1
+98 5 1
+40 89 1
+37 31 1
+99 100 1
+101 102 1
+103 104 1
+105 106 1
+71 53 1
+6 25 1
+43 86 1
+67 66 1
+107 108 1
+62 109 1
+68 52 1
+13 52 1
+61 61 1
+43 72 1
+9 88 1
+22 53 1
+56 110 1
+45 31 1
+71 52 1
+111 112 1
+4 60 1
+113 94 1
+114 115 1
+12 116 1
+6 117 1
+30 28 1
+11 117 1
+6 35 1
+85 31 1
+66 81 1
+97 118 1
+6 118 1
+107 31 1
+6 28 1
+105 119 1
+36 120 1
+107 28 1
+121 122 1
+42 29 1
+123 124 1
+125 112 1
+12 28 1
+31 117 1
+20 31 1
+126 28 1
+103 76 1
+71 127 1
+42 78 1
+100 128 1
+129 130 1
+34 85 1
+129 131 1
+91 90 1
+40 132 1
+93 133 1
+97 89 1
+134 86 1
+19 110 1
+22 31 1
+22 37 1
+135 6 1
+32 85 1
+136 42 1
+43 28 1
+6 60 1
+7 53 1
+137 86 1
+7 31 1
+138 0 1
+98 118 1
+139 140 1
+13 141 1
+85 117 1
+142 143 1
+34 52 1
+143 142 1
+112 31 1
+144 145 1
+6 146 1
+34 6 1
+147 31 1
+42 35 1
+97 141 1
+148 149 1
+13 5 1
+70 104 1
+56 31 1
+20 68 1
+22 52 1
+150 151 1
+135 31 1
+135 152 1
+153 149 1
+134 29 1
+136 154 1
+155 114 1
+107 44 1
+33 41 1
+70 60 1
+99 128 1
+19 156 1
+36 29 1
+157 94 1
+133 38 1
+22 86 1
+158 159 1
+6 68 1
+160 102 1
+28 31 1
+161 162 1
+33 117 1
+94 10 1
+6 108 1
+163 164 1
+161 165 1
+11 98 1
+166 167 1
+22 35 1
+6 31 1
+125 168 1
+125 104 1
+71 116 1
+83 169 1
+2 170 1
+33 52 1
+125 4 1
+40 79 1
+61 31 1
+113 130 1
+171 172 1
+19 31 1
+65 64 1
+26 173 1
+174 175 1
+35 53 1
+176 177 1
+38 94 1
+6 29 1
+28 178 1
+157 38 1
+32 179 1
+26 180 1
+131 130 1
+148 181 1
+6 182 1
+6 183 1
+62 52 1
+174 184 1
+175 163 1
+185 130 1
+82 54 1
+186 112 1
+27 26 1
+162 165 1
+134 85 1
+8 73 1
+20 29 1
+12 110 1
+36 104 1
+103 187 1
+37 117 1
+70 49 1
+42 104 1
+12 31 1
+43 52 1
+13 188 1
+78 41 1
+38 10 1
+71 189 1
+36 68 1
+174 190 1
+93 10 1
+97 79 1
+92 28 1
+10 130 1
+189 30 1
+92 31 1
+61 89 1
+24 191 1
+78 132 1
+97 192 1
+12 72 1
+6 72 1
+21 193 1
+194 195 1
+37 28 1
+20 7 1
+45 28 1
+16 15 1
+97 5 1
+56 108 1
+175 164 1
+37 0 1
+13 41 1
+13 33 1
+35 117 1
+112 29 1
+0 196 1
+75 74 1
+69 52 1
+22 117 1
+157 10 1
+37 188 1
+151 150 1
+78 117 1
+70 6 1
+115 114 1
+197 186 1
+6 43 1
+13 97 1
+137 198 1
+199 28 1
+94 38 1
+200 201 1
+43 53 1
+56 68 1
+6 202 1
+31 86 1
+203 204 1
+57 117 1
+20 52 1
+1 86 1
+12 25 1
+113 93 1
+78 40 1
+33 89 1
+12 205 1
+206 31 1
+163 175 1
+159 158 1
+207 208 1
+81 87 1
+12 29 1
+11 31 1
+85 29 1
+134 28 1
+13 79 1
+175 174 1
+32 34 1
+62 209 1
+114 155 1
+37 53 1
+103 31 1
+210 211 1
+7 29 1
+32 31 1
+164 163 1
+105 83 1
+51 68 1
+57 34 1
+6 44 1
+19 61 1
+32 6 1
+32 28 1
+6 112 1
+56 52 1
+6 53 1
+6 111 1
+133 94 1
+11 68 1
+43 31 1
+135 212 1
+145 144 1
+11 213 1
+57 71 1
+57 53 1
+85 28 1
+34 31 1
+13 214 1
+105 169 1
+32 117 1
+215 216 1
+106 84 1
+12 109 1
+57 217 1
+6 86 1
+97 33 1
+88 8 1
+69 86 1
+208 207 1
+218 183 1
+133 157 1
+37 52 1
+57 219 1
+133 10 1
+176 5 1
+6 52 1
+93 130 1
+57 31 1
+137 53 1
+15 48 1
+137 31 1
+6 0 1
+12 68 1
+129 10 1
+176 183 1
+220 65 1
+56 53 1
+40 28 1
+13 221 1
+107 104 1
+56 0 1
+6 178 1
+222 222 1
+43 178 1
+107 6 1
+220 64 1
+35 86 1
+32 52 1
+136 29 1
+13 89 1
+70 223 1
+30 89 1
+2 224 1
+68 31 1
+190 174 1
+125 42 1
+57 28 1
+163 163 1
+96 95 1
+35 31 1
+12 44 1
+8 88 1
+35 28 1
+56 28 1
+134 31 1
+122 121 1
+137 225 1
+131 59 1
+107 29 1
+12 226 1
+28 52 1
+35 183 1
+61 28 1
+34 22 1
+71 227 1
+189 37 1
+36 103 1
+125 29 1
+92 89 1
+184 174 1
+228 195 1
+97 188 1
+9 8 1
+20 28 1
+216 215 1
+19 30 1
+32 35 1
+68 29 1
+40 97 1
+164 175 1
+68 28 1
+97 214 1
+140 229 1
+103 68 1
+230 189 1
+13 35 1
+18 17 1
+136 104 1
+106 169 1
+231 232 1
+28 86 1
+65 220 1
+28 53 1
+53 31 1
+57 227 1
+36 187 1
+233 234 1
