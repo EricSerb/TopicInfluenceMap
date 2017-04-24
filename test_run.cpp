@@ -33,5 +33,15 @@ void testSuite()
 		<< " milliseconds" << endl;
 		
 		
+	//Testing SumProd Alg
+	start = std::chrono::high_resolution_clock::now();
+	testSumProd();
+	end = std::chrono::high_resolution_clock::now();
+
+	cout << "testSumProd() took " 
+		<< std::chrono::duration<double, std::milli>(end - start).count() 
+		<< " milliseconds" << endl;
+		
+		
 	cout << "finished tests" << endl;
 }

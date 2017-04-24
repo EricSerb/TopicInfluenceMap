@@ -27,5 +27,8 @@ void testRead();
 //Function to test reading in multiple files, each file is a topic
 void testMultiRead();
 
+//Function to test SumProd
+void testSumProd();
+
 
 #endif

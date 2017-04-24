@@ -1,6 +1,7 @@
 #include "graph.hpp"
 #include "test.hpp"
 
+
 #define DEBUG
 
 int main(int argc, char**argv)
@@ -34,6 +35,12 @@ int main(int argc, char**argv)
 	 * going to treat it as one giant topic graph movies
 	 * TODO: create readin for newmovies that seperates them into nodes
 	 */
+
+	DIR* dir = opendir("results");
+	if(!dir)
+	{
+		system("mkdir results");
+	}
 	
 	ofstream data_file("results/data.txt", std::fstream::out | std::fstream::app);
 	string path = argv[1];
@@ -47,17 +54,27 @@ int main(int argc, char**argv)
 	data_file << "******Running tests for " << path << " " << 
 	std::asctime(std::localtime(&ct)) << endl << endl;
 	
-	//1
+	//1 Read in Data
 	auto start = std::chrono::high_resolution_clock::now();
-	unordered_map<int, Graph> graph = MultiFileRead(path);
+	unordered_map<int, shared_ptr<Graph>> graph = MultiFileRead(path);
 	auto end = std::chrono::high_resolution_clock::now();
 	
 	
 	auto time = std::chrono::duration<double>(end - start).count();
 	cout << "Read in finished in " << time << " seconds" << endl;
 	data_file << "Read in finished in " << time << " seconds" << endl << endl;
+
 	
-	//2
+	
+	//2 SumProd Alg
+	start = std::chrono::high_resolution_clock::now();
+	MultiGraphSumProd(graph);
+	end = std::chrono::high_resolution_clock::now();
+	
+	
+	time = std::chrono::duration<double>(end - start).count();
+	cout << "SumProd Alg finished in " << time << " seconds" << endl;
+	data_file << "SumProd Alg finished in " << time << " seconds" << endl << endl;
 
 	
 	//Finish printing results to file and clean everything up

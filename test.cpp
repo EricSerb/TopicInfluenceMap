@@ -54,6 +54,13 @@ vector<vector<Edge>> testEdges()
 	temp->weight = 1;
 	test_edges[temp->start_node].push_back(*temp);
 	delete temp;
+	temp = new Edge;
+	temp->start_node = 1;
+	temp->end_node = 2;
+	temp->weight = 1;
+	test_edges[temp->start_node].push_back(*temp);
+	delete temp;
+
 
 	//Node 2
 	temp = new Edge;
@@ -92,6 +99,7 @@ void testRead()
 	vector<int> node_ids = {0, 1, 2, 3};
 	vector<string> node_names = {"Eric Serbousek", "Bree Lavalle", "Adam Stallard", "Brandon Stephens"};
 	vector<int> node_weights = {10, 5, 8, 3};
+	vector<int> leafs = {3};
 
 	auto test_edges = testEdges();
 	
@@ -132,6 +140,20 @@ void testRead()
 		delete test_graph;
 		exit(1);
 	}
+	
+	//test leafs
+	for(int i = 0; i < test_graph->getLeafsSize(); ++i)
+	{
+		if(test_graph->getLeaf(i) != leafs[i])
+		{
+			cout << "leafs in graph are wrong... check function" << endl;
+			cout << "Leafs in test graph:" << endl;
+			for(int k = 0; k < test_graph->getLeafsSize(); k++)
+				cout << test_graph->getLeaf(k) << endl;
+			exit(1);
+		}
+	}
+	
 	test_edges.clear();
 	delete test_graph;
 }
@@ -140,21 +162,23 @@ void testRead()
 void testMultiRead()
 {
 	string path = "test_data";
-	unordered_map<int, Graph> graph = MultiFileRead(path);
+	unordered_map<int, shared_ptr<Graph>> graph = MultiFileRead(path);
 	
 	//need to test all the nodes are correct and edges
 	//node info
 	vector<int> node_ids = {0, 1, 2, 3};
 	vector<string> node_names = {"Eric Serbousek", "Bree Lavalle", "Adam Stallard", "Brandon Stephens"};
 	vector<int> node_weights = {10, 5, 8, 3};
+	vector<int> leafs = {3};
 
 	auto test_edges = testEdges();
+	
 	
 	for (auto test_graph : graph)
 	{
 		for (unsigned int i = 0; i < node_ids.size(); i++)
 		{
-			shared_ptr<Node> graph_node = test_graph.second.getNode(i);
+			shared_ptr<Node> graph_node = test_graph.second->getNode(i);
 	// 		cout << "node_id " << graph_node->getId() << " i " << i << endl;
 			if ((graph_node->getId() == node_ids[i]) && 
 				(graph_node->getName().compare(node_names[i])) && 
@@ -188,9 +212,70 @@ void testMultiRead()
 			test_edges.clear();
 			exit(1);
 		}
+		
+		//test leafs
+		for(int i = 0; i < test_graph.second->getLeafsSize(); ++i)
+		{
+			if(test_graph.second->getLeaf(i) != leafs[i])
+			{
+				cout << "leafs in graph are wrong... check function" << endl;
+				cout << "Leafs in test graph:" << endl;
+				for(int k = 0; k < test_graph.second->getLeafsSize(); k++)
+					cout << test_graph.second->getLeaf(k) << endl;
+				exit(1);
+			}
+		}
 	}
+	
 	test_edges.clear();
 	graph.clear();
 }
+
+
+void testSumProd()
+{
+	Graph* test_graph = new Graph();
+	vector<unsigned int> test_gs = {1440, 2880, 1800, 4800, 7200, 7200, 4800};
+
+	test_graph->init("test_data/sptestgraph.txt");
+	
+	test_graph->sumProd();
+	
+	for(unsigned int i = 0; i < test_gs.size(); ++i)
+	{
+		if(test_graph->getNode(i)->getG() != test_gs[i])
+		{
+			cout << "Node " << i << " g val: " << test_graph->getNode(i)->getG() << endl;
+			cout << "Test Node g val: " << test_gs[i] << endl;
+			test_gs.clear();
+			delete test_graph;
+			exit(1);
+		}
+	}
+	test_gs.clear();
+	delete test_graph;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

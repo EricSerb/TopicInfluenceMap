@@ -1,8 +1,11 @@
-*Vertices 4
+*Vertices 7
 0 "Eric Serbousek" 10
-1	"Bree Lavalle" 5
-2 "Adam Stallard" 8
-3 "Brandon Stephens" 3
+1 "Bree Lavalle" 5
+2	"Adam Stallard" 8
+3	"Brandon Stephens" 3
+4 "Matt Schro" 2
+5 "Pais" 2
+6 "Mags" 3
 
 these lines are to make sure read in only x number of lines under Vertices and
 all lines after Edges but nothing else
@@ -15,4 +18,6 @@ node1, paperid of node2, #cited (always 1)
 0 1 1
 0 2 1
 0 3 1
-1 2 1
+0 4 1
+4 5 1
+5 6 1
