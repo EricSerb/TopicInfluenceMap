@@ -1,5 +1,0 @@
-******Running tests for data/graphs_pubs/ Mon Apr 24 12:40:23 2017
-
-
-Read in finished in 1.83781 seconds
-
