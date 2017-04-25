@@ -1,6 +1,6 @@
 #include "graph.hpp"
 
-// #define DEBUG
+#define DEBUG
 #define COUNT
 
 
@@ -40,6 +40,7 @@ void Graph::init(string file)
 			{
 				node->correctWeight();
 			}
+// 			this->total += node->getWeight();
 			this->_graph.insert(make_pair(nid, node));
 			node.reset();
 			
@@ -61,7 +62,6 @@ void Graph::init(string file)
 #ifdef COUNT
 	cout << "A total of " << numVerts << " nodes were read in." << endl;
 #endif
-
 
 	do 
 	{
@@ -89,10 +89,10 @@ void Graph::init(string file)
 		n2->addEdge(std::stoi(tokens[NAME_ID2]), std::stoi(tokens[ID]), std::stoi(tokens[WEIGHT]));
 		
 #ifdef DEBUG
-		cout << "Node: " << n->getId() << endl;
-		n->printEdges();
-		cout << "Node: " << n2->getId() << endl;
-		n2->printEdges();
+// 		cout << "Node: " << n->getId() << endl;
+// 		n->printEdges();
+// 		cout << "Node: " << n2->getId() << endl;
+// 		n2->printEdges();
 #endif
 		
 		n.reset();
@@ -111,6 +111,8 @@ void Graph::init(string file)
 #endif
 
 	ifile.close();
+	
+// 	normalizeWeights();
 	
 	//Find all leaf nodes to start sum prod alg
 	
@@ -195,7 +197,7 @@ bool Graph::checkConverge()
 	for(auto it : this->_graph)
 	{
 		//check if rcv'd messages on all edges and sent msgs on all edges
-		unsigned int p = it.second->calcG();
+		double p = it.second->calcG();
 #ifdef DEBUG
 		cout <<"Node " << it.first << " Old p: " << it.second->getOldProd() << " New p: " << p << endl;
 #endif
@@ -221,20 +223,31 @@ void Node::prepMessage()
 	* Using flooding method to propogate messages since graph contains cycles
 	*/
 	
-	
 	for(auto it : *(this->_edges))
 	{
 		//for each edge, build a message to send to it
-		unsigned int prod = this->weight;
+		double prod = 1;
 		for(auto msgs : this->rcv_msg)
 		{
-			if(msgs.first != it.end_node)
-			{
+			if(msgs.first != it.second.end_node)
 				prod *= msgs.second;
-			}
+			else
+				prod *= it.second.g;
 		}
-		this->to_send.insert(make_pair(it.end_node, prod));
+		//msgs normalized so sum of all 
+		this->to_send.insert(make_pair(it.second.end_node, prod));
 	}
+	
+// 	//normalize msgs to sum to 1
+// 	double tot = getMsgTotal();
+// 	for(auto it : this->to_send)
+// 	{
+// // 		cout << "msg: " << it.second << " total: " << tot << endl;
+// // 		cout << "num should be " << it.second / tot << endl;
+// 		it.second = it.second / tot;
+// // 		cout << "num is " << it.second << endl;
+// // 		cin.get();
+// 	}
 }
 
 
@@ -255,6 +268,8 @@ void Graph::sumProd()
 	//Var Node Part
 	//Product of all incoming messages
 	
+	initG();
+	
 	int maxsteps = 1000000, timestep = 0;
 #ifdef COUNT
 	int cnt_snt;
@@ -267,8 +282,7 @@ void Graph::sumProd()
 		cnt_snt = 0;
 #endif
 		++timestep;
-		if((timestep % 500) == 0)
-			cout << "On step " << timestep << endl;
+		cout << "On step " << timestep << endl;
 		
 		for(auto it : this->_graph)
 		{
@@ -322,12 +336,70 @@ void Graph::sumProd()
 			cout <<"Node: " << it.first << " msg count: " << it.second->msgCount() << " rcv size: " << it.second->rcvMsgSize() <<
 				" snt msgs: " << it.second->sntAllMsgs() << endl;
 		}
-		cin.get();
+// 		cin.get();
 		return;
 	}
 	
 // 	for(auto it : this->_graph)
 // 		it.second->calcG();
+}
+
+
+bool Graph::tapConverge()
+{
+	bool check = true;
+	
+	for(auto it : this->_graph)
+	{
+		for(auto edge = it.second->getEdgesBegin(),  old = it.second->getOldBegin(); edge != it.second->getEdgesEnd() || old != it.second->getOldEnd(); ++edge, ++old)
+		{
+			if(edge->second.r != old->second.r)
+			{
+				check = false;
+				old->second.r = edge->second.r; 
+			}
+			
+			if(edge->second.a != old->second.a)
+			{
+				check = false;
+				old->second.a = edge->second.a; 
+			}
+		}
+	}
+	
+	return check;
+}
+
+
+
+void Graph::TAP()
+{
+// 	initG();
+// 	initB();
+	
+	int maxsteps = 1000000, timestep = 0;
+	do
+	{
+		++timestep;
+		cout << "On step " << timestep << endl;
+		
+		updateR();
+		
+		updateASelf();
+		
+		updateA();
+		
+		this->converged = tapConverge();
+	}while((timestep < maxsteps) && !this->converged);
+	
+	if(this->converged)
+	{
+		cout << "converged" << endl;
+		calcM();
+	}
+	//can do influence stuff
+	
+	cout << "no convergence" << endl;
 }
 
 
@@ -419,6 +491,18 @@ void MultiGraphSumProd(unordered_map<int, shared_ptr<Graph>> graphs)
 	}
 }
 
+void MultiGraphTap(unordered_map<int, shared_ptr<Graph>> graphs)
+{
+	//Could make this parallel by popping each on off into a thread
+	//would make testing faster
+	
+	for(auto it : graphs)
+	{
+		cout << "Started tap on " << it.second->getName() << "..." << endl;
+		it.second->TAP();
+		cout << "Finished tap on " << it.second->getName() << endl;
+	}
+}
 
 
 

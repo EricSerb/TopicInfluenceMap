@@ -2,7 +2,7 @@
 #include "test.hpp"
 
 
-#define DEBUG
+// #define DEBUG
 
 int main(int argc, char**argv)
 {
@@ -65,7 +65,7 @@ int main(int argc, char**argv)
 	data_file << "Read in finished in " << time << " seconds" << endl << endl;
 
 	
-	
+#ifdef DEBUG
 	//2 SumProd Alg
 	start = std::chrono::high_resolution_clock::now();
 	MultiGraphSumProd(graph);
@@ -75,6 +75,23 @@ int main(int argc, char**argv)
 	time = std::chrono::duration<double>(end - start).count();
 	cout << "SumProd Alg finished in " << time << " seconds" << endl;
 	data_file << "SumProd Alg finished in " << time << " seconds" << endl << endl;
+#endif
+	
+	//3 TAP
+	for(auto it : graph)
+	{
+		it.second->initG();
+		it.second->initB();
+	}
+	
+	start = std::chrono::high_resolution_clock::now();
+	MultiGraphTap(graph);
+	end = std::chrono::high_resolution_clock::now();
+	
+	
+	time = std::chrono::duration<double>(end - start).count();
+	cout << "TAP Alg finished in " << time << " seconds" << endl;
+	data_file << "TAP Alg finished in " << time << " seconds" << endl << endl;
 
 	
 	//Finish printing results to file and clean everything up

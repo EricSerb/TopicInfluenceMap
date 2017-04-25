@@ -10,7 +10,7 @@ void testSuite()
 
 	cout << "testParse() took "
 		<< std::chrono::duration<double, std::milli>(end - start).count()
-		<< " milliseconds" << endl;
+		<< " milliseconds" << endl << endl;
 	
 		
 	//Testing Graph class init or read function
@@ -20,7 +20,7 @@ void testSuite()
 
 	cout << "testRead() took " 
 		<< std::chrono::duration<double, std::milli>(end - start).count() 
-		<< " milliseconds" << endl;
+		<< " milliseconds" << endl << endl;
 		
 		
 	//Testing multi file read in
@@ -30,18 +30,18 @@ void testSuite()
 
 	cout << "testMultiRead() took " 
 		<< std::chrono::duration<double, std::milli>(end - start).count() 
-		<< " milliseconds" << endl;
+		<< " milliseconds" << endl << endl;
 		
 		
-	//Testing SumProd Alg
+// 	Testing SumProd Alg
 	start = std::chrono::high_resolution_clock::now();
 	testSumProd();
 	end = std::chrono::high_resolution_clock::now();
 
 	cout << "testSumProd() took " 
 		<< std::chrono::duration<double, std::milli>(end - start).count() 
-		<< " milliseconds" << endl;
+		<< " milliseconds" << endl << endl;
 		
 		
-	cout << "finished tests" << endl;
+	cout << "finished tests" << endl << endl << endl;
 }
