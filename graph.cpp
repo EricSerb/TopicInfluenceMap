@@ -374,8 +374,8 @@ bool Graph::tapConverge()
 
 void Graph::TAP()
 {
-// 	initG();
-// 	initB();
+	initG();
+	initB();
 	
 	int maxsteps = 1000000, timestep = 0;
 	do
@@ -392,14 +392,17 @@ void Graph::TAP()
 		this->converged = tapConverge();
 	}while((timestep < maxsteps) && !this->converged);
 	
-	if(this->converged)
+	if(!this->converged)
 	{
-		cout << "converged" << endl;
-		calcM();
+		cout << "no convergence" << endl;
+		return;
 	}
 	//can do influence stuff
 	
-	cout << "no convergence" << endl;
+	cout << "converged" << endl << endl;;
+	calcM();
+	findY();
+	printY();
 }
 
 

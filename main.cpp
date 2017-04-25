@@ -78,20 +78,15 @@ int main(int argc, char**argv)
 #endif
 	
 	//3 TAP
-	for(auto it : graph)
-	{
-		it.second->initG();
-		it.second->initB();
-	}
-	
 	start = std::chrono::high_resolution_clock::now();
 	MultiGraphTap(graph);
 	end = std::chrono::high_resolution_clock::now();
 	
 	
 	time = std::chrono::duration<double>(end - start).count();
-	cout << "TAP Alg finished in " << time << " seconds" << endl;
+	cout << "TAP Alg finished in " << time << " seconds" << endl << endl;
 	data_file << "TAP Alg finished in " << time << " seconds" << endl << endl;
+	
 
 	
 	//Finish printing results to file and clean everything up

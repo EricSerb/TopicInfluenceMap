@@ -339,6 +339,15 @@ public:
 		this->_edges->at(i).a = a;
 	}
 	
+	void setY(int i)
+	{
+		this->y = i;
+	}
+	
+	int getY()
+	{
+		return this->y;
+	}
 
 private:
 	//Private Funcs
@@ -352,6 +361,7 @@ private:
 	double g_node;
 	unordered_map<int, Edge>* _edges;
 	unordered_map<int, Edge>* _old_edges;
+	int y;
 	double old_Prod;
 // 	shared_ptr<Edge> self_edge;
 	//<msg from, contents>
@@ -532,6 +542,38 @@ public:
 				edge->second.m = 1 / (1 + pow(M_E, -(this->_graph[edge->first]->getEdge(it.first).r + this->_graph[edge->first]->getEdge(it.first).a)));
 			}
 		}
+	}
+	
+	void findY()
+	{
+		for(auto it : this->_graph)
+		{
+			double ms;
+			int idx = -1;
+			for(auto edge = it.second->getEdgesBegin(); edge != it.second->getEdgesEnd(); ++edge)
+			{
+				if(idx == -1)
+				{
+					idx = edge->first;
+					ms = this->_graph[edge->first]->getEdge(it.first).m;
+				}
+				else
+				{
+					if(ms < this->_graph[edge->first]->getEdge(it.first).m)
+					{
+						idx = edge->first;
+						ms = this->_graph[edge->first]->getEdge(it.first).m;
+					}
+				}
+			}
+			it.second->setY(idx);
+		}
+	}
+	
+	void printY()
+	{
+		for(auto it : this->_graph)
+			cout << "Node " << it.first << " y " << it.second->getY() << endl;
 	}
 	
 	
